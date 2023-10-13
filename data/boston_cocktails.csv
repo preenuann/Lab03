@@ -1,0 +1,2543 @@
+name,category,row_id,ingredient_number,ingredient,measure,measure_number
+Gauguin,Cocktail Classics,1,1,light rum,2 oz,2
+Gauguin,Cocktail Classics,1,3,lemon juice,1 oz,1
+Gauguin,Cocktail Classics,1,4,lime juice,1 oz,1
+Fort Lauderdale,Cocktail Classics,2,1,light rum,1.5 oz,1.5
+Fort Lauderdale,Cocktail Classics,2,2,sweet vermouth,.5 oz,0.5
+Fort Lauderdale,Cocktail Classics,2,3,orange juice,.25 oz,0.25
+Fort Lauderdale,Cocktail Classics,2,4,lime juice,.25 oz,0.25
+Cuban Cocktail No. 1,Cocktail Classics,4,1,lime juice,.5 oz,0.5
+Cuban Cocktail No. 1,Cocktail Classics,4,2,powdered sugar,.5 oz,0.5
+Cuban Cocktail No. 1,Cocktail Classics,4,3,light rum,2 oz,2
+Cool Carlos,Cocktail Classics,5,1,dark rum,1.5 oz,1.5
+Cool Carlos,Cocktail Classics,5,2,cranberry juice,2 oz,2
+Cool Carlos,Cocktail Classics,5,3,pineapple juice,2 oz,2
+Cool Carlos,Cocktail Classics,5,4,orange juice,1 oz,1
+John Collins,Whiskies,6,1,bourbon whiskey,2 oz,2
+John Collins,Whiskies,6,2,lemon juice,1 oz,1
+John Collins,Whiskies,6,3,simple syrup,.5 oz,0.5
+Cherry Rum,Cocktail Classics,7,1,light rum,1.25 oz,1.25
+Cherry Rum,Cocktail Classics,7,2,cherry flavored brandy,1.5 oz,1.5
+Cherry Rum,Cocktail Classics,7,3,light cream,1 oz,1
+Casa Blanca,Cocktail Classics,8,1,light rum,2 oz,2
+Casa Blanca,Cocktail Classics,8,2,lime juice,1.5 oz,1.5
+Casa Blanca,Cocktail Classics,8,3,triple sec,1.5 oz,1.5
+Casa Blanca,Cocktail Classics,8,4,maraschino,1.5 oz,1.5
+Caribbean Champagne,Cocktail Classics,9,1,light rum,.5 oz,0.5
+Amber Amour,Cordials and Liqueurs,10,1,amaretto,1.5 oz,1.5
+Amber Amour,Cordials and Liqueurs,10,2,lemon juice,.25 oz,0.25
+Amber Amour,Cordials and Liqueurs,10,3,simple syrup,.25 oz,0.25
+The Joe Lewis,Whiskies,11,4,lemon juice,.5 oz,0.5
+Bacardi Cocktail,Cocktail Classics,12,2,lime juice,.5 oz,0.5
+Bacardi Cocktail,Cocktail Classics,12,3,grenadine,.5 oz,0.5
+Apple Pie No. 1,Cocktail Classics,13,1,light rum,.75 oz,0.75
+Apple Pie No. 1,Cocktail Classics,13,2,sweet vermouth,.75 oz,0.75
+Apple Pie No. 1,Cocktail Classics,13,3,apple brandy,1 oz,1
+Apple Pie No. 1,Cocktail Classics,13,4,grenadine,.5 oz,0.5
+Apple Pie No. 1,Cocktail Classics,13,5,lemon juice,1 oz,1
+Yolanda,Cocktail Classics,14,1,brandy,.5 oz,0.5
+Yolanda,Cocktail Classics,14,2,gin,.5 oz,0.5
+Yolanda,Cocktail Classics,14,3,anisette,.5 oz,0.5
+Yolanda,Cocktail Classics,14,4,sweet vermouth,1 oz,1
+Yolanda,Cocktail Classics,14,5,grenadine,1 oz,1
+Yellow Rattler,Cocktail Classics,15,1,gin,1 oz,1
+Yellow Rattler,Cocktail Classics,15,2,orange juice,1 oz,1
+Yellow Rattler,Cocktail Classics,15,3,dry vermouth,.5 oz,0.5
+Yellow Rattler,Cocktail Classics,15,4,sweet vermouth,.5 oz,0.5
+Why Not?,Cocktail Classics,16,1,gin,1 oz,1
+Why Not?,Cocktail Classics,16,2,apricot flavored brandy,1 oz,1
+Why Not?,Cocktail Classics,16,3,dry vermouth,.5 oz,0.5
+Why Not?,Cocktail Classics,16,4,lemon juice,1 oz,1
+Amaretto Stinger,Cordials and Liqueurs,17,1,amaretto,1.5 oz,1.5
+What The Hell,Cocktail Classics,18,1,gin,1 oz,1
+What The Hell,Cocktail Classics,18,2,dry vermouth,1 oz,1
+What The Hell,Cocktail Classics,18,3,apricot flavored brandy,1 oz,1
+What The Hell,Cocktail Classics,18,4,lemon juice,1 oz,1
+Webster Cocktail,Cocktail Classics,19,1,lime juice,.5 oz,0.5
+Webster Cocktail,Cocktail Classics,19,2,apricot flavored brandy,1.5 oz,1.5
+Webster Cocktail,Cocktail Classics,19,3,dry vermouth,.5 oz,0.5
+Webster Cocktail,Cocktail Classics,19,4,gin,1 oz,1
+Union Jack Cocktail,Cocktail Classics,20,2,gin,1.5 oz,1.5
+Union Jack Cocktail,Cocktail Classics,20,3,grenadine,.5 oz,0.5
+Jocose Julep,Whiskies,21,1,bourbon whiskey,2.5 oz,2.5
+Jocose Julep,Whiskies,21,3,lime juice,1 oz,1
+Jocose Julep,Whiskies,21,4,simple syrup,.5 oz,0.5
+Trinity Cocktail,Cocktail Classics,22,1,sweet vermouth,.75 oz,0.75
+Trinity Cocktail,Cocktail Classics,22,2,dry vermouth,.75 oz,0.75
+Trinity Cocktail,Cocktail Classics,22,3,gin,.75 oz,0.75
+Three Stripes Cocktail,Cocktail Classics,23,1,gin,1 oz,1
+Three Stripes Cocktail,Cocktail Classics,23,2,dry vermouth,.5 oz,0.5
+Three Stripes Cocktail,Cocktail Classics,23,3,orange juice,1 oz,1
+Tanq-A-Rita,Cocktail Classics,24,3,triple sec,1 oz,1
+Amaretto Sour,Cordials and Liqueurs,25,1,amaretto,1.5 oz,1.5
+Amaretto Sour,Cordials and Liqueurs,25,2,lemon juice,.75 oz,0.75
+Amaretto Sour,Cordials and Liqueurs,25,3,simple syrup,.5 oz,0.5
+Amaretto Sour,Cordials and Liqueurs,25,4,orange juice,1,1
+Tailspin Cocktail,Cocktail Classics,26,1,gin,.75 oz,0.75
+Tailspin Cocktail,Cocktail Classics,26,2,sweet vermouth,.75 oz,0.75
+Tailspin Cocktail,Cocktail Classics,26,4,bitters,1 dash,0.02
+Sweet Patootie Cocktail,Cocktail Classics,27,1,gin,1 oz,1
+Sweet Patootie Cocktail,Cocktail Classics,27,2,triple sec,.5 oz,0.5
+Sweet Patootie Cocktail,Cocktail Classics,27,3,orange juice,1 oz,1
+Sunshine Cocktail,Cocktail Classics,28,1,sweet vermouth,.75 oz,0.75
+Sunshine Cocktail,Cocktail Classics,28,2,gin,1.5 oz,1.5
+Sunshine Cocktail,Cocktail Classics,28,3,bitters,1 dash,0.02
+Spring Feeling Cocktail,Cocktail Classics,29,1,lemon juice,1 oz,1
+Spring Feeling Cocktail,Cocktail Classics,29,3,gin,1 oz,1
+Sphinx Cocktail,Cocktail Classics,30,1,gin,1.5 oz,1.5
+Sphinx Cocktail,Cocktail Classics,30,2,sweet vermouth,1.5 oz,1.5
+Sphinx Cocktail,Cocktail Classics,30,3,dry vermouth,1.5 oz,1.5
+Jitterbug Sour,Whiskies,31,1,straight rye whiskey,2 oz,2
+Jitterbug Sour,Whiskies,31,2,benedictine,.5 oz,0.5
+Jitterbug Sour,Whiskies,31,3,lemon juice,.75 oz,0.75
+Jitterbug Sour,Whiskies,31,5,egg white,1 oz,1
+Jitterbug Sour,Whiskies,31,6,bitters,1 dash,0.02
+Southern Gin Cocktail,Cocktail Classics,32,1,gin,2 oz,2
+Southern Gin Cocktail,Cocktail Classics,32,2,bitters,2 dash,0.04
+Southern Gin Cocktail,Cocktail Classics,32,3,triple sec,.5 oz,0.5
+Society Cocktail,Cocktail Classics,33,1,gin,1.5 oz,1.5
+Society Cocktail,Cocktail Classics,33,2,dry vermouth,.75 oz,0.75
+Society Cocktail,Cocktail Classics,33,3,grenadine,.25 oz,0.25
+Snyder,Cocktail Classics,34,1,gin,1.5 oz,1.5
+Snyder,Cocktail Classics,34,2,dry vermouth,.5 oz,0.5
+Snyder,Cocktail Classics,34,3,triple sec,.5 oz,0.5
+Smiler Cocktail,Cocktail Classics,35,1,sweet vermouth,.5 oz,0.5
+Smiler Cocktail,Cocktail Classics,35,2,dry vermouth,.5 oz,0.5
+Smiler Cocktail,Cocktail Classics,35,3,gin,1 oz,1
+Smiler Cocktail,Cocktail Classics,35,4,bitters,1 dash,0.02
+Smiler Cocktail,Cocktail Classics,35,5,orange juice,.25 oz,0.25
+Smile Cocktail,Cocktail Classics,36,1,grenadine,1 oz,1
+Smile Cocktail,Cocktail Classics,36,2,gin,1 oz,1
+Smile Cocktail,Cocktail Classics,36,3,lemon juice,.5 oz,0.5
+Amaretto Rose,Cordials and Liqueurs,37,1,amaretto,1.5 oz,1.5
+Amaretto Rose,Cordials and Liqueurs,37,2,lemon juice,.5 oz,0.5
+Amaretto Rose,Cordials and Liqueurs,37,3,simple syrup,.5 oz,0.5
+Sand-Martin Cocktail,Cocktail Classics,38,2,sweet vermouth,1.5 oz,1.5
+Sand-Martin Cocktail,Cocktail Classics,38,3,gin,1.5 oz,1.5
+Irish Whiskey Highball,Whiskies,39,3,lemon juice,1 oz,1
+Japanese,Brandy,40,1,brandy,2 oz,2
+Japanese,Brandy,40,3,bitters,2 dash,0.04
+Roselyn Cocktail,Cocktail Classics,41,1,dry vermouth,.75 oz,0.75
+Roselyn Cocktail,Cocktail Classics,41,2,gin,1.5 oz,1.5
+Roselyn Cocktail,Cocktail Classics,41,3,grenadine,.5 oz,0.5
+Resolute Cocktail,Cocktail Classics,42,1,lemon juice,.25 oz,0.25
+Resolute Cocktail,Cocktail Classics,42,2,apricot flavored brandy,.5 oz,0.5
+Resolute Cocktail,Cocktail Classics,42,3,gin,1 oz,1
+Racquet Club Cocktail,Cocktail Classics,43,1,gin,1.5 oz,1.5
+Racquet Club Cocktail,Cocktail Classics,43,2,dry vermouth,.75 oz,0.75
+Racquet Club Cocktail,Cocktail Classics,43,3,bitters,1 dash,0.02
+Amaretto And Cream,Cordials and Liqueurs,44,1,amaretto,1.5 oz,1.5
+Amaretto And Cream,Cordials and Liqueurs,44,2,half and half,1.5 oz,1.5
+Pollyanna Cocktai,Cocktail Classics,45,1,orange juice,3 oz,3
+Pollyanna Cocktai,Cocktail Classics,45,3,gin,2 oz,2
+Pollyanna Cocktai,Cocktail Classics,45,4,sweet vermouth,.5 oz,0.5
+Pollyanna Cocktai,Cocktail Classics,45,5,grenadine,.5 oz,0.5
+Plaza Cocktail,Cocktail Classics,46,1,sweet vermouth,.75 oz,0.75
+Plaza Cocktail,Cocktail Classics,46,2,dry vermouth,.75 oz,0.75
+Plaza Cocktail,Cocktail Classics,46,3,gin,.75 oz,0.75
+Irish Whiskey Cocktail,Whiskies,47,2,triple sec,.5 oz,0.5
+Irish Whiskey Cocktail,Whiskies,47,3,anisette,.5 oz,0.5
+Irish Whiskey Cocktail,Whiskies,47,4,maraschino,.25 oz,0.25
+Irish Whiskey Cocktail,Whiskies,47,5,bitters,1 dash,0.02
+Absinthe Special Cocktail,Cordials and Liqueurs,48,2,simple syrup,.25 oz,0.25
+Absinthe Special Cocktail,Cordials and Liqueurs,48,3,bitters,1 dash,0.02
+Nineteenth Hole,Cocktail Classics,49,1,gin,1.5 oz,1.5
+Nineteenth Hole,Cocktail Classics,49,2,dry vermouth,1 oz,1
+Nineteenth Hole,Cocktail Classics,49,3,sweet vermouth,1 oz,1
+Nineteenth Hole,Cocktail Classics,49,4,bitters,1 dash,0.02
+Montreal Club Bouncer,Cocktail Classics,50,1,gin,1.5 oz,1.5
+Montreal Club Bouncer,Cocktail Classics,50,2,anisette,.5 oz,0.5
+Monte Carlo Imperial Highball,Cocktail Classics,51,1,gin,2 oz,2
+Monte Carlo Imperial Highball,Cocktail Classics,51,3,lemon juice,.25 oz,0.25
+Irish Shillelagh,Whiskies,52,2,light rum,1 oz,1
+Irish Shillelagh,Whiskies,52,4,lemon juice,1 oz,1
+Irish Shillelagh,Whiskies,52,5,simple syrup,.5 oz,0.5
+Melon Cocktail,Cocktail Classics,53,1,gin,2 oz,2
+Melon Cocktail,Cocktail Classics,53,2,lemon juice,.25 oz,0.25
+Melon Cocktail,Cocktail Classics,53,3,maraschino,.25 oz,0.25
+Martini (Medium),Cocktail Classics,54,1,gin,1.5 oz,1.5
+Martini (Medium),Cocktail Classics,54,2,dry vermouth,.5 oz,0.5
+Martini (Medium),Cocktail Classics,54,3,sweet vermouth,.5 oz,0.5
+Martini (Dry) (5-to-1),Cocktail Classics,55,1,gin,1 2/3 oz,1
+Martini (Dry) (5-to-1),Cocktail Classics,55,2,dry vermouth,1/3 oz,1
+Mamie's Sister,Cocktail Classics,56,1,lime juice,1 oz,1
+Mamie's Sister,Cocktail Classics,56,2,gin,2 oz,2
+Irish Rickey,Whiskies,57,2,lime juice,.5 oz,0.5
+Maiden's Prayer,Cocktail Classics,58,1,gin,1.5 oz,1.5
+Maiden's Prayer,Cocktail Classics,58,2,triple sec,.5 oz,0.5
+Maiden's Prayer,Cocktail Classics,58,3,lemon juice,1 oz,1
+Lone Tree Cocktail,Cocktail Classics,59,1,sweet vermouth,.75 oz,0.75
+Lone Tree Cocktail,Cocktail Classics,59,2,gin,1.5 oz,1.5
+London Buck,Cocktail Classics,60,1,gin,2 oz,2
+London Buck,Cocktail Classics,60,2,lemon juice,.5 oz,0.5
+Leap Frog Highball,Cocktail Classics,61,1,lemon juice,.5 oz,0.5
+Leap Frog Highball,Cocktail Classics,61,2,gin,2 oz,2
+Kup's Indispensable Cocktail,Cocktail Classics,63,2,dry vermouth,.5 oz,0.5
+Kup's Indispensable Cocktail,Cocktail Classics,63,3,gin,1.5 oz,1.5
+Kup's Indispensable Cocktail,Cocktail Classics,63,4,bitters,1 dash,0.02
+Knock-Out Cocktail,Cocktail Classics,64,1,anisette,.5 oz,0.5
+Knock-Out Cocktail,Cocktail Classics,64,2,gin,.75 oz,0.75
+Knock-Out Cocktail,Cocktail Classics,64,3,dry vermouth,.75 oz,0.75
+K. G. B. Cocktail,Cocktail Classics,65,2,gin,1.5 oz,1.5
+K. G. B. Cocktail,Cocktail Classics,65,3,apricot flavored brandy,.25 oz,0.25
+K. G. B. Cocktail,Cocktail Classics,65,4,lemon juice,.25 oz,0.25
+Imperial Fizz,Whiskies,66,2,light rum,.5 oz,0.5
+Imperial Fizz,Whiskies,66,3,lemon juice,1 oz,1
+Imperial Fizz,Whiskies,66,4,simple syrup,.5 oz,0.5
+Jeyplak Cocktail,Cocktail Classics,67,1,gin,1.5 oz,1.5
+Jeyplak Cocktail,Cocktail Classics,67,2,sweet vermouth,.75 oz,0.75
+Jeyplak Cocktail,Cocktail Classics,67,3,anisette,.25 oz,0.25
+H. P. W. Cocktail,Cocktail Classics,68,1,dry vermouth,1.5 oz,1.5
+H. P. W. Cocktail,Cocktail Classics,68,2,sweet vermouth,1.5 oz,1.5
+H. P. W. Cocktail,Cocktail Classics,68,3,gin,1.5 oz,1.5
+Hotel Plaza Cocktail,Cocktail Classics,70,1,sweet vermouth,.75 oz,0.75
+Hotel Plaza Cocktail,Cocktail Classics,70,2,dry vermouth,.75 oz,0.75
+Hotel Plaza Cocktail,Cocktail Classics,70,3,gin,.75 oz,0.75
+Hoffman House Cocktail,Cocktail Classics,71,1,dry vermouth,.75 oz,0.75
+Hoffman House Cocktail,Cocktail Classics,71,2,gin,1.5 oz,1.5
+Hawaiin Cocktail,Cocktail Classics,72,1,gin,2 oz,2
+Hawaiin Cocktail,Cocktail Classics,72,2,pineapple juice,1 oz,1
+Hawaiin Cocktail,Cocktail Classics,72,3,triple sec,.5 oz,0.5
+White Russian,Vodka,73,1,vodka,2 oz,2
+Greyhound,Cocktail Classics,74,1,gin,1.5 oz,1.5
+Greyhound,Cocktail Classics,74,2,grapefruit juice,5 oz,5
+Green Devil,Cocktail Classics,75,1,gin,1.5 oz,1.5
+Green Devil,Cocktail Classics,75,3,lime juice,1 oz,1
+Greenback,Cocktail Classics,76,1,gin,1.5 oz,1.5
+Greenback,Cocktail Classics,76,3,lemon juice,1 oz,1
+Grapefruit Cocktail,Cocktail Classics,77,1,grapefruit juice,1 oz,1
+Grapefruit Cocktail,Cocktail Classics,77,2,gin,1 oz,1
+Grapefruit Cocktail,Cocktail Classics,77,3,maraschino,1 oz,1
+Hotel D'alsace,Whiskies,78,3,benedictine,.5 oz,0.5
+Hotel D'alsace,Whiskies,78,4,triple sec,.5 oz,0.5
+Jamaica Granito,Brandy,79,1,brandy,1.5 oz,1.5
+Jamaica Granito,Brandy,79,2,triple sec,1 oz,1
+Jamaica Granito,Brandy,79,3,lemon juice,1 oz,1
+Gin Sling,Cocktail Classics,80,1,powdered sugar,1 oz,1
+Gin Sling,Cocktail Classics,80,3,lemon juice,.5 oz,0.5
+Gin Sling,Cocktail Classics,80,4,gin,2 oz,2
+Gin Milk Punch,Cocktail Classics,81,1,powdered sugar,1 oz,1
+Gin Milk Punch,Cocktail Classics,81,2,gin,2 oz,2
+Horse's Neck (With A Kick),Whiskies,82,1,lemon juice,1 oz,1
+Horse's Neck (With A Kick),Whiskies,82,2,bourbon whiskey,2 oz,2
+Gin and It,Cocktail Classics,83,1,gin,2 oz,2
+Gin and It,Cocktail Classics,83,2,sweet vermouth,1 oz,1
+Gin Cocktail,Cocktail Classics,84,1,gin,2 oz,2
+Gin Cocktail,Cocktail Classics,84,2,bitters,2 dash,0.04
+West Side,Vodka,85,1,lemon juice,1.5 oz,1.5
+West Side,Vodka,85,3,simple syrup,.5 oz,0.5
+Gimlet,Cocktail Classics,86,1,lime juice,1 oz,1
+Gimlet,Cocktail Classics,86,2,powdered sugar,1 oz,1
+Gimlet,Cocktail Classics,86,3,gin,1.5 oz,1.5
+Free Silver,Cocktail Classics,87,1,lemon juice,.25 oz,0.25
+Free Silver,Cocktail Classics,87,2,powdered sugar,.5 oz,0.5
+Free Silver,Cocktail Classics,87,3,gin,1.5 oz,1.5
+Free Silver,Cocktail Classics,87,4,dark rum,.5 oz,0.5
+Frankenjack Cocktail,Cocktail Classics,88,1,gin,1 oz,1
+Frankenjack Cocktail,Cocktail Classics,88,2,dry vermouth,.75 oz,0.75
+Frankenjack Cocktail,Cocktail Classics,88,3,apricot flavored brandy,.5 oz,0.5
+Frankenjack Cocktail,Cocktail Classics,88,4,triple sec,1 oz,1
+Frankenjack Cocktail,Cocktail Classics,88,5,lime juice,.5 oz,0.5
+Fog Horn,Cocktail Classics,89,1,lime juice,.5 oz,0.5
+Fog Horn,Cocktail Classics,89,3,gin,2 oz,2
+Fog Horn,Cocktail Classics,89,4,triple sec,1 oz,1
+Flying Dutchman,Cocktail Classics,90,1,gin,2 oz,2
+Flying Dutchman,Cocktail Classics,90,2,triple sec,1 oz,1
+Hoot Mon Cocktail,Whiskies,91,1,blended scotch whiskey,1.5 oz,1.5
+Hoot Mon Cocktail,Whiskies,91,2,sweet vermouth,.75 oz,0.75
+Hoot Mon Cocktail,Whiskies,91,3,benedictine,1 oz,1
+Fifty-Fifty Cocktail,Cocktail Classics,92,1,gin,1.5 oz,1.5
+Fifty-Fifty Cocktail,Cocktail Classics,92,2,dry vermouth,1.5 oz,1.5
+Favorite Cocktail,Cocktail Classics,93,1,apricot flavored brandy,.75 oz,0.75
+Favorite Cocktail,Cocktail Classics,93,2,dry vermouth,.75 oz,0.75
+Favorite Cocktail,Cocktail Classics,93,3,gin,.75 oz,0.75
+Favorite Cocktail,Cocktail Classics,93,4,lemon juice,.25 oz,0.25
+Farmer's Cocktail,Cocktail Classics,94,1,gin,1 oz,1
+Farmer's Cocktail,Cocktail Classics,94,2,dry vermouth,.5 oz,0.5
+Farmer's Cocktail,Cocktail Classics,94,3,sweet vermouth,.5 oz,0.5
+Farmer's Cocktail,Cocktail Classics,94,4,bitters,2 dash,0.04
+Warsaw Cocktail,Vodka,95,1,vodka,1.5 oz,1.5
+Warsaw Cocktail,Vodka,95,3,dry vermouth,.5 oz,0.5
+Warsaw Cocktail,Vodka,95,4,lemon juice,1 oz,1
+Emerald Isle Cocktail,Cocktail Classics,96,1,gin,2 oz,2
+Emerald Isle Cocktail,Cocktail Classics,96,3,bitters,3 dash,0.06
+Du Barry Cocktail,Cocktail Classics,97,1,bitters,1 dash,0.02
+Du Barry Cocktail,Cocktail Classics,97,2,dry vermouth,.75 oz,0.75
+Du Barry Cocktail,Cocktail Classics,97,3,anisette,.5 oz,0.5
+Du Barry Cocktail,Cocktail Classics,97,4,gin,1.5 oz,1.5
+Dry Martini (5-to-1),Cocktail Classics,98,1,gin,1 2/3 oz,1
+Dry Martini (5-to-1),Cocktail Classics,98,2,dry vermouth,1/3 oz,1
+Dixie Cocktail,Cocktail Classics,99,1,orange juice,.25 oz,0.25
+Dixie Cocktail,Cocktail Classics,99,2,anisette,1 oz,1
+Dixie Cocktail,Cocktail Classics,99,3,dry vermouth,.5 oz,0.5
+Dixie Cocktail,Cocktail Classics,99,4,gin,1 oz,1
+Delmonico No. 2,Cocktail Classics,100,1,bitters,1 dash,0.02
+Delmonico No. 2,Cocktail Classics,100,2,dry vermouth,1 oz,1
+Delmonico No. 2,Cocktail Classics,100,3,gin,1.5 oz,1.5
+Hole-In-One,Whiskies,101,1,blended scotch whiskey,1.75 oz,1.75
+Hole-In-One,Whiskies,101,2,dry vermouth,.75 oz,0.75
+Hole-In-One,Whiskies,101,3,lemon juice,.25 oz,0.25
+Hole-In-One,Whiskies,101,4,bitters,1 dash,0.02
+Vodka Stinger,Vodka,102,1,vodka,1 oz,1
+Caruso,Cocktail Classics,103,1,gin,1.5 oz,1.5
+Caruso,Cocktail Classics,103,2,dry vermouth,1 oz,1
+Bulldog Highball,Cocktail Classics,104,1,orange juice,.5 oz,0.5
+Bulldog Highball,Cocktail Classics,104,2,gin,2 oz,2
+Brown Cocktail,Cocktail Classics,105,1,gin,.75 oz,0.75
+Brown Cocktail,Cocktail Classics,105,2,light rum,.75 oz,0.75
+Brown Cocktail,Cocktail Classics,105,3,dry vermouth,.75 oz,0.75
+Bronx Terrace Cocktail,Cocktail Classics,106,1,gin,1.5 oz,1.5
+Bronx Terrace Cocktail,Cocktail Classics,106,2,dry vermouth,1.5 oz,1.5
+Bronx Terrace Cocktail,Cocktail Classics,106,3,lime juice,.5 oz,0.5
+Bronx Cocktail (Dry),Cocktail Classics,107,1,gin,1 oz,1
+Bronx Cocktail (Dry),Cocktail Classics,107,2,dry vermouth,1 oz,1
+Bronx Cocktail (Dry),Cocktail Classics,107,3,orange juice,.25 oz,0.25
+Blue Devil Cocktail,Cocktail Classics,109,1,gin,1 oz,1
+Blue Devil Cocktail,Cocktail Classics,109,2,lemon juice,.5 or 1,0.5
+Blue Devil Cocktail,Cocktail Classics,109,3,maraschino,1 oz,1
+Blue Canary,Cocktail Classics,110,1,gin,.75 oz,0.75
+Blue Canary,Cocktail Classics,110,2,grapefruit juice,3 oz,3
+Blue Bird,Cocktail Classics,111,1,gin,1.5 oz,1.5
+Blue Bird,Cocktail Classics,111,2,triple sec,.5 oz,0.5
+Blue Bird,Cocktail Classics,111,3,bitters,1 dash,0.02
+Bloodhound Cocktail,Cocktail Classics,112,1,dry vermouth,.5 oz,0.5
+Bloodhound Cocktail,Cocktail Classics,112,2,sweet vermouth,.5 oz,0.5
+Bloodhound Cocktail,Cocktail Classics,112,3,gin,1 oz,1
+Billy Taylor,Cocktail Classics,113,1,lime juice,.5 oz,0.5
+Billy Taylor,Cocktail Classics,113,2,gin,2 oz,2
+Bijou Cocktail,Cocktail Classics,114,1,gin,.75 oz,0.75
+Bijou Cocktail,Cocktail Classics,114,3,sweet vermouth,.75 oz,0.75
+Bijou Cocktail,Cocktail Classics,114,4,bitters,1 dash,0.02
+Bermuda Rose,Cocktail Classics,115,1,gin,1.25 oz,1.25
+Bermuda Rose,Cocktail Classics,115,2,apricot flavored brandy,1.5 oz,1.5
+Bermuda Rose,Cocktail Classics,115,3,grenadine,1.5 oz,1.5
+Vodka Sour,Vodka,116,1,vodka,2 oz,2
+Vodka Sour,Vodka,116,3,lemon juice,.75 oz,0.75
+Vodka Sour,Vodka,116,4,simple syrup,.75 oz,0.75
+Apricot Anisette Collins,Cocktail Classics,117,1,gin,1.5 oz,1.5
+Apricot Anisette Collins,Cocktail Classics,117,2,apricot flavored brandy,.5 oz,0.5
+Apricot Anisette Collins,Cocktail Classics,117,3,anisette,1.5 oz,1.5
+Apricot Anisette Collins,Cocktail Classics,117,4,lemon juice,1 oz,1
+Alexander's Sister Cocktail,Cocktail Classics,118,3,light cream,1 oz,1
+Highland Cooler,Whiskies,119,1,blended scotch whiskey,2 oz,2
+Highland Cooler,Whiskies,119,2,simple syrup,.5 oz,0.5
+Alexander Cocktail No. 1,Cocktail Classics,120,1,gin,1 oz,1
+Alexander Cocktail No. 1,Cocktail Classics,120,3,light cream,1 oz,1
+Adam and Eve,Cocktail Classics,121,2,gin,1 oz,1
+Adam and Eve,Cocktail Classics,121,3,brandy,1 oz,1
+Adam and Eve,Cocktail Classics,121,4,lemon juice,1 oz,1
+Vodka Sling,Vodka,122,1,vodka,2 oz,2
+Vodka Sling,Vodka,122,2,lemon juice,1 oz,1
+Vodka Sling,Vodka,122,3,simple syrup,.5 oz,0.5
+Jack Rose Cocktail,Brandy,123,2,lime juice,.5 oz,0.5
+Jack Rose Cocktail,Brandy,123,3,grenadine,.25 oz,0.25
+Tempter Cocktail,Cocktail Classics,124,1,port,1 oz,1
+Tempter Cocktail,Cocktail Classics,124,2,apricot flavored brandy,1 oz,1
+Special Rough Cocktail,Cocktail Classics,125,1,apple brandy,1.5 oz,1.5
+Special Rough Cocktail,Cocktail Classics,125,2,brandy,1.5 oz,1.5
+Special Rough Cocktail,Cocktail Classics,125,3,anisette,.5 oz,0.5
+Vodka Grasshopper,Vodka,126,1,vodka,.75 oz,0.75
+Vodka Grasshopper,Vodka,126,3,white creme de cacao,.75 oz,0.75
+Vodka Grasshopper,Vodka,126,4,half and half,.75 oz,0.75
+Singapore Sling,Cocktail Classics,127,1,lemon juice,.5 oz,0.5
+Singapore Sling,Cocktail Classics,127,2,powdered sugar,1 oz,1
+Singapore Sling,Cocktail Classics,127,3,gin,2 oz,2
+Singapore Sling,Cocktail Classics,127,5,cherry flavored brandy,.5 oz,0.5
+Saratoga Cocktail,Cocktail Classics,128,1,brandy,2 oz,2
+Saratoga Cocktail,Cocktail Classics,128,2,bitters,2 dash,0.04
+Saratoga Cocktail,Cocktail Classics,128,3,lemon juice,1 oz,1
+Saratoga Cocktail,Cocktail Classics,128,4,pineapple juice,1 oz,1
+Saratoga Cocktail,Cocktail Classics,128,5,maraschino,.5 oz,0.5
+High Cotton,Whiskies,129,1,straight rye whiskey,2 oz,2
+High Cotton,Whiskies,129,4,bitters,2 dash,0.04
+Polonaise,Cocktail Classics,130,1,brandy,1.5 oz,1.5
+Polonaise,Cocktail Classics,130,4,lemon juice,1 oz,1
+Vodka Gimlet,Vodka,131,1,vodka,1.5 oz,1.5
+Vodka Gimlet,Vodka,131,2,lime juice,1 oz,1
+Vodka Gimlet,Vodka,131,3,simple syrup,.5 oz,0.5
+Merry Widow Cocktail No. 2,Cocktail Classics,132,1,maraschino,1.25 oz,1.25
+Merry Widow Cocktail No. 2,Cocktail Classics,132,2,cherry flavored brandy,1.25 oz,1.25
+Lugger,Cocktail Classics,133,1,brandy,1 oz,1
+Lugger,Cocktail Classics,133,2,apple brandy,1 oz,1
+Lugger,Cocktail Classics,133,3,apricot flavored brandy,1 oz,1
+Jamaica Hop,Cocktail Classics,134,3,light cream,1 oz,1
+Hebrides,Whiskies,135,2,maraschino,.5 oz,0.5
+Hebrides,Whiskies,135,3,triple sec,.5 oz,0.5
+Hebrides,Whiskies,135,5,lemon juice,.5 oz,0.5
+Hebrides,Whiskies,135,6,bitters,1 dash,0.02
+Hennessy Martini,Cocktail Classics,136,2,lemon juice,.5 oz,0.5
+Vodka Daisy,Vodka,137,1,vodka,2 oz,2
+Vodka Daisy,Vodka,137,2,lemon juice,1 oz,1
+Vodka Daisy,Vodka,137,3,simple syrup,.5 oz,0.5
+Vodka Daisy,Vodka,137,4,grenadine,1 oz,1
+Heavenly Dram,Whiskies,138,3,lemon juice,.75 oz,0.75
+Classic Cocktail,Cocktail Classics,139,1,lemon juice,.25 oz,0.25
+Classic Cocktail,Cocktail Classics,139,3,maraschino,1.5 oz,1.5
+Classic Cocktail,Cocktail Classics,139,4,brandy,1 oz,1
+Cherry Sling,Cocktail Classics,140,1,cherry flavored brandy,2 oz,2
+Cherry Sling,Cocktail Classics,140,2,lemon juice,.5 oz,0.5
+Cherry Fizz,Cocktail Classics,141,1,lemon juice,.5 oz,0.5
+Cherry Fizz,Cocktail Classics,141,2,cherry flavored brandy,2 oz,2
+Vodka Cooler,Vodka,142,1,vodka,2 oz,2
+Vodka Cooler,Vodka,142,2,simple syrup,.5 oz,0.5
+Carrol Cocktail,Cocktail Classics,143,1,brandy,1.5 oz,1.5
+Carrol Cocktail,Cocktail Classics,143,2,sweet vermouth,.75 oz,0.75
+Button Hook Cocktail,Cocktail Classics,144,2,apricot flavored brandy,.5 oz,0.5
+Button Hook Cocktail,Cocktail Classics,144,3,anisette,.5 oz,0.5
+Button Hook Cocktail,Cocktail Classics,144,4,brandy,.5 oz,0.5
+Bull's Eye,Cocktail Classics,145,1,brandy,1 oz,1
+Brantini,Cocktail Classics,146,1,brandy,1.5 oz,1.5
+Brantini,Cocktail Classics,146,2,gin,1 oz,1
+Brantini,Cocktail Classics,146,3,dry vermouth,1 oz,1
+Heather's Kiss,Whiskies,147,1,blended scotch whiskey,2.25 oz,2.25
+Heather's Kiss,Whiskies,147,2,lemon juice,.5 oz,0.5
+Brandy Squirt,Cocktail Classics,148,1,brandy,1.5 oz,1.5
+Brandy Squirt,Cocktail Classics,148,2,powdered sugar,1 oz,1
+Brandy Squirt,Cocktail Classics,148,3,grenadine,1 oz,1
+Brandy and Soda,Cocktail Classics,149,1,brandy,2 oz,2
+Brandy Milk Punch,Cocktail Classics,150,1,powdered sugar,1 oz,1
+Brandy Milk Punch,Cocktail Classics,150,2,brandy,2 oz,2
+Vodka Collins,Vodka,151,1,vodka,2 oz,2
+Vodka Collins,Vodka,151,2,lemon juice,.75 oz,0.75
+Vodka Collins,Vodka,151,3,simple syrup,.75 oz,0.75
+Brandy Crusta Cocktail,Cocktail Classics,152,1,maraschino,1 oz,1
+Brandy Crusta Cocktail,Cocktail Classics,152,2,bitters,1 dash,0.02
+Brandy Crusta Cocktail,Cocktail Classics,152,3,lemon juice,1 oz,1
+Brandy Crusta Cocktail,Cocktail Classics,152,4,triple sec,.5 oz,0.5
+Brandy Crusta Cocktail,Cocktail Classics,152,5,brandy,2 oz,2
+Heather Blush,Whiskies,153,1,blended scotch whiskey,1 oz,1
+Jack Maples,Brandy,154,3,bitters,1 dash,0.02
+Brandy Alexander,Cocktail Classics,155,2,brandy,.5 oz,0.5
+Vodka and Tonic,Vodka,156,1,vodka,2 oz,2
+Apricot Cocktail,Cocktail Classics,157,1,lemon juice,.25 oz,0.25
+Apricot Cocktail,Cocktail Classics,157,2,orange juice,.25 oz,0.25
+Apricot Cocktail,Cocktail Classics,157,3,apricot flavored brandy,1.5 oz,1.5
+Apricot Cocktail,Cocktail Classics,157,4,gin,1 oz,1
+Alexander Cocktail No. 2,Cocktail Classics,158,2,brandy,1 oz,1
+Alexander Cocktail No. 2,Cocktail Classics,158,3,light cream,1 oz,1
+After Dinner Cocktail,Cocktail Classics,159,1,apricot flavored brandy,1 oz,1
+After Dinner Cocktail,Cocktail Classics,159,2,triple sec,1 oz,1
+After Dinner Cocktail,Cocktail Classics,159,3,lime juice,1 oz,1
+Harvest Moon,Whiskies,160,1,straight rye whiskey,1.5 oz,1.5
+Harvest Moon,Whiskies,160,3,apple brandy,.5 oz,0.5
+Harvest Moon,Whiskies,160,5,bitters,2 dash,0.04
+Red Raider,Cocktail Classics,161,2,triple sec,.5 oz,0.5
+Red Raider,Cocktail Classics,161,3,lemon juice,1 oz,1
+Red Raider,Cocktail Classics,161,4,grenadine,1 oz,1
+Vodka and Apple Juice,Vodka,162,1,vodka,2 oz,2
+Mint Julep (Southern Style),Cocktail Classics,163,2,powdered sugar,1 oz,1
+Grounds For Divorce,Whiskies,165,1,straight rye whiskey,1.5 oz,1.5
+Gentleman's Cocktail,Cocktail Classics,166,2,brandy,.5 oz,0.5
+Dixie Julep,Cocktail Classics,167,1,powdered sugar,1 oz,1
+Victory Collins,Vodka,168,1,vodka,1.5 oz,1.5
+Victory Collins,Vodka,168,3,lemon juice,1 oz,1
+Victory Collins,Vodka,168,4,simple syrup,.5 oz,0.5
+Bourbon Cobbler,Cocktail Classics,171,2,lemon juice,1 oz,1
+Bourbon Cobbler,Cocktail Classics,171,3,grapefruit juice,2 oz,2
+Greenpoint,Whiskies,173,1,straight rye whiskey,2 oz,2
+Greenpoint,Whiskies,173,3,sweet vermouth,.5 oz,0.5
+Greenpoint,Whiskies,173,4,bitters,1 dash,0.02
+Yellowjacket,Non-alcoholic Drinks,174,1,pineapple juice,2 oz,2
+Yellowjacket,Non-alcoholic Drinks,174,2,orange juice,2 oz,2
+Yellowjacket,Non-alcoholic Drinks,174,3,lemon juice,.5 oz,0.5
+Velvet Peach Hammer,Vodka,175,1,vodka,1.75 oz,1.75
+Velvet Peach Hammer,Vodka,175,3,simple syrup,.25 oz,0.25
+Velvet Peach Hammer,Vodka,175,4,lemon juice,.5 oz,0.5
+Grandfather,Whiskies,176,1,bourbon whiskey,1 oz,1
+Grandfather,Whiskies,176,3,sweet vermouth,1 oz,1
+Grandfather,Whiskies,176,4,bitters,1 dash,0.02
+Goldrush,Whiskies,177,1,bourbon whiskey,2 oz,2
+Goldrush,Whiskies,177,2,lemon juice,.75 oz,0.75
+Godfather,Whiskies,179,1,blended scotch whiskey,1.5 oz,1.5
+Godfather,Whiskies,179,2,amaretto,.75 oz,0.75
+Jack-In-The-Box,Brandy,180,2,pineapple juice,1 oz,1
+Jack-In-The-Box,Brandy,180,3,bitters,1 dash,0.02
+Saronno,Cocktail Classics,181,3,light cream,1 oz,1
+Saronno Rose,Cocktail Classics,184,2,lime juice,.5 oz,0.5
+Gilchrist,Whiskies,185,1,blended scotch whiskey,1.5 oz,1.5
+Gilchrist,Whiskies,185,3,grapefruit juice,.75 oz,0.75
+Gilchrist,Whiskies,185,5,bitters,2 dash,0.04
+Frisco Sour,Whiskies,186,2,lemon juice,.75 oz,0.75
+Frisco Sour,Whiskies,186,3,lime juice,.5 oz,0.5
+Frisco Sour,Whiskies,186,4,benedictine,.5 oz,0.5
+Fratelli Cocktail,Whiskies,187,1,straight rye whiskey,2 oz,2
+Fratelli Cocktail,Whiskies,187,2,sweet vermouth,.5 oz,0.5
+Francis The Mule,Whiskies,188,1,bourbon whiskey,2 oz,2
+Francis The Mule,Whiskies,188,3,lemon juice,.5 oz,0.5
+Francis The Mule,Whiskies,188,5,bitters,2 dash,0.04
+Fox River Cocktail,Whiskies,189,3,bitters,4 dash,0.08
+Flying Scotchman,Whiskies,190,1,blended scotch whiskey,1 oz,1
+Flying Scotchman,Whiskies,190,2,sweet vermouth,1 oz,1
+Flying Scotchman,Whiskies,190,3,bitters,1 dash,0.02
+Flying Scotchman,Whiskies,190,4,simple syrup,.25 oz,0.25
+The Final Ward,Whiskies,191,1,straight rye whiskey,.75 oz,0.75
+The Final Ward,Whiskies,191,2,maraschino,.75 oz,0.75
+The Final Ward,Whiskies,191,4,lemon juice,.75 oz,0.75
+Martini,Cocktail Classics,192,2,dry vermouth,.75 oz,0.75
+Fancy Whiskey,Whiskies,193,2,bitters,1 dash,0.02
+Fancy Whiskey,Whiskies,193,3,triple sec,.25 oz,0.25
+Fancy Whiskey,Whiskies,193,4,simple syrup,.25 oz,0.25
+Fancy Whiskey,Whiskies,193,5,lemon juice,1 oz,1
+Mandarine Sour,Cocktail Classics,194,2,lemon juice,1 oz,1
+Underneath The Mango Tree,Vodka,196,5,simple syrup,.5 oz,0.5
+Fancy-Free Cocktail,Whiskies,197,1,bourbon whiskey,2 oz,2
+Fancy-Free Cocktail,Whiskies,197,2,maraschino,.5 oz,0.5
+Fancy-Free Cocktail,Whiskies,197,3,bitters,1 dash,0.02
+Honeymoon Cocktail,Brandy,198,1,apple brandy,.75 oz,0.75
+Honeymoon Cocktail,Brandy,198,2,benedictine,.75 oz,0.75
+Honeymoon Cocktail,Brandy,198,3,lemon juice,.75 oz,0.75
+Honeymoon Cocktail,Brandy,198,4,triple sec,.5 oz,0.5
+Twister,Vodka,199,1,vodka,2 oz,2
+Twister,Vodka,199,2,lime juice,.5 oz,0.5
+Trident,Vodka,201,4,bitters,2 dash,0.04
+Top Banana,Vodka,202,1,vodka,1 oz,1
+Top Banana,Vodka,202,3,orange juice,2 oz,2
+Emperor Norton's Mistress,Whiskies,203,2,bourbon whiskey,1.5 oz,1.5
+Emperor Norton's Mistress,Whiskies,203,4,triple sec,.25 oz,0.25
+Easterner,Whiskies,204,1,straight rye whiskey,2 oz,2
+Easterner,Whiskies,204,2,grapefruit juice,1 oz,1
+Toasted Drop,Vodka,205,2,citrus flavored vodka,1.5 oz,1.5
+Toasted Drop,Vodka,205,4,amaretto,.25 oz,0.25
+Toasted Drop,Vodka,205,6,egg white,1 oz,1
+Eastern Sour,Whiskies,206,1,bourbon whiskey,2 oz,2
+Eastern Sour,Whiskies,206,2,orange juice,1.5 oz,1.5
+Eastern Sour,Whiskies,206,3,lime juice,1 oz,1
+Eastern Sour,Whiskies,206,5,simple syrup,.25 oz,0.25
+K. C. B. Cocktail,Cocktail Classics,207,4,lemon juice,.25 oz,0.25
+Easter Elchies,Whiskies,208,4,bitters,1 dash,0.02
+Dufftown Flip,Whiskies,209,1,blended scotch whiskey,2 oz,2
+Dufftown Flip,Whiskies,209,2,port,.5 oz,0.5
+Dufftown Flip,Whiskies,209,5,whole egg,1 oz,1
+Harvard Cooler,Brandy,210,1,apple brandy,2 oz,2
+Harvard Cooler,Brandy,210,2,simple syrup,.5 oz,0.5
+The Duboudreau Cocktail,Whiskies,211,1,straight rye whiskey,2 oz,2
+Irish Whisky,Cocktail Classics,212,3,maraschino,.25 oz,0.25
+Irish Whisky,Cocktail Classics,212,4,bitters,1 dash,0.02
+Dubliner,Whiskies,213,2,sweet vermouth,.5 oz,0.5
+Dubliner,Whiskies,213,4,bitters,2 dash,0.04
+Double Standard Sour,Whiskies,214,2,gin,.75 oz,0.75
+Double Standard Sour,Whiskies,214,3,lemon juice,1 oz,1
+Double Standard Sour,Whiskies,214,5,grenadine,.5 oz,0.5
+Double Standard Sour,Whiskies,214,6,simple syrup,.25 oz,0.25
+Dixie Whiskey Cocktail,Whiskies,215,1,bourbon whiskey,2 oz,2
+Dixie Whiskey Cocktail,Whiskies,215,3,triple sec,.5 oz,0.5
+Dixie Whiskey Cocktail,Whiskies,215,4,simple syrup,.25 oz,0.25
+Dixie Whiskey Cocktail,Whiskies,215,5,bitters,1 dash,0.02
+The Titian,Vodka,217,1,orange juice,1 oz,1
+The Titian,Vodka,217,4,lime juice,.5 oz,0.5
+Tiger Tanaka,Vodka,218,3,citrus flavored vodka,2 oz,2
+Tiger Tanaka,Vodka,218,5,pineapple juice,.75 oz,0.75
+Grenadine Rickey,Cocktail Classics,219,1,lime juice,.5 oz,0.5
+Grenadine Rickey,Cocktail Classics,219,2,grenadine,1.5 oz,1.5
+Thyme Collins,Vodka,220,1,citrus flavored vodka,2 oz,2
+Thyme Collins,Vodka,220,3,lemon juice,1 oz,1
+Tabby Cat,Vodka,221,2,orange juice,1 oz,1
+Tabby Cat,Vodka,221,3,bitters,2 dash,0.04
+Sweet Maria,Vodka,223,1,vodka,1 oz,1
+Sweet Maria,Vodka,223,2,amaretto,.5 oz,0.5
+Sweet Maria,Vodka,223,3,half and half,.5 oz,0.5
+Dirty Harry,Whiskies,224,2,straight rye whiskey,2 oz,2
+Dirty Harry,Whiskies,224,3,sweet vermouth,.5 oz,0.5
+Dirty Harry,Whiskies,224,4,maraschino,.25 oz,0.25
+Harvard Cocktail,Brandy,225,1,brandy,1.5 oz,1.5
+Harvard Cocktail,Brandy,225,2,sweet vermouth,.75 oz,0.75
+Harvard Cocktail,Brandy,225,3,lemon juice,.5 oz,0.5
+Harvard Cocktail,Brandy,225,4,grenadine,1 oz,1
+Harvard Cocktail,Brandy,225,5,bitters,1 dash,0.02
+Gin and Milk Punch,Cocktail Classics,226,1,powdered sugar,1 oz,1
+Surf Rider,Vodka,227,1,vodka,2 oz,2
+Surf Rider,Vodka,227,2,sweet vermouth,.5 oz,0.5
+Surf Rider,Vodka,227,3,orange juice,2 oz,2
+Surf Rider,Vodka,227,4,lemon juice,.5 oz,0.5
+Surf Rider,Vodka,227,5,grenadine,.25 oz,0.25
+Dinah Cocktail,Whiskies,228,1,bourbon whiskey,1.5 oz,1.5
+Dinah Cocktail,Whiskies,228,2,lemon juice,.75 oz,0.75
+Dinah Cocktail,Whiskies,228,3,simple syrup,.5 oz,0.5
+The Summer Of Love,Vodka,230,1,orange juice,2 oz,2
+Devil's Soul,Whiskies,231,1,straight rye whiskey,1.5 oz,1.5
+Deshler,Whiskies,232,1,straight rye whiskey,1.5 oz,1.5
+Deshler,Whiskies,232,3,triple sec,.25 oz,0.25
+Deshler,Whiskies,232,4,bitters,2 dash,0.04
+Stupid Cupid,Vodka,234,1,citrus flavored vodka,2 oz,2
+Stupid Cupid,Vodka,234,3,simple syrup,1 oz,1
+Stupid Cupid,Vodka,234,4,lemon juice,1 oz,1
+Derby,Whiskies,235,1,bourbon whiskey,2 oz,2
+Derby,Whiskies,235,2,benedictine,.25 oz,0.25
+Derby,Whiskies,235,3,bitters,1 dash,0.02
+Stockholm 75,Vodka,236,2,citrus flavored vodka,.75 oz,0.75
+Stockholm 75,Vodka,236,3,simple syrup,.75 oz,0.75
+The Delmarva Cocktail,Whiskies,237,1,straight rye whiskey,2 oz,2
+The Delmarva Cocktail,Whiskies,237,2,dry vermouth,.5 oz,0.5
+The Delmarva Cocktail,Whiskies,237,4,lemon juice,.5 oz,0.5
+Sputnik,Vodka,238,1,vodka,1.25 oz,1.25
+Sputnik,Vodka,238,3,orange juice,3 oz,3
+Sputnik,Vodka,238,4,half and half,3 oz,3
+Gotham,Brandy,239,2,brandy,3 oz,3
+Gotham,Brandy,239,3,bitters,3 dash,0.06
+De La Louisiane,Whiskies,240,1,straight rye whiskey,.75 oz,0.75
+De La Louisiane,Whiskies,240,2,sweet vermouth,.75 oz,0.75
+De La Louisiane,Whiskies,240,3,benedictine,.75 oz,0.75
+De La Louisiane,Whiskies,240,5,bitters,3 dash,0.06
+Soviet,Vodka,242,1,vodka,1.5 oz,1.5
+Soviet,Vodka,242,3,dry vermouth,.5 oz,0.5
+Daisy Dueller,Whiskies,243,2,lemon juice,.75 oz,0.75
+Daisy Dueller,Whiskies,243,3,simple syrup,.75 oz,0.75
+Daisy Dueller,Whiskies,243,4,triple sec,.5 oz,0.5
+Sonic Blaster,Vodka,244,1,vodka,.5 oz,0.5
+Sonic Blaster,Vodka,244,2,light rum,.5 oz,0.5
+Sonic Blaster,Vodka,244,4,pineapple juice,1 oz,1
+Sonic Blaster,Vodka,244,5,orange juice,1 oz,1
+Sonic Blaster,Vodka,244,6,cranberry juice,1 oz,1
+Creole Lady,Whiskies,245,1,bourbon whiskey,1.5 oz,1.5
+Creole Lady,Whiskies,245,3,grenadine,1 oz,1
+Rum Coooler,Cocktail Classics,246,1,powdered sugar,.5 tsp,0.5
+Siberian Sleighride,Vodka,247,1,vodka,1.25 oz,1.25
+Siberian Sleighride,Vodka,247,2,white creme de cacao,.75 oz,0.75
+Siberian Sleighride,Vodka,247,4,half and half,3 oz,3
+Cotton Club Flip,Whiskies,248,3,lime juice,.75 oz,0.75
+Cotton Club Flip,Whiskies,248,4,egg white,1 oz,1
+Cotton Club Flip,Whiskies,248,5,bitters,2 dash,0.04
+Golden Dawn,Brandy,249,1,apple brandy,1 oz,1
+Golden Dawn,Brandy,249,2,apricot flavored brandy,.5 oz,0.5
+Golden Dawn,Brandy,249,3,gin,.5 oz,0.5
+Golden Dawn,Brandy,249,4,orange juice,1 oz,1
+Golden Dawn,Brandy,249,5,grenadine,1 oz,1
+Sidecar,Cocktail Classics,250,2,triple sec,1 oz,1
+Sidecar,Cocktail Classics,250,3,lemon juice,.5 oz,0.5
+Sidecar,Cocktail Classics,250,4,vodka,1.5 oz,1.5
+Sidecar,Cocktail Classics,250,6,orange juice,.5 oz,0.5
+Shalom,Vodka,251,1,vodka,1.5 oz,1.5
+Shalom,Vodka,251,3,orange juice,.5 oz,0.5
+Shalom,Vodka,251,4,bourbon whiskey,2 oz,2
+Shalom,Vodka,251,5,white creme de cacao,.75 oz,0.75
+Shalom,Vodka,251,6,lemon juice,.5 oz,0.5
+Commodore Cocktail,Whiskies,252,1,bourbon whiskey,2 oz,2
+Commodore Cocktail,Whiskies,252,2,white creme de cacao,.75 oz,0.75
+Commodore Cocktail,Whiskies,252,3,lemon juice,.5 oz,0.5
+Commodore Cocktail,Whiskies,252,4,grenadine,1 oz,1
+Sea Breeze,Vodka,253,1,vodka,1.5 oz,1.5
+Sea Breeze,Vodka,253,2,cranberry juice,4 oz,4
+Sea Breeze,Vodka,253,3,grapefruit juice,1 oz,1
+Screwdriver,Vodka,254,1,vodka,1.5 oz,1.5
+Screwdriver,Vodka,254,2,orange juice,5 oz,5
+Coffee Old-Fashioned,Whiskies,255,1,bourbon whiskey,2 oz,2
+Coffee Old-Fashioned,Whiskies,255,2,simple syrup,.75 oz,0.75
+Coffee Old-Fashioned,Whiskies,255,3,bitters,2 dash,0.04
+Dry Martini,Cocktail Classics,256,2,dry vermouth,1/3 oz,1
+Salty Dog,Vodka,257,2,vodka,1.5 oz,1.5
+Salty Dog,Vodka,257,3,grapefruit juice,5 oz,5
+Dr. Cook,Cocktail Classics,258,2,lemon juice,1 oz,1
+Dr. Cook,Cocktail Classics,258,3,maraschino,1 oz,1
+Dr. Cook,Cocktail Classics,258,4,egg white,1 oz,1
+Dillatini Cocktail,Cocktail Classics,259,2,dry vermouth,.75 oz,0.75
+Chi-Town Flip,Whiskies,260,1,bourbon whiskey,2 oz,2
+Chi-Town Flip,Whiskies,260,3,lemon juice,.75 oz,0.75
+Chi-Town Flip,Whiskies,260,5,simple syrup,.25 oz,0.25
+Chef's Pain,Vodka,261,1,bourbon whiskey,2 oz,2
+Chef's Pain,Vodka,261,2,lime juice,.75 oz,0.75
+Sampan Shipwreck A,Vodka,262,1,vodka,1.5 oz,1.5
+Sampan Shipwreck A,Vodka,262,2,orange juice,.5 oz,0.5
+Chas,Whiskies,263,1,bourbon whiskey,1.5 oz,1.5
+Chas,Whiskies,263,2,amaretto,.25 oz,0.25
+Chas,Whiskies,263,3,benedictine,.25 oz,0.25
+Chas,Whiskies,263,4,triple sec,.25 oz,0.25
+Chas,Whiskies,263,5,orange juice,.25 oz,0.25
+Goat's Delight,Brandy,264,1,brandy,1 oz,1
+Goat's Delight,Brandy,264,3,half and half,.25 oz,0.25
+Russian Bear Cocktail,Vodka,265,1,vodka,1 oz,1
+Russian Bear Cocktail,Vodka,265,2,white creme de cacao,.5 oz,0.5
+Russian Bear Cocktail,Vodka,265,3,half and half,.5 oz,0.5
+Character Development,Whiskies,266,4,bitters,2 dash,0.04
+Ruby Red,Vodka,267,1,grapefruit juice,2 oz,2
+Ruby Red,Vodka,267,2,triple sec,1.5 oz,1.5
+Ruby Red,Vodka,267,4,orange juice,1 oz,1
+Chaplin,Whiskies,268,1,bourbon whiskey,.75 oz,0.75
+Chaplin,Whiskies,268,4,triple sec,1 oz,1
+Chaplin,Whiskies,268,5,bitters,2 dash,0.04
+Rouxby Red,Vodka,269,2,grapefruit juice,1.5 oz,1.5
+Rouxby Red,Vodka,269,6,simple syrup,.5 oz,0.5
+Rosemary Clementine Sparkle,Vodka,270,1,orange juice,.25 oz,0.25
+Rosemary Clementine Sparkle,Vodka,270,2,vodka,1.5 oz,1.5
+Rosemary Clementine Sparkle,Vodka,270,3,lemon juice,.75 oz,0.75
+Chapel Hill,Whiskies,271,1,bourbon whiskey,2 oz,2
+Chapel Hill,Whiskies,271,2,triple sec,.5 oz,0.5
+Chapel Hill,Whiskies,271,3,lemon juice,.5 oz,0.5
+Robin's Nest,Vodka,272,1,vodka,1 oz,1
+Robin's Nest,Vodka,272,2,cranberry juice,1 oz,1
+Robin's Nest,Vodka,272,3,white creme de cacao,.5 oz,0.5
+Chancellor Cocktail,Whiskies,273,1,blended scotch whiskey,1.5 oz,1.5
+Chancellor Cocktail,Whiskies,273,2,dry vermouth,.5 oz,0.5
+Chancellor Cocktail,Whiskies,273,4,bitters,1 dash,0.02
+Carre Reprise,Whiskies,275,1,straight rye whiskey,1 oz,1
+Carre Reprise,Whiskies,275,3,sweet vermouth,1 oz,1
+Carre Reprise,Whiskies,275,5,bitters,1 dash,0.02
+Gilroy Cocktail,Brandy,276,1,cherry flavored brandy,.75 oz,0.75
+Gilroy Cocktail,Brandy,276,2,gin,.75 oz,0.75
+Gilroy Cocktail,Brandy,276,3,dry vermouth,.5 oz,0.5
+Gilroy Cocktail,Brandy,276,4,lemon juice,.5 oz,0.5
+Gilroy Cocktail,Brandy,276,5,bitters,1 dash,0.02
+Redhead Martini,Vodka,277,2,lemon juice,.75 oz,0.75
+Redhead Martini,Vodka,277,3,simple syrup,.75 oz,0.75
+Redhead Martini,Vodka,277,4,citrus flavored vodka,1.5 oz,1.5
+Red Apple,Vodka,278,1,vodka,1.5 oz,1.5
+Red Apple,Vodka,278,3,lemon juice,.5 oz,0.5
+Red Apple,Vodka,278,4,grenadine,1 oz,1
+Canal Street Daisy,Whiskies,279,1,blended scotch whiskey,1 oz,1
+Canal Street Daisy,Whiskies,279,2,orange juice,1 oz,1
+Canal Street Daisy,Whiskies,279,3,lemon juice,.75 oz,0.75
+Canadian Cocktail,Whiskies,280,2,triple sec,.5 oz,0.5
+Canadian Cocktail,Whiskies,280,3,simple syrup,.5 oz,0.5
+Canadian Cocktail,Whiskies,280,4,bitters,1 dash,0.02
+Purple Ruby,Vodka,281,1,vodka,1.5 oz,1.5
+Purple Ruby,Vodka,281,3,grapefruit juice,.5 oz,0.5
+Purple Ruby,Vodka,281,4,lime juice,.25 oz,0.25
+Canadian Cherry,Whiskies,282,1,maraschino,1 oz,1
+Canadian Cherry,Whiskies,282,4,lemon juice,.5 oz,0.5
+Canadian Cherry,Whiskies,282,5,orange juice,.5 oz,0.5
+Orange Smile,Cocktail Classics,283,2,orange juice,1 oz,1
+Orange Smile,Cocktail Classics,283,3,grenadine,1 oz,1
+Purple Passion Iced Tea,Vodka,284,1,vodka,.5 oz,0.5
+Purple Passion Iced Tea,Vodka,284,2,light rum,.5 oz,0.5
+Purple Passion Iced Tea,Vodka,284,3,gin,.5 oz,0.5
+Purple Passion Iced Tea,Vodka,284,5,simple syrup,.5 oz,0.5
+Purple Passion Iced Tea,Vodka,284,6,lemon juice,.75 oz,0.75
+Canadian Breeze,Whiskies,285,2,pineapple juice,.75 oz,0.75
+Canadian Breeze,Whiskies,285,3,lemon juice,.5 oz,0.5
+Canadian Breeze,Whiskies,285,4,maraschino,.25 oz,0.25
+Purple Passion,Vodka,286,1,vodka,1.5 oz,1.5
+Purple Passion,Vodka,286,2,grapefruit juice,2 oz,2
+Purple Passion,Vodka,286,4,simple syrup,.5 oz,0.5
+Cameron's Kick Cocktail,Whiskies,287,1,blended scotch whiskey,.75 oz,0.75
+Cameron's Kick Cocktail,Whiskies,287,3,lemon juice,.5 oz,0.5
+Cameron's Kick Cocktail,Whiskies,287,4,bitters,2 dash,0.04
+Georgia Mint Julep,Brandy,288,2,simple syrup,.25 oz,0.25
+Georgia Mint Julep,Brandy,288,3,brandy,1.5 oz,1.5
+California Lemonade,Whiskies,289,1,bourbon whiskey,2 oz,2
+California Lemonade,Whiskies,289,2,lemon juice,1 oz,1
+California Lemonade,Whiskies,289,3,lime juice,1 oz,1
+California Lemonade,Whiskies,289,4,simple syrup,1 oz,1
+California Lemonade,Whiskies,289,5,grenadine,.25 oz,0.25
+Boston Side Car,Cocktail Classics,290,4,lime juice,.5 oz,0.5
+Cablegram,Whiskies,291,1,bourbon whiskey,2 oz,2
+Cablegram,Whiskies,291,2,lemon juice,1 oz,1
+Cablegram,Whiskies,291,3,simple syrup,.5 oz,0.5
+Bull And Bear,Whiskies,292,1,bourbon whiskey,1.5 oz,1.5
+Bull And Bear,Whiskies,292,2,orange juice,.75 oz,0.75
+Bull And Bear,Whiskies,292,3,lemon juice,1 oz,1
+Bull And Bear,Whiskies,292,4,grenadine,.25 oz,0.25
+Brooklyn,Whiskies,293,2,sweet vermouth,.5 oz,0.5
+Brooklyn,Whiskies,293,4,maraschino,1 oz,1
+Brighton Punch,Whiskies,294,1,bourbon whiskey,.75 oz,0.75
+Brighton Punch,Whiskies,294,2,brandy,.75 oz,0.75
+Brighton Punch,Whiskies,294,3,benedictine,.75 oz,0.75
+Brighton Punch,Whiskies,294,4,orange juice,2 oz,2
+Brighton Punch,Whiskies,294,5,lemon juice,1 oz,1
+Bourbon Renewal,Whiskies,295,1,bourbon whiskey,2 oz,2
+Bourbon Renewal,Whiskies,295,2,lemon juice,1 oz,1
+Bourbon Renewal,Whiskies,295,4,simple syrup,.5 oz,0.5
+Bourbon Renewal,Whiskies,295,5,bitters,1 dash,0.02
+Bourbon Highball,Whiskies,296,1,bourbon whiskey,2 oz,2
+Bourbon And Elder,Whiskies,297,1,bourbon whiskey,2 oz,2
+Bourbon And Elder,Whiskies,297,3,bitters,1 dash,0.02
+Bourbon Crusta,Whiskies,298,2,bourbon whiskey,2 oz,2
+Bourbon Crusta,Whiskies,298,3,triple sec,.5 oz,0.5
+Bourbon Crusta,Whiskies,298,4,maraschino,1 oz,1
+Bourbon Crusta,Whiskies,298,6,bitters,2 dash,0.04
+Bourbon Cooler,Whiskies,299,1,bourbon whiskey,2.5 oz,2.5
+Bourbon Cooler,Whiskies,299,2,lemon juice,.5 oz,0.5
+Bourbon Cooler,Whiskies,299,3,grapefruit juice,.5 oz,0.5
+Froupe Cocktail,Brandy,300,1,brandy,1.5 oz,1.5
+Froupe Cocktail,Brandy,300,2,sweet vermouth,1.5 oz,1.5
+Froupe Cocktail,Brandy,300,3,benedictine,1 oz,1
+Bourbon A La Creme,Whiskies,301,1,bourbon whiskey,2 oz,2
+The Bone,Whiskies,302,1,bourbon whiskey,2 oz,2
+The Bone,Whiskies,302,2,lime juice,.5 oz,0.5
+The Bone,Whiskies,302,3,simple syrup,.5 oz,0.5
+Bobby Burns Cocktail,Whiskies,303,1,blended scotch whiskey,1.5 oz,1.5
+Bobby Burns Cocktail,Whiskies,303,2,sweet vermouth,1.5 oz,1.5
+Bobby Burns Cocktail,Whiskies,303,3,benedictine,1 oz,1
+Bloody Scotsman,Whiskies,304,5,lime juice,3 oz,3
+Blood and Sand,Whiskies,306,1,blended scotch whiskey,.5 oz,0.5
+Blood and Sand,Whiskies,306,2,cherry flavored brandy,.5 oz,0.5
+Blood and Sand,Whiskies,306,3,sweet vermouth,.5 oz,0.5
+Blood and Sand,Whiskies,306,4,orange juice,.5 oz,0.5
+The Blinker,Whiskies,307,2,grapefruit juice,1.5 oz,1.5
+Pike's Peak Cooler,Cocktail Classics,308,2,lemon juice,.5 oz,0.5
+Pike's Peak Cooler,Cocktail Classics,308,3,powdered sugar,1 oz,1
+Pike's Peak Cooler,Cocktail Classics,308,4,whole egg,1 oz,1
+Blarney Stone Cocktail,Whiskies,309,2,anisette,.5 oz,0.5
+Blarney Stone Cocktail,Whiskies,309,3,triple sec,.5 oz,0.5
+Blarney Stone Cocktail,Whiskies,309,4,maraschino,.5 oz,0.5
+Blarney Stone Cocktail,Whiskies,309,5,bitters,1 dash,0.02
+Blarney Stone Cocktail,Whiskies,309,6,orange juice,1 oz,1
+Pacman,Cocktail Classics,310,1,lemon juice,2 oz,2
+Pacman,Cocktail Classics,310,2,grenadine,1 oz,1
+Pacman,Cocktail Classics,310,3,bitters,1 dash,0.02
+Lemonade (Golden),Cocktail Classics,311,1,lemon juice,1 oz,1
+Lemonade (Golden),Cocktail Classics,311,2,powdered sugar,2 oz,2
+Lemonade (Golden),Cocktail Classics,311,3,egg yolk,1 oz,1
+Black Hawk,Whiskies,312,1,bourbon whiskey,1.5 oz,1.5
+Lemonade (Egg),Cocktail Classics,313,1,lemon juice,1 oz,1
+Lemonade (Egg),Cocktail Classics,313,2,powdered sugar,2 oz,2
+Lemonade (Egg),Cocktail Classics,313,3,whole egg,1 oz,1
+Bensonhurst,Whiskies,314,2,straight rye whiskey,2 oz,2
+Bensonhurst,Whiskies,314,3,dry vermouth,1 oz,1
+Bensonhurst,Whiskies,314,4,maraschino,.25 oz,0.25
+Chocolate Daisy,Cocktail Classics,315,1,lemon juice,.5 oz,0.5
+Chocolate Daisy,Cocktail Classics,315,2,powdered sugar,.5 oz,0.5
+Chocolate Daisy,Cocktail Classics,315,3,grenadine,1 oz,1
+Chocolate Daisy,Cocktail Classics,315,4,brandy,1.5 oz,1.5
+Chocolate Daisy,Cocktail Classics,315,5,port,1.5 oz,1.5
+French Quarter,Brandy,317,1,brandy,2 oz,2
+Creme de Gin Cocktail,Cocktail Classics,318,1,gin,1.5 oz,1.5
+Creme de Gin Cocktail,Cocktail Classics,318,3,egg white,1 oz,1
+Creme de Gin Cocktail,Cocktail Classics,318,4,lemon juice,2 oz,2
+Creme de Gin Cocktail,Cocktail Classics,318,5,orange juice,2 oz,2
+Creamy Screwdriver,Cocktail Classics,319,1,vodka,2 oz,2
+Creamy Screwdriver,Cocktail Classics,319,2,egg yolk,1 oz,1
+Creamy Screwdriver,Cocktail Classics,319,3,orange juice,6 oz,6
+Creamy Orange,Cocktail Classics,320,1,orange juice,1 oz,1
+Creamy Orange,Cocktail Classics,320,3,brandy,.75 oz,0.75
+Creamy Orange,Cocktail Classics,320,4,light cream,1 oz,1
+Creamsicle,Cocktail Classics,321,3,orange juice,3 oz,3
+Cowboy Cocktail,Cocktail Classics,322,1,blended whiskey,1.5 oz,1.5
+Cowboy Cocktail,Cocktail Classics,322,2,light cream,1 oz,1
+Beals Cocktail,Whiskies,323,1,blended scotch whiskey,1.5 oz,1.5
+Beals Cocktail,Whiskies,323,2,dry vermouth,.5 oz,0.5
+Beals Cocktail,Whiskies,323,3,sweet vermouth,.5 oz,0.5
+Coronation Cocktail,Cocktail Classics,324,1,gin,.75 oz,0.75
+Coronation Cocktail,Cocktail Classics,324,2,dubonnet,.75 oz,0.75
+Coronation Cocktail,Cocktail Classics,324,3,dry vermouth,.75 oz,0.75
+Cornell Cocktail,Cocktail Classics,325,1,lemon juice,.5 oz,0.5
+Cornell Cocktail,Cocktail Classics,325,2,maraschino,1 oz,1
+Cornell Cocktail,Cocktail Classics,325,3,egg white,1 oz,1
+Cornell Cocktail,Cocktail Classics,325,4,gin,1.5 oz,1.5
+Combo,Cocktail Classics,326,1,dry vermouth,2.5 oz,2.5
+Combo,Cocktail Classics,326,2,brandy,1 oz,1
+Combo,Cocktail Classics,326,3,triple sec,.5 oz,0.5
+Combo,Cocktail Classics,326,4,powdered sugar,.5 oz,0.5
+Combo,Cocktail Classics,326,5,bitters,1 dash,0.02
+Basin Street,Whiskies,327,1,bourbon whiskey,2 oz,2
+Basin Street,Whiskies,327,2,triple sec,.75 oz,0.75
+Basin Street,Whiskies,327,3,lemon juice,.75 oz,0.75
+Cole's Raspberry Cream,Cocktail Classics,328,3,white creme de cacao,1.5 oz,1.5
+Cole's Raspberry Cream,Cocktail Classics,328,4,vodka,1.5 oz,1.5
+Cognac Coupling,Cocktail Classics,329,4,lemon juice,1 oz,1
+Coffee Sour,Cocktail Classics,330,2,lemon juice,1 oz,1
+Coffee Sour,Cocktail Classics,330,3,powdered sugar,1 oz,1
+Coffee Sour,Cocktail Classics,330,4,egg white,.5 oz,0.5
+Coffee Flip,Cocktail Classics,331,1,whole egg,1 oz,1
+Coffee Flip,Cocktail Classics,331,2,powdered sugar,1 oz,1
+Coffee Flip,Cocktail Classics,331,3,brandy,1 oz,1
+Coffee Flip,Cocktail Classics,331,4,port,1 oz,1
+Coffee Cocktail,Cocktail Classics,332,1,whole egg,1 oz,1
+Coffee Cocktail,Cocktail Classics,332,2,powdered sugar,1 oz,1
+Coffee Cocktail,Cocktail Classics,332,3,port,1 oz,1
+Coffee Cocktail,Cocktail Classics,332,4,brandy,1 oz,1
+Purple Mask,Vodka,333,1,vodka,1 oz,1
+Purple Mask,Vodka,333,3,white creme de cacao,.5 oz,0.5
+Clove Cocktail,Cocktail Classics,334,1,sweet vermouth,1 oz,1
+Clover Leaf Cocktail,Cocktail Classics,335,1,lime juice,1 oz,1
+Clover Leaf Cocktail,Cocktail Classics,335,2,grenadine,2 oz,2
+Clover Leaf Cocktail,Cocktail Classics,335,3,egg white,1 oz,1
+Clover Leaf Cocktail,Cocktail Classics,335,4,gin,1.5 oz,1.5
+Clover Club Cocktail,Cocktail Classics,336,1,lemon juice,1 oz,1
+Clover Club Cocktail,Cocktail Classics,336,2,grenadine,2 oz,2
+Clover Club Cocktail,Cocktail Classics,336,3,egg white,1 oz,1
+Clover Club Cocktail,Cocktail Classics,336,4,gin,1.5 oz,1.5
+Priority Cocktail,Vodka,337,1,vodka,2 oz,2
+Clamato Cocktail,Cocktail Classics,338,1,vodka,1.5 oz,1.5
+Cider Eggnog,Cocktail Classics,339,1,whole egg,1 oz,1
+Cider Eggnog,Cocktail Classics,339,2,powdered sugar,1 oz,1
+Chocolate Soldier,Cocktail Classics,340,1,lime juice,.5 oz,0.5
+Chocolate Soldier,Cocktail Classics,340,2,dubonnet,.75 oz,0.75
+Chocolate Soldier,Cocktail Classics,340,3,gin,1.5 oz,1.5
+Chocolate Flip,Cocktail Classics,341,1,whole egg,1 oz,1
+Chocolate Flip,Cocktail Classics,341,2,powdered sugar,1 oz,1
+Chocolate Flip,Cocktail Classics,341,4,brandy,.75 oz,0.75
+Chocolate Cocktail,Cocktail Classics,342,1,port,1.5 oz,1.5
+Chocolate Cocktail,Cocktail Classics,342,3,egg yolk,1 oz,1
+Chocolate Cocktail,Cocktail Classics,342,4,powdered sugar,1 oz,1
+Chicago Fizz,Cocktail Classics,343,1,lemon juice,.5 oz,0.5
+Chicago Fizz,Cocktail Classics,343,2,powdered sugar,1 oz,1
+Chicago Fizz,Cocktail Classics,343,3,egg white,1 oz,1
+Chicago Fizz,Cocktail Classics,343,4,port,1 oz,1
+Chicago Fizz,Cocktail Classics,343,5,light rum,1 oz,1
+Pretty In Pink,Vodka,344,1,vodka,2 oz,2
+Pretty In Pink,Vodka,344,2,cranberry juice,.5 oz,0.5
+Pretty In Pink,Vodka,344,4,lemon juice,.75 oz,0.75
+Cherry Wine Cocktail,Cocktail Classics,345,2,vodka,.75 oz,0.75
+Cherry Wine Cocktail,Cocktail Classics,345,3,lime juice,.5 oz,0.5
+Cherry Flip,Cocktail Classics,346,1,whole egg,1 oz,1
+Cherry Flip,Cocktail Classics,346,2,powdered sugar,1 oz,1
+Cherry Flip,Cocktail Classics,346,3,cherry flavored brandy,1.5 oz,1.5
+Polynesian Cocktail,Vodka,348,2,vodka,1.5 oz,1.5
+Polynesian Cocktail,Vodka,348,3,cherry flavored brandy,.75 oz,0.75
+Polynesian Cocktail,Vodka,348,4,lime juice,.75 oz,0.75
+Chateau Briand's Rum Cow,Cocktail Classics,349,1,dark rum,1.25 oz,1.25
+Chateau Briand's Rum Cow,Cocktail Classics,349,3,bitters,2 dash,0.04
+Pink Pussycat,Vodka,351,1,vodka,1.5 oz,1.5
+Pink Pussycat,Vodka,351,2,grapefruit juice,2 oz,2
+Pink Pussycat,Vodka,351,3,grenadine,.5 oz,0.5
+Back Porch Swizzle,Whiskies,352,1,bourbon whiskey,1.5 oz,1.5
+Back Porch Swizzle,Whiskies,352,2,dry vermouth,.5 oz,0.5
+Back Porch Swizzle,Whiskies,352,3,pineapple juice,1 oz,1
+Canadian Pineapple,Cocktail Classics,353,2,pineapple juice,1 oz,1
+Canadian Pineapple,Cocktail Classics,353,3,lemon juice,1 oz,1
+Canadian Pineapple,Cocktail Classics,353,4,maraschino,.5 oz,0.5
+Calm Voyage,Cocktail Classics,354,2,light rum,.5 oz,0.5
+Calm Voyage,Cocktail Classics,354,4,lemon juice,2 oz,2
+Calm Voyage,Cocktail Classics,354,5,egg white,.5 oz,0.5
+Pink Lemonade,Vodka,355,1,citrus flavored vodka,1.5 oz,1.5
+Pink Lemonade,Vodka,355,2,triple sec,.25 oz,0.25
+Pink Lemonade,Vodka,355,3,lime juice,.25 oz,0.25
+Pink Lemonade,Vodka,355,4,lemon juice,.25 oz,0.25
+Pink Lemonade,Vodka,355,5,simple syrup,.25 oz,0.25
+Caledonia,Cocktail Classics,356,2,brandy,1 oz,1
+Caledonia,Cocktail Classics,356,4,egg yolk,1 oz,1
+Caf_ di Amaretto,Cocktail Classics,357,2,amaretto,1 oz,1
+Cafe De Paris Cocktail,Cocktail Classics,358,1,egg white,1 oz,1
+Cafe De Paris Cocktail,Cocktail Classics,358,3,light cream,1 oz,1
+Cafe De Paris Cocktail,Cocktail Classics,358,4,gin,1.5 oz,1.5
+Aztec's Mark,Whiskies,359,1,bourbon whiskey,1.5 oz,1.5
+Aztec's Mark,Whiskies,359,2,white creme de cacao,.5 oz,0.5
+Aztec's Mark,Whiskies,359,3,benedictine,.25 oz,0.25
+Fontainebleau Special,Brandy,360,1,brandy,1 oz,1
+Fontainebleau Special,Brandy,360,2,anisette,1 oz,1
+Fontainebleau Special,Brandy,360,3,dry vermouth,.5 oz,0.5
+Suntan,Cocktail Classics,361,2,orange juice,2 oz,2
+Sunburn,Cocktail Classics,362,2,grapefruit juice,2 oz,2
+Suissesse Cocktail,Cocktail Classics,363,1,anisette,2 oz,2
+Suissesse Cocktail,Cocktail Classics,363,2,egg white,1 oz,1
+Strawberry Sunries,Cocktail Classics,364,2,grenadine,.5 oz,0.5
+Autumn Leaves,Whiskies,365,1,straight rye whiskey,.75 oz,0.75
+Autumn Leaves,Whiskies,365,2,apple brandy,.75 oz,0.75
+Autumn Leaves,Whiskies,365,3,sweet vermouth,.75 oz,0.75
+Autumn Leaves,Whiskies,365,5,bitters,2 dash,0.04
+Pickled Pink,Vodka,366,1,vodka,2 oz,2
+Pickled Pink,Vodka,366,4,bitters,2 dash,0.04
+Aquarius,Whiskies,367,1,blended scotch whiskey,1.5 oz,1.5
+Aquarius,Whiskies,367,2,cherry flavored brandy,.5 oz,0.5
+Aquarius,Whiskies,367,3,cranberry juice,1 oz,1
+Soul Kiss Cocktail,Cocktail Classics,368,1,orange juice,1.5 oz,1.5
+Soul Kiss Cocktail,Cocktail Classics,368,2,dubonnet,1.5 oz,1.5
+Soul Kiss Cocktail,Cocktail Classics,368,3,dry vermouth,.75 oz,0.75
+Pickled Martini,Vodka,369,1,vodka,2 oz,2
+Pickled Martini,Vodka,369,2,dry vermouth,.25 oz,0.25
+Sloe Gin Flip,Cocktail Classics,370,1,whole egg,1 oz,1
+Sloe Gin Flip,Cocktail Classics,370,2,powdered sugar,1 oz,1
+Angel's Share,Whiskies,371,1,bourbon whiskey,1.5 oz,1.5
+Angel's Share,Whiskies,371,4,bitters,1 dash,0.02
+Silver Stallion Fizz,Cocktail Classics,372,2,gin,2 oz,2
+Silver King Cocktail,Cocktail Classics,373,1,egg white,1 oz,1
+Silver King Cocktail,Cocktail Classics,373,2,lemon juice,.25 oz,0.25
+Silver King Cocktail,Cocktail Classics,373,3,gin,1.5 oz,1.5
+Silver King Cocktail,Cocktail Classics,373,4,powdered sugar,.5 oz,0.5
+Silver King Cocktail,Cocktail Classics,373,5,bitters,2 dash,0.04
+American Trilogy,Whiskies,374,2,straight rye whiskey,1 oz,1
+Silver Fizz,Cocktail Classics,375,1,lemon juice,.5 oz,0.5
+Silver Fizz,Cocktail Classics,375,2,powdered sugar,1 oz,1
+Silver Fizz,Cocktail Classics,375,3,gin,2 oz,2
+Silver Fizz,Cocktail Classics,375,4,egg white,1 oz,1
+Sherry Twist Cocktail,Cocktail Classics,376,2,brandy,.5 oz,0.5
+Sherry Twist Cocktail,Cocktail Classics,376,3,dry vermouth,.5 oz,0.5
+Sherry Twist Cocktail,Cocktail Classics,376,4,triple sec,.5 oz,0.5
+Sherry Twist Cocktail,Cocktail Classics,376,5,lemon juice,.5 oz,0.5
+Sherry Sangaree,Cocktail Classics,377,1,powdered sugar,.5 oz,0.5
+Sherry Sangaree,Cocktail Classics,377,5,port,1 oz,1
+Sherry Milk Punch,Cocktail Classics,378,1,powdered sugar,1 oz,1
+Petit Zinc,Vodka,379,1,vodka,1 oz,1
+Petit Zinc,Vodka,379,2,triple sec,.5 oz,0.5
+Petit Zinc,Vodka,379,3,sweet vermouth,.5 oz,0.5
+Petit Zinc,Vodka,379,4,orange juice,.5 oz,0.5
+Sherry Flip,Cocktail Classics,380,1,whole egg,1 oz,1
+Sherry Flip,Cocktail Classics,380,2,powdered sugar,1 oz,1
+Americana,Whiskies,382,2,simple syrup,.5 oz,0.5
+Americana,Whiskies,382,3,bitters,2 dash,0.04
+Allegheny,Whiskies,383,1,bourbon whiskey,1 oz,1
+Allegheny,Whiskies,383,2,dry vermouth,1 oz,1
+Allegheny,Whiskies,383,4,lemon juice,.5 oz,0.5
+Sevilla Cocktail,Cocktail Classics,384,1,powdered sugar,.5 oz,0.5
+Sevilla Cocktail,Cocktail Classics,384,2,whole egg,1 oz,1
+Sevilla Cocktail,Cocktail Classics,384,3,port,1 oz,1
+Sevilla Cocktail,Cocktail Classics,384,4,light rum,1 oz,1
+September Morn Cocktail,Cocktail Classics,385,1,egg white,1 oz,1
+September Morn Cocktail,Cocktail Classics,385,2,light rum,1 oz,1
+September Morn Cocktail,Cocktail Classics,385,3,lime juice,.5 oz,0.5
+September Morn Cocktail,Cocktail Classics,385,4,grenadine,1 oz,1
+Peach Iced Tea,Vodka,386,2,orange juice,.5 oz,0.5
+Peach Iced Tea,Vodka,386,3,lemon juice,.75 oz,0.75
+Fantasio Cocktail,Brandy,387,1,brandy,1 oz,1
+Fantasio Cocktail,Brandy,387,2,dry vermouth,.75 oz,0.75
+Fantasio Cocktail,Brandy,387,4,maraschino,1 oz,1
+Scotch Bird Flyer,Cocktail Classics,388,2,egg yolk,1 oz,1
+Scotch Bird Flyer,Cocktail Classics,388,3,triple sec,.5 oz,0.5
+Scotch Bird Flyer,Cocktail Classics,388,4,powdered sugar,.5 oz,0.5
+Scotch Bird Flyer,Cocktail Classics,388,5,light cream,1 oz,1
+Algonquin,Whiskies,389,1,straight rye whiskey,1.5 oz,1.5
+Algonquin,Whiskies,389,2,dry vermouth,1 oz,1
+Algonquin,Whiskies,389,3,pineapple juice,1 oz,1
+Savannah,Cocktail Classics,390,1,orange juice,.5 oz,0.5
+Savannah,Cocktail Classics,390,2,gin,1 oz,1
+Savannah,Cocktail Classics,390,3,white creme de cacao,1 oz,1
+Savannah,Cocktail Classics,390,4,egg white,1 oz,1
+Pink Rose Fizz,Cocktail Classics,391,1,lemon juice,.5 oz,0.5
+Pink Rose Fizz,Cocktail Classics,391,2,powdered sugar,1 oz,1
+Pink Rose Fizz,Cocktail Classics,391,3,egg white,1 oz,1
+Pink Rose Fizz,Cocktail Classics,391,4,light cream,2 oz,2
+Pink Rose Fizz,Cocktail Classics,391,5,gin,2 oz,2
+Ninotchka Cocktail,Vodka,392,1,vodka,1.5 oz,1.5
+Ninotchka Cocktail,Vodka,392,2,white creme de cacao,.5 oz,0.5
+Ninotchka Cocktail,Vodka,392,3,lemon juice,.25 oz,0.25
+Prairie Oyster,Cocktail Classics,393,1,brandy,1 oz,1
+Prairie Chicken,Cocktail Classics,394,1,gin,1 oz,1
+Prairie Chicken,Cocktail Classics,394,2,whole egg,1 oz,1
+Pousse L'Amour,Cocktail Classics,395,1,maraschino,1 oz,1
+Pousse L'Amour,Cocktail Classics,395,2,egg yolk,1 oz,1
+Pousse L'Amour,Cocktail Classics,395,3,benedictine,.5 oz,0.5
+Pousse L'Amour,Cocktail Classics,395,4,brandy,.5 oz,0.5
+Puerto Apple,Cocktail Classics,396,2,light rum,.75 oz,0.75
+Puerto Apple,Cocktail Classics,396,3,lime juice,1 oz,1
+Akogare,Whiskies,397,1,straight rye whiskey,1.5 oz,1.5
+Akogare,Whiskies,397,4,lemon juice,.75 oz,0.75
+Prado,Cocktail Classics,398,2,lemon juice,.75 oz,0.75
+Prado,Cocktail Classics,398,3,maraschino,1 oz,1
+Prado,Cocktail Classics,398,4,egg white,.5 oz,0.5
+Prado,Cocktail Classics,398,5,grenadine,1 oz,1
+Port Wine Flip,Cocktail Classics,399,1,whole egg,1 oz,1
+Port Wine Flip,Cocktail Classics,399,2,powdered sugar,1 oz,1
+Port Wine Flip,Cocktail Classics,399,3,port,1.5 oz,1.5
+Port Wine Cobbler,Cocktail Classics,400,1,powdered sugar,1 tsp,1
+Port Wine Cobbler,Cocktail Classics,400,4,port,3 oz,3
+Nijinksy Blini,Vodka,401,1,vodka,1 oz,1
+Nijinksy Blini,Vodka,401,4,lemon juice,.25 oz,0.25
+Affinity Cocktail (whisky),Whiskies,402,1,blended scotch whiskey,1 oz,1
+Affinity Cocktail (whisky),Whiskies,402,2,dry vermouth,1 oz,1
+Affinity Cocktail (whisky),Whiskies,402,3,sweet vermouth,1 oz,1
+Affinity Cocktail (whisky),Whiskies,402,4,bitters,3 dash,0.06
+Plain Vermouth Cocktail,Cocktail Classics,403,1,dry vermouth,1 oz,1
+Plain Vermouth Cocktail,Cocktail Classics,403,2,sweet vermouth,1 oz,1
+Plain Vermouth Cocktail,Cocktail Classics,403,3,bitters,1 dash,0.02
+Ping-Pong Cocktail,Cocktail Classics,404,1,lemon juice,.25 oz,0.25
+Ping-Pong Cocktail,Cocktail Classics,404,2,egg white,1 oz,1
+Moscow Mule,Vodka,405,1,vodka,1.5 oz,1.5
+Moscow Mule,Vodka,405,2,lime juice,.5 oz,0.5
+Phoebe Snow,Cocktail Classics,406,1,dubonnet,1.5 oz,1.5
+Phoebe Snow,Cocktail Classics,406,2,brandy,1.5 oz,1.5
+Affinity Cocktail,Whiskies,407,1,straight rye whiskey,2 oz,2
+Affinity Cocktail,Whiskies,407,2,maraschino,.75 oz,0.75
+Affinity Cocktail,Whiskies,407,3,lemon juice,.75 oz,0.75
+Affinity Cocktail,Whiskies,407,4,bitters,2 dash,0.04
+Peggy Cocktail,Cocktail Classics,408,1,dry vermouth,.75 oz,0.75
+Peggy Cocktail,Cocktail Classics,408,2,gin,1.5 oz,1.5
+Peggy Cocktail,Cocktail Classics,408,4,dubonnet,.25 oz,0.25
+Peach Blow Fizz,Cocktail Classics,409,1,lemon juice,.5 oz,0.5
+Peach Blow Fizz,Cocktail Classics,409,2,powdered sugar,1 oz,1
+Peach Blow Fizz,Cocktail Classics,409,3,light cream,1 oz,1
+Peach Blow Fizz,Cocktail Classics,409,4,gin,2 oz,2
+Peach Blossom,Cocktail Classics,410,1,lemon juice,1 oz,1
+Peach Blossom,Cocktail Classics,410,2,powdered sugar,.5 oz,0.5
+Peach Blossom,Cocktail Classics,410,3,gin,2 oz,2
+Mocha Express,Vodka,412,1,vodka,1.5 oz,1.5
+Palmer Cocktail,Cocktail Classics,413,1,blended whiskey,2 oz,2
+Palmer Cocktail,Cocktail Classics,413,2,bitters,1 dash,0.02
+Palmer Cocktail,Cocktail Classics,413,3,lemon juice,.5 oz,0.5
+Mr. 404,Vodka,414,1,vodka,1.5 oz,1.5
+Mr. 404,Vodka,414,3,lemon juice,.75 oz,0.75
+Mr. 404,Vodka,414,4,simple syrup,.5 oz,0.5
+Mountain Cocktail,Cocktail Classics,415,1,egg white,1 oz,1
+Mountain Cocktail,Cocktail Classics,415,2,lemon juice,.25 oz,0.25
+Mountain Cocktail,Cocktail Classics,415,3,dry vermouth,.25 oz,0.25
+Mountain Cocktail,Cocktail Classics,415,4,sweet vermouth,.25 oz,0.25
+Mountain Cocktail,Cocktail Classics,415,5,blended whiskey,1.5 oz,1.5
+Morning Glory Fizz,Cocktail Classics,416,1,lemon juice,.5 oz,0.5
+Morning Glory Fizz,Cocktail Classics,416,2,powdered sugar,1 oz,1
+Morning Glory Fizz,Cocktail Classics,416,3,egg white,1 oz,1
+Adderly Cocktail,Whiskies,417,1,straight rye whiskey,2 oz,2
+Adderly Cocktail,Whiskies,417,2,maraschino,.75 oz,0.75
+Adderly Cocktail,Whiskies,417,3,bitters,2 dash,0.04
+Adderly Cocktail,Whiskies,417,4,lemon juice,.75 oz,0.75
+Fancy Brandy,Brandy,418,1,brandy,2 oz,2
+Fancy Brandy,Brandy,418,2,triple sec,.25 oz,0.25
+Fancy Brandy,Brandy,418,3,simple syrup,.25 oz,0.25
+Fancy Brandy,Brandy,418,4,bitters,1 dash,0.02
+Montreal Gin Sour,Cocktail Classics,419,1,gin,1 oz,1
+Montreal Gin Sour,Cocktail Classics,419,2,lemon juice,1 oz,1
+Montreal Gin Sour,Cocktail Classics,419,3,egg white,.5 oz,0.5
+Montreal Gin Sour,Cocktail Classics,419,4,powdered sugar,1 oz,1
+Montezuma,Cocktail Classics,420,3,egg yolk,1 oz,1
+Miss Jones,Vodka,421,2,lemon juice,1 oz,1
+Mint Gin Cocktail,Cocktail Classics,422,3,dry vermouth,1.5 oz,1.5
+Mint Collins,Cocktail Classics,423,1,lemon juice,.5 oz,0.5
+Million-Dollar Cocktail,Cocktail Classics,424,1,pineapple juice,2 oz,2
+Million-Dollar Cocktail,Cocktail Classics,424,2,grenadine,1 oz,1
+Million-Dollar Cocktail,Cocktail Classics,424,3,egg white,1 oz,1
+Million-Dollar Cocktail,Cocktail Classics,424,4,sweet vermouth,.75 oz,0.75
+Million-Dollar Cocktail,Cocktail Classics,424,5,gin,1.5 oz,1.5
+Millionaire Cocktail,Cocktail Classics,425,1,egg white,1 oz,1
+Millionaire Cocktail,Cocktail Classics,425,2,grenadine,.25 oz,0.25
+Millionaire Cocktail,Cocktail Classics,425,3,triple sec,.5 oz,0.5
+Millionaire Cocktail,Cocktail Classics,425,4,blended whiskey,1.5 oz,1.5
+Academic Review,Whiskies,426,6,bitters,2 dash,0.04
+Milk Punch,Cocktail Classics,427,1,powdered sugar,1 oz,1
+Milk Punch,Cocktail Classics,427,2,blended whiskey,2 oz,2
+Merry Widow Fizz,Cocktail Classics,428,1,orange juice,.5 oz,0.5
+Merry Widow Fizz,Cocktail Classics,428,2,lemon juice,.5 oz,0.5
+Merry Widow Fizz,Cocktail Classics,428,3,egg white,1 oz,1
+Merry Widow Fizz,Cocktail Classics,428,4,powdered sugar,1 oz,1
+May Blossom Fizz,Cocktail Classics,429,1,grenadine,1 oz,1
+May Blossom Fizz,Cocktail Classics,429,2,lemon juice,.5 oz,0.5
+Mary Garden Cocktail,Cocktail Classics,430,1,dubonnet,1.5 oz,1.5
+Mary Garden Cocktail,Cocktail Classics,430,2,dry vermouth,.75 oz,0.75
+19th Century,Whiskies,431,1,bourbon whiskey,1.5 oz,1.5
+19th Century,Whiskies,431,2,lemon juice,.75 oz,0.75
+19th Century,Whiskies,431,3,white creme de cacao,.75 oz,0.75
+Manila Fizz,Cocktail Classics,432,1,gin,2 oz,2
+Manila Fizz,Cocktail Classics,432,2,whole egg,1 oz,1
+Manila Fizz,Cocktail Classics,432,3,powdered sugar,1 oz,1
+Manila Fizz,Cocktail Classics,432,5,lime juice,.5 oz,0.5
+1626,Whiskies,433,1,bourbon whiskey,2.5 oz,2.5
+1626,Whiskies,433,3,cherry flavored brandy,.5 oz,0.5
+1626,Whiskies,433,4,bitters,2 dash,0.04
+Maracuya Mosquito,Vodka,434,2,vodka,1.5 oz,1.5
+Maracuya Mosquito,Vodka,434,4,lime juice,.5 oz,0.5
+Maracuya Mosquito,Vodka,434,5,simple syrup,.5 oz,0.5
+Madras,Vodka,435,1,vodka,1.5 oz,1.5
+Madras,Vodka,435,2,cranberry juice,4 oz,4
+Madras,Vodka,435,3,orange juice,1 oz,1
+Absinthe Cocktail,Cocktail Classics,436,4,bitters,1 dash,0.02
+Lychee Lucy,Vodka,437,1,vodka,1.5 oz,1.5
+Lychee Lucy,Vodka,437,3,orange juice,.5 oz,0.5
+Lychee Lucy,Vodka,437,4,pineapple juice,.5 oz,0.5
+Lychee Lucy,Vodka,437,5,bitters,2 dash,0.04
+Vodka Martini,Cocktail Classics,438,2,dry vermouth,.75 oz,0.75
+The Loop,Vodka,439,2,white creme de cacao,.5 oz,0.5
+Long Island Iced Tea,Vodka,440,1,vodka,.75 oz,0.75
+Long Island Iced Tea,Vodka,440,2,blanco tequila,.75 oz,0.75
+Long Island Iced Tea,Vodka,440,3,gin,.75 oz,0.75
+Long Island Iced Tea,Vodka,440,4,light rum,.75 oz,0.75
+Long Island Iced Tea,Vodka,440,5,triple sec,.75 oz,0.75
+Fallen Leaves,Brandy,441,2,sweet vermouth,.75 oz,0.75
+Fallen Leaves,Brandy,441,3,dry vermouth,.25 oz,0.25
+Fallen Leaves,Brandy,441,4,brandy,1 oz,1
+L'italienne,Vodka,442,1,vodka,2 oz,2
+L'italienne,Vodka,442,4,bitters,1 dash,0.02
+Rum Dubonnet,Cocktail Classics,443,1,light rum,1.5 oz,1.5
+Rum Dubonnet,Cocktail Classics,443,2,dubonnet,1.5 oz,1.5
+Rum Dubonnet,Cocktail Classics,443,3,lemon juice,1 oz,1
+Ruby Fizz,Cocktail Classics,444,1,lemon juice,.5 oz,0.5
+Ruby Fizz,Cocktail Classics,444,2,powdered sugar,1 oz,1
+Ruby Fizz,Cocktail Classics,444,3,egg white,1 oz,1
+Ruby Fizz,Cocktail Classics,444,4,grenadine,1 oz,1
+Limoncello Manzanilla Marmalade Sour,Vodka,445,1,citrus flavored vodka,1.5 oz,1.5
+Limoncello Manzanilla Marmalade Sour,Vodka,445,4,lemon juice,.75 oz,0.75
+Limoncello Manzanilla Marmalade Sour,Vodka,445,5,grapefruit juice,1 oz,1
+Royal Gin Fizz,Cocktail Classics,447,1,lemon juice,.5 oz,0.5
+Royal Gin Fizz,Cocktail Classics,447,2,powdered sugar,1 oz,1
+Royal Gin Fizz,Cocktail Classics,447,3,gin,2 oz,2
+Royal Gin Fizz,Cocktail Classics,447,4,whole egg,1 oz,1
+Royal Cocktail,Cocktail Classics,448,1,whole egg,1 oz,1
+Royal Cocktail,Cocktail Classics,448,2,lemon juice,.5 oz,0.5
+Royal Cocktail,Cocktail Classics,448,3,powdered sugar,.5 oz,0.5
+Royal Cocktail,Cocktail Classics,448,4,gin,1.5 oz,1.5
+Royal Clover Club Cocktail,Cocktail Classics,449,1,lime juice,1 oz,1
+Royal Clover Club Cocktail,Cocktail Classics,449,2,grenadine,1 oz,1
+Royal Clover Club Cocktail,Cocktail Classics,449,3,egg yolk,1 oz,1
+Royal Clover Club Cocktail,Cocktail Classics,449,4,gin,1.5 oz,1.5
+Lights On The Plaza,Vodka,450,2,lemon juice,.5 oz,0.5
+Lights On The Plaza,Vodka,450,3,simple syrup,.5 oz,0.5
+Rococo,Cocktail Classics,451,2,orange juice,1 oz,1
+Rococo,Cocktail Classics,451,3,triple sec,.5 oz,0.5
+Rock & Rye Cooler,Cocktail Classics,452,2,vodka,1.5 oz,1.5
+Rock & Rye Cooler,Cocktail Classics,452,3,lime juice,1 oz,1
+Rock & Rye Cocktail,Cocktail Classics,453,3,dry vermouth,1.5 oz,1.5
+Le Paradini,Vodka,454,1,vodka,1.5 oz,1.5
+Red Swizzle,Cocktail Classics,455,1,lime juice,1 oz,1
+Red Swizzle,Cocktail Classics,455,2,powdered sugar,1 oz,1
+Red Swizzle,Cocktail Classics,455,4,gin,2 oz,2
+Red Swizzle,Cocktail Classics,455,5,bitters,2 dash,0.04
+Red Swizzle,Cocktail Classics,455,6,grenadine,1 oz,1
+Lemon Drop,Vodka,456,4,simple syrup,.25 oz,0.25
+Rebel Charge,Cocktail Classics,457,2,triple sec,.5 oz,0.5
+Rebel Charge,Cocktail Classics,457,3,orange juice,1 oz,1
+Rebel Charge,Cocktail Classics,457,4,lemon juice,1 oz,1
+Rebel Charge,Cocktail Classics,457,5,egg white,.5 oz,0.5
+Rattlesnake Cocktail,Cocktail Classics,458,1,blended whiskey,1.5 oz,1.5
+Rattlesnake Cocktail,Cocktail Classics,458,2,egg white,1 oz,1
+Rattlesnake Cocktail,Cocktail Classics,458,3,lemon juice,1 oz,1
+Rattlesnake Cocktail,Cocktail Classics,458,4,powdered sugar,.5 oz,0.5
+Ramos Fizz,Cocktail Classics,459,1,lemon juice,.5 oz,0.5
+Ramos Fizz,Cocktail Classics,459,2,egg white,1 oz,1
+Ramos Fizz,Cocktail Classics,459,3,powdered sugar,1 oz,1
+Ramos Fizz,Cocktail Classics,459,4,gin,2 oz,2
+Ramos Fizz,Cocktail Classics,459,5,light cream,1 oz,1
+Ramos Fizz,Cocktail Classics,459,6,triple sec,.5 oz,0.5
+San Francisco,Cocktail Classics,460,2,sweet vermouth,.75 oz,0.75
+San Francisco,Cocktail Classics,460,3,dry vermouth,.75 oz,0.75
+San Francisco,Cocktail Classics,460,4,bitters,1 dash,0.02
+Sand-Martini Cocktail,Cocktail Classics,461,2,sweet vermouth,1.5 oz,1.5
+Sand-Martini Cocktail,Cocktail Classics,461,3,gin,1.5 oz,1.5
+Sake Martini (Sakini),Cocktail Classics,462,2,gin,3 oz,3
+Lemon Crush,Vodka,463,2,citrus flavored vodka,1.5 oz,1.5
+Lemon Crush,Vodka,463,4,triple sec,.5 oz,0.5
+Rye Whiskey Cocktail,Cocktail Classics,464,1,bitters,1 dash,0.02
+Rye Whiskey Cocktail,Cocktail Classics,464,2,powdered sugar,1 oz,1
+Leaves Of Grass,Vodka,465,4,bitters,2 dash,0.04
+Widow's Dream,Cocktail Classics,466,1,benedictine,1.5 oz,1.5
+Widow's Dream,Cocktail Classics,466,2,whole egg,1 oz,1
+Whiskey Flip,Cocktail Classics,467,1,whole egg,1 oz,1
+Whiskey Flip,Cocktail Classics,467,2,powdered sugar,1 oz,1
+Whiskey Flip,Cocktail Classics,467,3,blended whiskey,1 oz,1
+L.A. Sunrise,Vodka,468,1,vodka,1 oz,1
+L.A. Sunrise,Vodka,468,3,orange juice,2 oz,2
+L.A. Sunrise,Vodka,468,4,pineapple juice,2 oz,2
+L.A. Sunrise,Vodka,468,5,dark rum,.25 oz,0.25
+White Rose Cocktail,Cocktail Classics,469,1,gin,.75 oz,0.75
+White Rose Cocktail,Cocktail Classics,469,2,orange juice,1 oz,1
+White Rose Cocktail,Cocktail Classics,469,3,lime juice,1 oz,1
+White Rose Cocktail,Cocktail Classics,469,4,maraschino,.5 oz,0.5
+White Rose Cocktail,Cocktail Classics,469,5,egg white,1 oz,1
+White Plush,Cocktail Classics,470,1,blended whiskey,2 oz,2
+White Plush,Cocktail Classics,470,3,powdered sugar,1 oz,1
+White Elephant,Cocktail Classics,471,1,gin,1.5 oz,1.5
+White Elephant,Cocktail Classics,471,2,sweet vermouth,1 oz,1
+White Elephant,Cocktail Classics,471,3,egg white,1 oz,1
+Whiskey Toddy (cold),Cocktail Classics,472,1,powdered sugar,.5 oz,0.5
+Whiskey Toddy (cold),Cocktail Classics,472,3,blended whiskey,2 oz,2
+Kretchma Cocktail,Vodka,473,1,vodka,1 oz,1
+Kretchma Cocktail,Vodka,473,2,white creme de cacao,1 oz,1
+Kretchma Cocktail,Vodka,473,3,lemon juice,.25 oz,0.25
+Kretchma Cocktail,Vodka,473,4,grenadine,.25 oz,0.25
+Whiskey Skin,Cocktail Classics,474,3,blended whiskey,2 oz,2
+Whiskey Milk Punch,Cocktail Classics,475,1,powdered sugar,1 oz,1
+Whiskey Milk Punch,Cocktail Classics,475,2,blended whiskey,2 oz,2
+Katana,Vodka,476,2,vodka,1.5 oz,1.5
+Katana,Vodka,476,4,lime juice,.75 oz,0.75
+Katana,Vodka,476,5,simple syrup,.75 oz,0.75
+Ethel Duffy Cocktail,Brandy,477,1,apricot flavored brandy,.75 oz,0.75
+Ethel Duffy Cocktail,Brandy,477,3,triple sec,.75 oz,0.75
+Daiquiri,Cocktail Classics,478,1,light rum,2 oz,2
+Daiquiri,Cocktail Classics,478,2,lime juice,.75 oz,0.75
+Daiquiri,Cocktail Classics,478,3,simple syrup,.75 oz,0.75
+Wembley Cocktail,Cocktail Classics,479,1,dry vermouth,.75 oz,0.75
+Wembley Cocktail,Cocktail Classics,479,2,gin,1.5 oz,1.5
+Wembley Cocktail,Cocktail Classics,479,3,apricot flavored brandy,.25 oz,0.25
+Wembley Cocktail,Cocktail Classics,479,4,apple brandy,.5 oz,0.5
+Weep-No-More Cocktail,Cocktail Classics,480,1,lime juice,.5 oz,0.5
+Weep-No-More Cocktail,Cocktail Classics,480,2,dubonnet,.75 oz,0.75
+Weep-No-More Cocktail,Cocktail Classics,480,3,brandy,.75 oz,0.75
+Weep-No-More Cocktail,Cocktail Classics,480,4,maraschino,.25 oz,0.25
+Jungle Juice,Vodka,481,1,vodka,1 oz,1
+Jungle Juice,Vodka,481,2,light rum,1 oz,1
+Jungle Juice,Vodka,481,3,triple sec,.5 oz,0.5
+Jungle Juice,Vodka,481,4,lemon juice,1 oz,1
+Jungle Juice,Vodka,481,5,simple syrup,1 oz,1
+Wedding Belle Cocktail,Cocktail Classics,482,1,orange juice,1.5 oz,1.5
+Wedding Belle Cocktail,Cocktail Classics,482,2,cherry flavored brandy,1.5 oz,1.5
+Wedding Belle Cocktail,Cocktail Classics,482,3,gin,.75 oz,0.75
+Wedding Belle Cocktail,Cocktail Classics,482,4,dubonnet,.75 oz,0.75
+Waterloo,Cocktail Classics,483,1,light rum,1 oz,1
+Waterloo,Cocktail Classics,483,2,orange juice,3 oz,3
+Waterbury Cocktail,Cocktail Classics,484,1,powdered sugar,.5 oz,0.5
+Waterbury Cocktail,Cocktail Classics,484,2,lemon juice,.25 oz,0.25
+Waterbury Cocktail,Cocktail Classics,484,3,egg white,1 oz,1
+Waterbury Cocktail,Cocktail Classics,484,4,brandy,1.5 oz,1.5
+Waterbury Cocktail,Cocktail Classics,484,5,grenadine,.5 oz,0.5
+Washington Cocktail,Cocktail Classics,485,1,dry vermouth,1.5 oz,1.5
+Washington Cocktail,Cocktail Classics,485,2,brandy,.75 oz,0.75
+Washington Cocktail,Cocktail Classics,485,3,bitters,2 dash,0.04
+The Jamaican Ten Speed,Vodka,486,1,vodka,1 oz,1
+The Jamaican Ten Speed,Vodka,486,5,half and half,.5 oz,0.5
+Twin Six Cocktail,Cocktail Classics,487,1,gin,1 oz,1
+Twin Six Cocktail,Cocktail Classics,487,2,sweet vermouth,.5 oz,0.5
+Twin Six Cocktail,Cocktail Classics,487,3,grenadine,.25 oz,0.25
+Twin Six Cocktail,Cocktail Classics,487,4,orange juice,1 oz,1
+Twin Six Cocktail,Cocktail Classics,487,5,egg white,1 oz,1
+Jackie-O,Vodka,488,2,orange juice,.5 oz,0.5
+Jackie-O,Vodka,488,5,lemon juice,.5 oz,0.5
+Trois Rivieres,Cocktail Classics,490,2,dubonnet,1 oz,1
+Trois Rivieres,Cocktail Classics,490,3,triple sec,1.5 oz,1.5
+Tovarich Cocktail,Cocktail Classics,491,1,vodka,1.5 oz,1.5
+Tovarich Cocktail,Cocktail Classics,491,3,lime juice,.5 oz,0.5
+Italian Screwdriver,Vodka,492,2,citrus flavored vodka,1.5 oz,1.5
+Italian Screwdriver,Vodka,492,3,orange juice,3 oz,3
+Italian Screwdriver,Vodka,492,4,grapefruit juice,2 oz,2
+T.N.T. Cocktail No. 1,Cocktail Classics,494,1,blended whiskey,1.5 oz,1.5
+Ibiza,Vodka,495,1,orange juice,1 oz,1
+Ibiza,Vodka,495,3,grapefruit juice,1 oz,1
+Thunder,Cocktail Classics,496,1,powdered sugar,1 oz,1
+Thunder,Cocktail Classics,496,2,egg yolk,1 oz,1
+Thunder,Cocktail Classics,496,3,brandy,1.5 oz,1.5
+Huntsman Cocktail,Vodka,497,1,vodka,1.5 oz,1.5
+Huntsman Cocktail,Vodka,497,3,lime juice,.5 oz,0.5
+Huntsman Cocktail,Vodka,497,4,simple syrup,.5 oz,0.5
+Tequila Fizz,Cocktail Classics,498,2,grenadine,.75 oz,0.75
+Tequila Fizz,Cocktail Classics,498,3,lemon juice,1 oz,1
+Tequila Fizz,Cocktail Classics,498,4,egg white,1 oz,1
+Humpty Dumpty,Vodka,499,1,vodka,2 oz,2
+Humpty Dumpty,Vodka,499,2,orange juice,1 oz,1
+Humpty Dumpty,Vodka,499,4,whole egg,1 oz,1
+Humpty Dumpty,Vodka,499,5,bitters,3 dash,0.06
+Tequila Cocktail,Cocktail Classics,500,2,lemon juice,.5 oz,0.5
+Tequila Cocktail,Cocktail Classics,500,3,grenadine,4 oz,4
+Tequila Cocktail,Cocktail Classics,500,4,egg white,1 oz,1
+Temptation Cocktail,Cocktail Classics,501,1,blended whiskey,1.5 oz,1.5
+Temptation Cocktail,Cocktail Classics,501,2,triple sec,.5 oz,0.5
+Temptation Cocktail,Cocktail Classics,501,4,dubonnet,.5 oz,0.5
+Tchoupitolas Street Guzzle,Cocktail Classics,502,1,light rum,1 oz,1
+Tahitian Tea,Cocktail Classics,503,1,gin,.5 oz,0.5
+Tahitian Tea,Cocktail Classics,503,2,light rum,.5 oz,0.5
+Tahitian Tea,Cocktail Classics,503,3,vodka,.5 oz,0.5
+Tahitian Tea,Cocktail Classics,503,6,orange juice,1 oz,1
+Limey,Cocktail Classics,504,1,light rum,1 oz,1
+Limey,Cocktail Classics,504,2,lime juice,1 oz,1
+Limey,Cocktail Classics,504,3,triple sec,.5 oz,0.5
+Headless Horseman,Vodka,505,1,vodka,2 oz,2
+Headless Horseman,Vodka,505,2,bitters,3 dash,0.06
+Love Cocktail,Cocktail Classics,506,2,egg white,1 oz,1
+Love Cocktail,Cocktail Classics,506,3,lemon juice,.5 oz,0.5
+Los Angeles Cocktail,Cocktail Classics,507,1,lemon juice,.5 oz,0.5
+Los Angeles Cocktail,Cocktail Classics,507,2,powdered sugar,1 oz,1
+Los Angeles Cocktail,Cocktail Classics,507,3,whole egg,1 oz,1
+Los Angeles Cocktail,Cocktail Classics,507,4,sweet vermouth,.25 oz,0.25
+Los Angeles Cocktail,Cocktail Classics,507,5,blended whiskey,1.5 oz,1.5
+Long Island Tea,Cocktail Classics,508,1,vodka,.5 oz,0.5
+Long Island Tea,Cocktail Classics,508,2,gin,.5 oz,0.5
+Long Island Tea,Cocktail Classics,508,3,light rum,.5 oz,0.5
+Long Island Tea,Cocktail Classics,508,5,lemon juice,.5 oz,0.5
+Harvey Wallbanger,Vodka,509,1,vodka,1 oz,1
+Harvey Wallbanger,Vodka,509,2,orange juice,4 oz,4
+Lime Giant,Cocktail Classics,510,1,lime juice,2 oz,2
+Lil Naue,Cocktail Classics,511,1,brandy,1 oz,1
+Lil Naue,Cocktail Classics,511,2,port,.5 oz,0.5
+Lil Naue,Cocktail Classics,511,3,apricot flavored brandy,.5 oz,0.5
+Lil Naue,Cocktail Classics,511,4,powdered sugar,1 oz,1
+Lil Naue,Cocktail Classics,511,5,egg yolk,1 oz,1
+Harrington,Vodka,512,1,vodka,1.5 oz,1.5
+Harrington,Vodka,512,2,triple sec,.25 oz,0.25
+El Profesor,Brandy,513,3,benedictine,.5 oz,0.5
+El Profesor,Brandy,513,4,bitters,2 dash,0.04
+Leap Year Cocktail,Cocktail Classics,514,1,gin,1.25 oz,1.25
+Leap Year Cocktail,Cocktail Classics,514,2,orange juice,.5 oz,0.5
+Leap Year Cocktail,Cocktail Classics,514,3,sweet vermouth,.5 oz,0.5
+Leap Year Cocktail,Cocktail Classics,514,4,lemon juice,.25 oz,0.25
+Lasky Cocktail,Cocktail Classics,515,3,gin,.75 oz,0.75
+Lady Love Fizz,Cocktail Classics,516,1,powdered sugar,1 oz,1
+Lady Love Fizz,Cocktail Classics,516,2,lemon juice,.5 oz,0.5
+Lady Love Fizz,Cocktail Classics,516,3,egg white,1 oz,1
+Lady Love Fizz,Cocktail Classics,516,4,gin,2 oz,2
+Lady Love Fizz,Cocktail Classics,516,5,light cream,2 oz,2
+Handball Cooler,Vodka,517,1,vodka,1.5 oz,1.5
+Handball Cooler,Vodka,517,3,orange juice,.5 oz,0.5
+Hyatt's Jamaican Banana,Cocktail Classics,518,1,light rum,.5 oz,0.5
+Hyatt's Jamaican Banana,Cocktail Classics,518,2,white creme de cacao,.5 oz,0.5
+Hyatt's Jamaican Banana,Cocktail Classics,518,5,half and half,1 oz,1
+H.P.W. Cocktail,Cocktail Classics,519,1,dry vermouth,1.5 oz,1.5
+H.P.W. Cocktail,Cocktail Classics,519,2,sweet vermouth,1.5 oz,1.5
+H.P.W. Cocktail,Cocktail Classics,519,3,gin,1.5 oz,1.5
+Hot Shot Margarita,Cocktail Classics,520,3,lemon juice,1.5 oz,1.5
+The Groupie,Vodka,521,1,lemon juice,3 oz,3
+The Groupie,Vodka,521,3,citrus flavored vodka,2 oz,2
+Hot Brandy Flip,Cocktail Classics,522,1,whole egg,1,1
+Hot Brandy Flip,Cocktail Classics,522,2,powdered sugar,1 oz,1
+Hot Brandy Flip,Cocktail Classics,522,3,brandy,1.5 oz,1.5
+Grape Nehi,Vodka,523,1,vodka,1 oz,1
+Grape Nehi,Vodka,523,3,lemon juice,1 oz,1
+Hole-in-One Cocktai,Cocktail Classics,524,3,lemon juice,.25 oz,0.25
+Hole-in-One Cocktai,Cocktail Classics,524,4,bitters,1 dash,0.02
+Grapefruit Gimlet Royale,Vodka,525,1,vodka,1.5 oz,1.5
+Grapefruit Gimlet Royale,Vodka,525,2,grapefruit juice,1 oz,1
+Grapefruit Gimlet Royale,Vodka,525,3,lime juice,.25 oz,0.25
+Grapefruit Gimlet Royale,Vodka,525,4,simple syrup,.25 oz,0.25
+Hair Raiser,Cocktail Classics,526,3,lemon juice,1 oz,1
+Godmother,Vodka,527,1,vodka,1.5 oz,1.5
+Godmother,Vodka,527,2,amaretto,.75 oz,0.75
+Green Opal,Cocktail Classics,528,1,gin,.5 oz,0.5
+Green Opal,Cocktail Classics,528,2,anisette,.5 oz,0.5
+Green Hornet (Dry),Cocktail Classics,529,1,lime juice,2 oz,2
+Green Hornet (Dry),Cocktail Classics,529,6,powdered sugar,1 oz,1
+Green Fizz,Cocktail Classics,530,1,powdered sugar,1 oz,1
+Green Fizz,Cocktail Classics,530,2,egg white,1 oz,1
+Green Fizz,Cocktail Classics,530,3,lemon juice,.5 oz,0.5
+Green Fizz,Cocktail Classics,530,4,gin,2 oz,2
+Godchild,Vodka,531,1,vodka,1 oz,1
+Godchild,Vodka,531,2,amaretto,1 oz,1
+Grape Vodka Froth,Cocktail Classics,532,1,vodka,1.5 oz,1.5
+Grape Vodka Froth,Cocktail Classics,532,3,egg white,1 oz,1
+Grape Vodka Froth,Cocktail Classics,532,4,lemon juice,1 oz,1
+Grapefruit Nog,Cocktail Classics,533,1,brandy,1.5 oz,1.5
+Grapefruit Nog,Cocktail Classics,533,2,grapefruit juice,.5 oz,0.5
+Grapefruit Nog,Cocktail Classics,533,3,lemon juice,1 oz,1
+Grapefruit Nog,Cocktail Classics,533,5,whole egg,1 oz,1
+Golden Slipper,Cocktail Classics,534,2,apricot flavored brandy,2 oz,2
+Golden Frappe,Cocktail Classics,536,1,orange juice,1 oz,1
+Golden Frappe,Cocktail Classics,536,2,lemon juice,2 oz,2
+Golden Frappe,Cocktail Classics,536,4,port,1 oz,1
+Glass Tower,Vodka,537,1,vodka,1 oz,1
+Glass Tower,Vodka,537,4,triple sec,1 oz,1
+Golden Fizz,Cocktail Classics,538,1,lemon juice,.5 oz,0.5
+Golden Fizz,Cocktail Classics,538,2,powdered sugar,.5 oz,0.5
+Golden Fizz,Cocktail Classics,538,3,gin,1.5 oz,1.5
+Golden Fizz,Cocktail Classics,538,4,egg yolk,1 oz,1
+Gloom Lifter,Cocktail Classics,539,1,blended whiskey,1 oz,1
+Gloom Lifter,Cocktail Classics,539,2,brandy,.5 oz,0.5
+Gloom Lifter,Cocktail Classics,539,3,lemon juice,.5 oz,0.5
+Gloom Lifter,Cocktail Classics,539,6,egg white,.5 oz,0.5
+Glogg,Cocktail Classics,540,2,orange juice,2 oz,2
+Georgia Peach,Vodka,541,1,vodka,1.5 oz,1.5
+Georgia Peach,Vodka,541,3,grenadine,1 oz,1
+Georgia Mule,Vodka,542,2,vodka,1.5 oz,1.5
+Georgia Mule,Vodka,542,3,lemon juice,.5 oz,0.5
+Georgia Mule,Vodka,542,4,bitters,2 dash,0.04
+Gentle Ben,Vodka,543,1,vodka,1 oz,1
+Gentle Ben,Vodka,543,2,gin,1 oz,1
+Gentle Ben,Vodka,543,3,blanco tequila,1 oz,1
+East India Cocktail No. 1,Brandy,544,1,brandy,1.5 oz,1.5
+East India Cocktail No. 1,Brandy,544,3,triple sec,.5 oz,0.5
+East India Cocktail No. 1,Brandy,544,4,pineapple juice,.5 oz,0.5
+East India Cocktail No. 1,Brandy,544,5,bitters,1 dash,0.02
+General Harrison's Eggnog,Cocktail Classics,545,1,whole egg,1 oz,1
+General Harrison's Eggnog,Cocktail Classics,545,2,powdered sugar,1 oz,1
+Gables Collins,Vodka,546,1,vodka,1.5 oz,1.5
+Gables Collins,Vodka,546,3,lemon juice,.5 oz,0.5
+Gables Collins,Vodka,546,4,pineapple juice,.5 oz,0.5
+Frozen Brandy and Rum,Cocktail Classics,547,1,brandy,1.5 oz,1.5
+Frozen Brandy and Rum,Cocktail Classics,547,2,light rum,1 oz,1
+Frozen Brandy and Rum,Cocktail Classics,547,3,lemon juice,1 oz,1
+Frozen Brandy and Rum,Cocktail Classics,547,4,egg yolk,1 oz,1
+Frozen Brandy and Rum,Cocktail Classics,547,5,powdered sugar,1 oz,1
+Frozen Apple,Cocktail Classics,548,2,lime juice,1 oz,1
+Frozen Apple,Cocktail Classics,548,4,egg white,.5 oz,0.5
+Frisky Witch,Vodka,549,1,vodka,1 oz,1
+Froth Blower Cocktail,Cocktail Classics,550,1,egg white,1 oz,1
+Froth Blower Cocktail,Cocktail Classics,550,2,gin,2 oz,2
+Froth Blower Cocktail,Cocktail Classics,550,3,grenadine,1 oz,1
+French Martini,Vodka,551,1,vodka,1.5 oz,1.5
+French Martini,Vodka,551,3,pineapple juice,.75 oz,0.75
+Flatiron Martini,Vodka,552,2,orange juice,1.5 oz,1.5
+Favourite Cocktail,Cocktail Classics,553,1,apricot flavored brandy,.75 oz,0.75
+Favourite Cocktail,Cocktail Classics,553,2,dry vermouth,.75 oz,0.75
+Favourite Cocktail,Cocktail Classics,553,3,lemon juice,.75 oz,0.75
+Favourite Cocktail,Cocktail Classics,553,4,gin,.25 oz,0.25
+Electric Jam,Vodka,554,1,vodka,1.25 oz,1.25
+Electric Jam,Vodka,554,3,simple syrup,1 oz,1
+Electric Jam,Vodka,554,4,lemon juice,1 oz,1
+Fairy Belle Cocktail,Cocktail Classics,555,1,egg white,1 oz,1
+Fairy Belle Cocktail,Cocktail Classics,555,2,grenadine,1 oz,1
+Fairy Belle Cocktail,Cocktail Classics,555,3,apricot flavored brandy,.75 oz,0.75
+Fairy Belle Cocktail,Cocktail Classics,555,4,gin,1.5 oz,1.5
+Duke Cocktail,Cocktail Classics,556,1,triple sec,.5 oz,0.5
+Duke Cocktail,Cocktail Classics,556,2,orange juice,1 oz,1
+Duke Cocktail,Cocktail Classics,556,3,lemon juice,2 oz,2
+Duke Cocktail,Cocktail Classics,556,4,maraschino,.5 oz,0.5
+Duke Cocktail,Cocktail Classics,556,5,whole egg,1 oz,1
+Dreamy Dorini Smoking Martini,Vodka,557,1,vodka,2 oz,2
+Dubonnet Highball,Cocktail Classics,558,1,dubonnet,2 oz,2
+Dubonnet Fizz,Cocktail Classics,559,1,orange juice,.5 oz,0.5
+Dubonnet Fizz,Cocktail Classics,559,2,lemon juice,.25 oz,0.25
+Dubonnet Fizz,Cocktail Classics,559,3,cherry flavored brandy,1 oz,1
+Dubonnet Fizz,Cocktail Classics,559,4,dubonnet,2 oz,2
+Dubonnet Cocktail,Cocktail Classics,560,1,dubonnet,1.5 oz,1.5
+Dubonnet Cocktail,Cocktail Classics,560,2,gin,.75 oz,0.75
+Dubonnet Cocktail,Cocktail Classics,560,3,bitters,1 dash,0.02
+Doctor Cook,Cocktail Classics,561,1,gin,.75 oz,0.75
+Doctor Cook,Cocktail Classics,561,2,lemon juice,1 oz,1
+Doctor Cook,Cocktail Classics,561,3,maraschino,1 oz,1
+Doctor Cook,Cocktail Classics,561,4,egg white,1 oz,1
+Desert Sunrise,Vodka,562,1,vodka,1.25 oz,1.25
+Desert Sunrise,Vodka,562,2,orange juice,1.5 oz,1.5
+Desert Sunrise,Vodka,562,3,pineapple juice,1.5 oz,1.5
+Desert Sunrise,Vodka,562,4,grenadine,1 oz,1
+Dillatini,Cocktail Classics,563,1,gin,1.5 oz,1.5
+Dillatini,Cocktail Classics,563,2,dry vermouth,.75 oz,0.75
+Devil's Cocktail,Cocktail Classics,564,1,lemon juice,.5 oz,0.5
+Devil's Cocktail,Cocktail Classics,564,2,port,1.5 oz,1.5
+Devil's Cocktail,Cocktail Classics,564,3,dry vermouth,1.5 oz,1.5
+Derby Fizz,Cocktail Classics,565,1,lemon juice,.5 oz,0.5
+Derby Fizz,Cocktail Classics,565,2,powdered sugar,1 oz,1
+Derby Fizz,Cocktail Classics,565,3,whole egg,1,1
+Derby Fizz,Cocktail Classics,565,5,triple sec,1 oz,1
+Cubeltini,Vodka,566,3,simple syrup,1.5 oz,1.5
+Cubeltini,Vodka,566,4,vodka,2 oz,2
+Cubeltini,Vodka,566,5,lime juice,1 oz,1
+Crocodile Cooler,Vodka,567,1,citrus flavored vodka,1.5 oz,1.5
+Crocodile Cooler,Vodka,567,3,triple sec,.75 oz,0.75
+Crocodile Cooler,Vodka,567,4,simple syrup,.75 oz,0.75
+Crocodile Cooler,Vodka,567,5,lemon juice,1 oz,1
+Cosmopolitan,Vodka,568,1,vodka,1.5 oz,1.5
+Cosmopolitan,Vodka,568,2,lime juice,.5 oz,0.5
+Cosmopolitan,Vodka,568,3,triple sec,.5 oz,0.5
+Cosmopolitan,Vodka,568,4,cranberry juice,.5 oz,0.5
+Dream Cocktail,Brandy,569,1,brandy,1.5 oz,1.5
+Dream Cocktail,Brandy,569,2,triple sec,.75 oz,0.75
+Dream Cocktail,Brandy,569,3,anisette,1 oz,1
+Jean Lafitte Cocktail,Cocktail Classics,570,1,gin,1 oz,1
+Jean Lafitte Cocktail,Cocktail Classics,570,2,triple sec,.5 oz,0.5
+Jean Lafitte Cocktail,Cocktail Classics,570,4,powdered sugar,1 oz,1
+Jean Lafitte Cocktail,Cocktail Classics,570,5,egg yolk,1 oz,1
+Japanese Fizz,Cocktail Classics,571,1,lemon juice,.5 oz,0.5
+Japanese Fizz,Cocktail Classics,571,2,powdered sugar,1 oz,1
+Japanese Fizz,Cocktail Classics,571,3,blended whiskey,1.5 oz,1.5
+Japanese Fizz,Cocktail Classics,571,4,port,1 oz,1
+Japanese Fizz,Cocktail Classics,571,5,egg white,1 oz,1
+Citronella Cooler,Vodka,572,1,citrus flavored vodka,1 oz,1
+Citronella Cooler,Vodka,572,2,lime juice,1 oz,1
+Citronella Cooler,Vodka,572,3,lemon juice,2 oz,2
+Citronella Cooler,Vodka,572,4,cranberry juice,1 oz,1
+North Pole Cocktail,Cocktail Classics,573,1,egg white,1 oz,1
+North Pole Cocktail,Cocktail Classics,573,2,lemon juice,.5 oz,0.5
+North Pole Cocktail,Cocktail Classics,573,3,maraschino,.5 oz,0.5
+North Pole Cocktail,Cocktail Classics,573,4,gin,1 oz,1
+The Cinquecento,Vodka,574,2,benedictine,.5 oz,0.5
+The Cinquecento,Vodka,574,4,grapefruit juice,.75 oz,0.75
+The Cinquecento,Vodka,574,5,bitters,1 dash,0.02
+New Orleans Gin Fizz,Cocktail Classics,575,1,lemon juice,.5 oz,0.5
+New Orleans Gin Fizz,Cocktail Classics,575,2,lime juice,.5 oz,0.5
+New Orleans Gin Fizz,Cocktail Classics,575,3,powdered sugar,1 oz,1
+New Orleans Gin Fizz,Cocktail Classics,575,4,egg white,1 oz,1
+New Orleans Gin Fizz,Cocktail Classics,575,5,gin,2 oz,2
+Napoleon,Cocktail Classics,576,1,gin,2 oz,2
+Napoleon,Cocktail Classics,576,3,dubonnet,.5 oz,0.5
+Zombie,Rum - Daiquiris,577,3,light rum,1 oz,1
+Zombie,Rum - Daiquiris,577,4,lemon juice,1 oz,1
+Zombie,Rum - Daiquiris,577,6,bitters,1 dash,0.02
+Kiss the Boys Goodbye,Cocktail Classics,578,2,brandy,.75 oz,0.75
+Kiss the Boys Goodbye,Cocktail Classics,578,3,egg white,.5 oz,0.5
+Kiss the Boys Goodbye,Cocktail Classics,578,4,lemon juice,1 oz,1
+X.Y.Z. Cocktail,Rum - Daiquiris,579,1,light rum,1 oz,1
+X.Y.Z. Cocktail,Rum - Daiquiris,579,2,triple sec,.5 oz,0.5
+X.Y.Z. Cocktail,Rum - Daiquiris,579,3,lemon juice,.5 oz,0.5
+K.G.B. Cocktail,Cocktail Classics,580,2,gin,1.5 oz,1.5
+K.G.B. Cocktail,Cocktail Classics,580,3,apricot flavored brandy,.25 oz,0.25
+K.G.B. Cocktail,Cocktail Classics,580,4,lemon juice,.25 oz,0.25
+Eye-Opener,Cocktail Classics,581,1,egg yolk,1 oz,1
+Eye-Opener,Cocktail Classics,581,2,powdered sugar,.5 oz,0.5
+Eye-Opener,Cocktail Classics,581,4,triple sec,1 oz,1
+Eye-Opener,Cocktail Classics,581,5,white creme de cacao,1 oz,1
+Eye-Opener,Cocktail Classics,581,6,light rum,2 oz,2
+Wiki Waki Woo,Rum - Daiquiris,582,1,light rum,.5 oz,0.5
+Wiki Waki Woo,Rum - Daiquiris,582,4,amaretto,1 oz,1
+Wiki Waki Woo,Rum - Daiquiris,582,5,orange juice,1 oz,1
+Elk's Own Cocktail,Cocktail Classics,583,1,egg white,1 oz,1
+Elk's Own Cocktail,Cocktail Classics,583,2,blended whiskey,1.5 oz,1.5
+Elk's Own Cocktail,Cocktail Classics,583,3,port,.75 oz,0.75
+Elk's Own Cocktail,Cocktail Classics,583,4,lemon juice,.25 oz,0.25
+Elk's Own Cocktail,Cocktail Classics,583,5,powdered sugar,1 oz,1
+Egg Sour,Cocktail Classics,585,1,whole egg,1 oz,1
+Egg Sour,Cocktail Classics,585,2,powdered sugar,1 oz,1
+Egg Sour,Cocktail Classics,585,3,lemon juice,.5 oz,0.5
+Egg Sour,Cocktail Classics,585,4,brandy,2 oz,2
+Egg Sour,Cocktail Classics,585,5,triple sec,.25 oz,0.25
+White Lion Cocktail,Cocktail Classics,586,1,light rum,1.5 oz,1.5
+White Lion Cocktail,Cocktail Classics,586,2,lemon juice,1 oz,1
+White Lion Cocktail,Cocktail Classics,586,3,simple syrup,.5 oz,0.5
+White Lion Cocktail,Cocktail Classics,586,4,grenadine,1 oz,1
+White Lion Cocktail,Cocktail Classics,586,5,bitters,2 dash,0.04
+White Lily Cocktail,Rum - Daiquiris,587,1,light rum,.75 oz,0.75
+White Lily Cocktail,Rum - Daiquiris,587,2,triple sec,.75 oz,0.75
+White Lily Cocktail,Rum - Daiquiris,587,3,gin,.75 oz,0.75
+White Lily Cocktail,Rum - Daiquiris,587,4,anisette,1 oz,1
+Ice Cream Flip,Rum - Daiquiris,588,1,whole egg,1 oz,1
+Ice Cream Flip,Rum - Daiquiris,588,2,maraschino,1 oz,1
+Ice Cream Flip,Rum - Daiquiris,588,3,triple sec,1 oz,1
+Outrigger,Cocktail Classics,589,2,lime juice,1 oz,1
+Outrigger,Cocktail Classics,589,3,pineapple juice,1 oz,1
+Opera Cocktail,Cocktail Classics,590,1,maraschino,1 oz,1
+Opera Cocktail,Cocktail Classics,590,2,dubonnet,.5 oz,0.5
+Opera Cocktail,Cocktail Classics,590,3,gin,1.5 oz,1.5
+Virginia Dare,Rum - Daiquiris,591,2,dark rum,2 oz,2
+Virginia Dare,Rum - Daiquiris,591,3,benedictine,.5 oz,0.5
+Virginia Dare,Rum - Daiquiris,591,4,bitters,2 dash,0.04
+Opening Cocktail,Cocktail Classics,592,1,grenadine,.5 oz,0.5
+Opening Cocktail,Cocktail Classics,592,2,sweet vermouth,.5 oz,0.5
+Opening Cocktail,Cocktail Classics,592,3,blended whiskey,1.5 oz,1.5
+Queen Bee,Cocktail Classics,593,1,lime juice,1.5 oz,1.5
+Van Vleet,Rum - Daiquiris,594,1,light rum,3 oz,3
+Van Vleet,Rum - Daiquiris,594,3,lemon juice,1 oz,1
+Zaza Cocktail,Cocktail Classics,595,1,gin,1.5 oz,1.5
+Zaza Cocktail,Cocktail Classics,595,2,dubonnet,.75 oz,0.75
+The Vacation Cocktail,Rum - Daiquiris,596,2,lime juice,.75 oz,0.75
+The Vacation Cocktail,Rum - Daiquiris,596,5,orange juice,.5 oz,0.5
+Dolores,Brandy,597,4,egg white,1 oz,1
+Vesuvio,Cocktail Classics,598,1,light rum,1 oz,1
+Vesuvio,Cocktail Classics,598,2,lemon juice,.5 oz,0.5
+Vesuvio,Cocktail Classics,598,3,powdered sugar,1 oz,1
+Vesuvio,Cocktail Classics,598,4,egg white,.5 oz,0.5
+Vesuvio,Cocktail Classics,598,5,sweet vermouth,.5 oz,0.5
+Urban Anxiety,Rum,599,2,sweet vermouth,1 oz,1
+Urban Anxiety,Rum,599,4,bitters,2 dash,0.04
+Virgin,Cocktail Classics,600,1,gin,1 oz,1
+Tropica Cocktail,Rum - Daiquiris,601,1,light rum,2 oz,2
+Tropica Cocktail,Rum - Daiquiris,601,2,pineapple juice,3 oz,3
+Tropica Cocktail,Rum - Daiquiris,601,3,grapefruit juice,1 oz,1
+Tropica Cocktail,Rum - Daiquiris,601,4,grenadine,1 oz,1
+Vermouth Cassis,Cocktail Classics,602,2,dry vermouth,1.5 oz,1.5
+Verboten,Cocktail Classics,603,1,gin,1.5 oz,1.5
+Verboten,Cocktail Classics,603,3,orange juice,1 oz,1
+Verboten,Cocktail Classics,603,4,lemon juice,1 oz,1
+Velvet Hammer No. 2,Cocktail Classics,604,2,white creme de cacao,1 oz,1
+Velvet Hammer No. 2,Cocktail Classics,604,3,light cream,1 oz,1
+Velvet Hammer No. 1,Cocktail Classics,605,1,vodka,1.5 oz,1.5
+Velvet Hammer No. 1,Cocktail Classics,605,3,light cream,1 oz,1
+Ulanda Cocktail,Cocktail Classics,606,1,gin,1.5 oz,1.5
+Ulanda Cocktail,Cocktail Classics,606,2,triple sec,.75 oz,0.75
+Torridora Cocktail,Rum - Daiquiris,607,1,light rum,1.5 oz,1.5
+Torridora Cocktail,Rum - Daiquiris,607,3,half and half,1.5 oz,1.5
+Boston Sour,Cocktail Classics,608,1,lemon juice,.5 oz,0.5
+Boston Sour,Cocktail Classics,608,2,powdered sugar,1 oz,1
+Boston Sour,Cocktail Classics,608,3,blended whiskey,2 oz,2
+Boston Sour,Cocktail Classics,608,4,egg white,1 oz,1
+Three Miller Cocktail,Rum - Daiquiris,609,2,dark rum,2 oz,2
+Three Miller Cocktail,Rum - Daiquiris,609,3,lime juice,1 oz,1
+Three Miller Cocktail,Rum - Daiquiris,609,4,simple syrup,1 oz,1
+Three Miller Cocktail,Rum - Daiquiris,609,5,bitters,1 dash,0.02
+Bird-of-Paradise Fizz,Cocktail Classics,610,1,lemon juice,.5 oz,0.5
+Bird-of-Paradise Fizz,Cocktail Classics,610,2,powdered sugar,1 oz,1
+Bird-of-Paradise Fizz,Cocktail Classics,610,3,egg white,1 oz,1
+Bird-of-Paradise Fizz,Cocktail Classics,610,4,grenadine,1 oz,1
+Bird-of-Paradise Fizz,Cocktail Classics,610,5,gin,2 oz,2
+Biffy Cocktail,Cocktail Classics,611,1,lemon juice,.5 oz,0.5
+Biffy Cocktail,Cocktail Classics,611,3,gin,1.5 oz,1.5
+Between-The-Sheets Cocktail,Cocktail Classics,612,1,lemon juice,.25 oz,0.25
+Between-The-Sheets Cocktail,Cocktail Classics,612,2,brandy,.5 oz,0.5
+Between-The-Sheets Cocktail,Cocktail Classics,612,3,triple sec,.5 oz,0.5
+Between-The-Sheets Cocktail,Cocktail Classics,612,4,light rum,.5 oz,0.5
+Third-Rail Cocktail,Rum - Daiquiris,613,1,light rum,.75 oz,0.75
+Third-Rail Cocktail,Rum - Daiquiris,613,2,apple brandy,.75 oz,0.75
+Third-Rail Cocktail,Rum - Daiquiris,613,3,brandy,.75 oz,0.75
+Third-Rail Cocktail,Rum - Daiquiris,613,4,anisette,.25 oz,0.25
+Bentley,Cocktail Classics,614,1,apple brandy,1.5 oz,1.5
+Bentley,Cocktail Classics,614,2,dubonnet,1 oz,1
+Tahiti Club,Rum - Daiquiris,615,1,light rum,2 oz,2
+Tahiti Club,Rum - Daiquiris,615,2,lemon juice,.5 oz,0.5
+Tahiti Club,Rum - Daiquiris,615,3,lime juice,.5 oz,0.5
+Tahiti Club,Rum - Daiquiris,615,4,pineapple juice,.5 oz,0.5
+Tahiti Club,Rum - Daiquiris,615,5,maraschino,.25 oz,0.25
+Barton Special,Cocktail Classics,616,3,gin,.25 oz,0.25
+Barnaby's Buffalo Blizzard,Cocktail Classics,617,1,white creme de cacao,1 oz,1
+Barnaby's Buffalo Blizzard,Cocktail Classics,617,2,vodka,.75 oz,0.75
+Barnaby's Buffalo Blizzard,Cocktail Classics,617,5,grenadine,1 oz,1
+Susie Taylor,Rum - Daiquiris,618,1,light rum,2 oz,2
+Susie Taylor,Rum - Daiquiris,618,2,lime juice,.5 oz,0.5
+Baltimore Bracer,Cocktail Classics,619,1,anisette,1 oz,1
+Baltimore Bracer,Cocktail Classics,619,2,brandy,1 oz,1
+Baltimore Bracer,Cocktail Classics,619,3,egg white,1 oz,1
+Bachelor's Bait Cocktail,Cocktail Classics,620,1,gin,1.5 oz,1.5
+Bachelor's Bait Cocktail,Cocktail Classics,620,2,egg white,1 oz,1
+Bachelor's Bait Cocktail,Cocktail Classics,620,3,bitters,1 dash,0.02
+Bachelor's Bait Cocktail,Cocktail Classics,620,4,grenadine,.5 oz,0.5
+Bushranger,Cocktail Classics,621,1,light rum,1.5 oz,1.5
+Bushranger,Cocktail Classics,621,2,dubonnet,1 oz,1
+Bushranger,Cocktail Classics,621,3,bitters,1 dash,0.02
+Sunset at Gowanus,Rum - Daiquiris,622,1,dark rum,2 oz,2
+Sunset at Gowanus,Rum - Daiquiris,622,2,lime juice,.75 oz,0.75
+Sunset at Gowanus,Rum - Daiquiris,622,4,brandy,.25 oz,0.25
+Bulldog Highballl,Cocktail Classics,623,1,orange juice,.5 oz,0.5
+Bulldog Highballl,Cocktail Classics,623,2,gin,2 oz,2
+Bucks Fizz (Mimosa),Cocktail Classics,624,1,orange juice,2 oz,2
+Buckjones,Cocktail Classics,625,1,light rum,1.5 oz,1.5
+Buckjones,Cocktail Classics,625,3,lime juice,.5 oz,0.5
+Stormy Colada,Rum - Daiquiris,626,1,dark rum,2 oz,2
+Stormy Colada,Rum - Daiquiris,626,2,pineapple juice,2 oz,2
+Bronx SIlver Cocktail,Cocktail Classics,627,1,orange juice,.5 oz,0.5
+Bronx SIlver Cocktail,Cocktail Classics,627,2,egg white,1 oz,1
+Bronx SIlver Cocktail,Cocktail Classics,627,3,dry vermouth,.5 oz,0.5
+Bronx SIlver Cocktail,Cocktail Classics,627,4,gin,1 oz,1
+Bronx Golden Cocktail,Cocktail Classics,628,1,gin,1 oz,1
+Bronx Golden Cocktail,Cocktail Classics,628,2,sweet vermouth,.5 oz,0.5
+Bronx Golden Cocktail,Cocktail Classics,628,3,dry vermouth,.5 oz,0.5
+Bronx Golden Cocktail,Cocktail Classics,628,4,orange juice,.25 oz,0.25
+Stone Wall,Rum - Daiquiris,629,4,light rum,1.5 oz,1.5
+Depth Bomb,Brandy,630,1,apple brandy,1 oz,1
+Depth Bomb,Brandy,630,2,brandy,1 oz,1
+Depth Bomb,Brandy,630,3,lemon juice,1 oz,1
+Depth Bomb,Brandy,630,4,grenadine,1 oz,1
+Stone Cocktail,Rum - Daiquiris,631,2,light rum,.5 oz,0.5
+Stone Cocktail,Rum - Daiquiris,631,3,sweet vermouth,.5 oz,0.5
+Almeria,Cocktail Classics,632,3,egg white,1 oz,1
+Aunt Jemima,Cocktail Classics,633,1,brandy,.5 oz,0.5
+Aunt Jemima,Cocktail Classics,633,2,white creme de cacao,.5 oz,0.5
+Aunt Jemima,Cocktail Classics,633,3,benedictine,.5 oz,0.5
+Spanish Town Cocktail,Rum - Daiquiris,634,1,light rum,2 oz,2
+Spanish Town Cocktail,Rum - Daiquiris,634,2,triple sec,.5 oz,0.5
+Apricot Lady,Cocktail Classics,635,1,light rum,1.25 oz,1.25
+Apricot Lady,Cocktail Classics,635,2,apricot flavored brandy,1 oz,1
+Apricot Lady,Cocktail Classics,635,3,triple sec,.25 oz,0.25
+Apricot Lady,Cocktail Classics,635,4,lime juice,1 oz,1
+Apricot Lady,Cocktail Classics,635,5,egg white,1 oz,1
+Apricot Anise Collins,Cocktail Classics,636,1,gin,1.5 oz,1.5
+Apricot Anise Collins,Cocktail Classics,636,2,apricot flavored brandy,.5 oz,0.5
+Apricot Anise Collins,Cocktail Classics,636,3,anisette,1.5 oz,1.5
+Apricot Anise Collins,Cocktail Classics,636,4,lemon juice,1 oz,1
+Apple Rum Rickey,Cocktail Classics,637,2,light rum,.75 oz,0.75
+Apple Rum Rickey,Cocktail Classics,637,3,lime juice,.25 oz,0.25
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,1,light rum,.75 oz,0.75
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,2,dry vermouth,.75 oz,0.75
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,3,triple sec,.5 oz,0.5
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,4,lime juice,1 oz,1
+Sloppy Joe's Cocktail No. 1,Rum - Daiquiris,638,5,grenadine,.5 oz,0.5
+Applejack Punch,Cocktail Classics,639,2,grenadine,4 oz,4
+Applejack Punch,Cocktail Classics,639,3,orange juice,16 oz,16
+Applejack Punch,Cocktail Classics,639,6,whole egg,1 oz,1
+Brandy Flip,Cocktail Classics,640,1,whole egg,1,1
+Brandy Flip,Cocktail Classics,640,2,powdered sugar,1 oz,1
+Brandy Flip,Cocktail Classics,640,3,brandy,1.5 oz,1.5
+Sir Walter Cocktail,Rum - Daiquiris,641,1,light rum,.75 oz,0.75
+Sir Walter Cocktail,Rum - Daiquiris,641,2,brandy,.75 oz,0.75
+Sir Walter Cocktail,Rum - Daiquiris,641,3,grenadine,1 oz,1
+Sir Walter Cocktail,Rum - Daiquiris,641,4,triple sec,1 oz,1
+Sir Walter Cocktail,Rum - Daiquiris,641,5,lemon juice,1 oz,1
+Saxon Cocktail,Rum - Daiquiris,642,1,light rum,1.75 oz,1.75
+Saxon Cocktail,Rum - Daiquiris,642,2,lime juice,.5 oz,0.5
+Saxon Cocktail,Rum - Daiquiris,642,3,grenadine,.5 oz,0.5
+Boston Bullet,Cocktail Classics,643,1,gin,1.5 oz,1.5
+Boston Bullet,Cocktail Classics,643,2,dry vermouth,.75 oz,0.75
+Sargasso,Rum - Daiquiris,644,4,bitters,2 dash,0.04
+Santiago Cocktail,Rum - Daiquiris,645,1,light rum,1.5 oz,1.5
+Santiago Cocktail,Rum - Daiquiris,645,2,lime juice,1 oz,1
+Santiago Cocktail,Rum - Daiquiris,645,3,simple syrup,.5 oz,0.5
+Santiago Cocktail,Rum - Daiquiris,645,4,grenadine,.5 oz,0.5
+Saint Lucy Bracer,Rum - Daiquiris,647,1,dark rum,2 oz,2
+Saint Lucy Bracer,Rum - Daiquiris,647,3,sweet vermouth,.5 oz,0.5
+Saint Lucy Bracer,Rum - Daiquiris,647,4,bitters,2 dash,0.04
+Applecar,Cocktail Classics,648,2,triple sec,1 oz,1
+Applecar,Cocktail Classics,648,3,lemon juice,1 oz,1
+Apple Blow Fizz,Cocktail Classics,649,1,egg white,1 oz,1
+Apple Blow Fizz,Cocktail Classics,649,2,lemon juice,.5 oz,0.5
+Apple Blow Fizz,Cocktail Classics,649,3,powdered sugar,1 oz,1
+Apple Blow Fizz,Cocktail Classics,649,4,apple brandy,2 oz,2
+Antoine Special,Cocktail Classics,650,1,dubonnet,1.5 oz,1.5
+Antoine Special,Cocktail Classics,650,2,dry vermouth,1.5 oz,1.5
+Ante,Cocktail Classics,651,1,apple brandy,1 oz,1
+Ante,Cocktail Classics,651,2,triple sec,.5 oz,0.5
+Ante,Cocktail Classics,651,3,dubonnet,1 oz,1
+S & V,Rum - Daiquiris,652,1,light rum,1.5 oz,1.5
+S & V,Rum - Daiquiris,652,2,orange juice,.5 oz,0.5
+S & V,Rum - Daiquiris,652,4,lime juice,.5 oz,0.5
+Rum Toddy (Cold),Rum - Daiquiris,653,3,simple syrup,1 oz,1
+Rum Toddy (Cold),Rum - Daiquiris,653,6,brandy,.5 oz,0.5
+Deauville Cocktail,Brandy,654,1,brandy,.5 oz,0.5
+Deauville Cocktail,Brandy,654,2,apple brandy,.5 oz,0.5
+Deauville Cocktail,Brandy,654,3,triple sec,.5 oz,0.5
+Deauville Cocktail,Brandy,654,4,lemon juice,.5 oz,0.5
+Deauville Cocktail,Brandy,654,6,dry vermouth,1 oz,1
+Allies Cocktail,Cocktail Classics,655,1,dry vermouth,1 oz,1
+Allies Cocktail,Cocktail Classics,655,2,gin,1 oz,1
+Rum Swizzle,Rum - Daiquiris,656,2,lime juice,1 oz,1
+Rum Swizzle,Rum - Daiquiris,656,3,simple syrup,.5 oz,0.5
+Rum Swizzle,Rum - Daiquiris,656,4,bitters,2 dash,0.04
+A. J.,Cocktail Classics,657,2,grapefruit juice,1 oz,1
+After Supper Cocktail,Cocktail Classics,658,1,apricot flavored brandy,1 oz,1
+After Supper Cocktail,Cocktail Classics,658,2,triple sec,1 oz,1
+After Supper Cocktail,Cocktail Classics,658,3,lemon juice,.5 oz,0.5
+Rum Sour,Rum - Daiquiris,659,1,light rum,2 oz,2
+Rum Sour,Rum - Daiquiris,659,2,lemon juice,.75 oz,0.75
+Rum Sour,Rum - Daiquiris,659,3,simple syrup,.75 oz,0.75
+Acapulco,Cocktail Classics,660,1,light rum,1.5 oz,1.5
+Acapulco,Cocktail Classics,660,2,lime juice,1 oz,1
+Acapulco,Cocktail Classics,660,3,triple sec,1.5 oz,1.5
+Acapulco,Cocktail Classics,660,5,egg white,1,1
+Ambrosia,Cocktail Classics,662,2,brandy,1 oz,1
+Ambrosia,Cocktail Classics,662,3,triple sec,1 oz,1
+Rum Screwdriver,Rum - Daiquiris,663,1,light rum,1.5 oz,1.5
+Rum Screwdriver,Rum - Daiquiris,663,2,orange juice,5 oz,5
+Rum Rickey,Rum - Daiquiris,664,1,light rum,1.5 oz,1.5
+Rum Rickey,Rum - Daiquiris,664,2,lime juice,.5 oz,0.5
+Rum Relaxer,Rum - Daiquiris,666,1,light rum,1.5 oz,1.5
+Rum Relaxer,Rum - Daiquiris,666,2,pineapple juice,1 oz,1
+Rum Relaxer,Rum - Daiquiris,666,3,grenadine,.5 oz,0.5
+Rum Old-Fashioned,Rum - Daiquiris,667,1,light rum,1.5 oz,1.5
+Rum Old-Fashioned,Rum - Daiquiris,667,3,simple syrup,1 oz,1
+Rum Old-Fashioned,Rum - Daiquiris,667,4,bitters,1 dash,0.02
+Rum Martini,Rum - Daiquiris,668,1,light rum,2 oz,2
+Rum Martini,Rum - Daiquiris,668,2,dry vermouth,1 oz,1
+Rum Fix,Rum - Daiquiris,670,1,light rum,2.5 oz,2.5
+Rum Fix,Rum - Daiquiris,670,2,lemon juice,1 oz,1
+Rum Fix,Rum - Daiquiris,670,3,simple syrup,.5 oz,0.5
+Rum Daisy,Rum - Daiquiris,671,1,light rum,2 oz,2
+Rum Daisy,Rum - Daiquiris,671,2,lemon juice,.5 oz,0.5
+Rum Daisy,Rum - Daiquiris,671,3,simple syrup,1 oz,1
+Rum Daisy,Rum - Daiquiris,671,4,grenadine,1 oz,1
+D'artagnan,Brandy,672,3,simple syrup,1 oz,1
+D'artagnan,Brandy,672,4,orange juice,.5 oz,0.5
+Rum Cooler,Rum - Daiquiris,673,1,light rum,2 oz,2
+Rum Cooler,Rum - Daiquiris,673,2,simple syrup,.5 oz,0.5
+Rum Collins,Rum - Daiquiris,674,1,light rum,2 oz,2
+Rum Collins,Rum - Daiquiris,674,2,lime juice,1 oz,1
+Rum Collins,Rum - Daiquiris,674,3,simple syrup,.5 oz,0.5
+Seaboabd,Cocktail Classics,675,2,old mr. boston dry gin,1 oz,1
+Seaboabd,Cocktail Classics,675,3,lemon juice,1 oz,1
+Seaboabd,Cocktail Classics,675,4,powdered sugar,1 oz,1
+Rum Cobbler,Rum - Daiquiris,676,1,light rum,2 oz,2
+Rum Cobbler,Rum - Daiquiris,676,2,simple syrup,.25 oz,0.25
+Robson Cocktail,Rum - Daiquiris,677,2,lemon juice,.5 oz,0.5
+Robson Cocktail,Rum - Daiquiris,677,3,orange juice,.5 oz,0.5
+Robson Cocktail,Rum - Daiquiris,677,4,grenadine,.25 oz,0.25
+Rio Fix,Rum - Daiquiris,678,3,maraschino,.5 oz,0.5
+Rio Fix,Rum - Daiquiris,678,4,lime juice,.75 oz,0.75
+Rio Fix,Rum - Daiquiris,678,5,pineapple juice,.5 oz,0.5
+Ringo Starr,Rum - Daiquiris,679,2,lemon juice,.5 oz,0.5
+Restless Native,Rum - Daiquiris,680,2,white creme de cacao,.75 oz,0.75
+Restless Native,Rum - Daiquiris,680,3,lime juice,1.5 oz,1.5
+Restless Native,Rum - Daiquiris,680,6,light rum,1.5 oz,1.5
+Quarter Deck Cocktail,Rum - Daiquiris,681,1,light rum,1.5 oz,1.5
+Quarter Deck Cocktail,Rum - Daiquiris,681,3,lime juice,.5 oz,0.5
+Quaker's Cocktail,Rum - Daiquiris,682,1,light rum,.75 oz,0.75
+Quaker's Cocktail,Rum - Daiquiris,682,2,brandy,.75 oz,0.75
+Quaker's Cocktail,Rum - Daiquiris,682,3,lemon juice,.5 oz,0.5
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,1,dark rum,1.5 oz,1.5
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,2,orange juice,.25 oz,0.25
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,3,lemon juice,.75 oz,0.75
+Puerto Rican Rum Daisy,Rum - Daiquiris,683,5,bitters,1 dash,0.02
+Cuban Cocktail No. 2,Brandy,684,1,brandy,1.5 oz,1.5
+Cuban Cocktail No. 2,Brandy,684,2,light rum,.5 oz,0.5
+Cuban Cocktail No. 2,Brandy,684,3,apricot flavored brandy,.5 oz,0.5
+Cuban Cocktail No. 2,Brandy,684,4,lime juice,.5 oz,0.5
+Prohibition Punch,Rum - Daiquiris,685,1,dark rum,1.5 oz,1.5
+Prohibition Punch,Rum - Daiquiris,685,4,cranberry juice,1 oz,1
+Prohibition Punch,Rum - Daiquiris,685,5,lemon juice,.25 oz,0.25
+Poker Cocktail,Rum - Daiquiris,687,1,light rum,1.5 oz,1.5
+Poker Cocktail,Rum - Daiquiris,687,2,sweet vermouth,1.5 oz,1.5
+Planter's Punch No. 2,Rum - Daiquiris,688,1,light rum,2 oz,2
+Planter's Punch No. 2,Rum - Daiquiris,688,2,orange juice,2 oz,2
+Planter's Punch No. 2,Rum - Daiquiris,688,3,lime juice,1 oz,1
+Planter's Punch No. 2,Rum - Daiquiris,688,4,pineapple juice,.5 oz,0.5
+Planter's Punch No. 2,Rum - Daiquiris,688,5,lemon juice,.25 oz,0.25
+Planter's Punch No. 1,Rum - Daiquiris,689,1,light rum,2.5 oz,2.5
+Planter's Punch No. 1,Rum - Daiquiris,689,2,lime juice,2 oz,2
+Planter's Punch No. 1,Rum - Daiquiris,689,3,simple syrup,.5 oz,0.5
+Planter's Punch No. 1,Rum - Daiquiris,689,5,grenadine,1 oz,1
+Planter's Cocktail,Rum - Daiquiris,690,2,lemon juice,.5 oz,0.5
+Planter's Cocktail,Rum - Daiquiris,690,3,simple syrup,1 oz,1
+Pink Paradise,Rum - Daiquiris,691,2,amaretto,1 oz,1
+Pink Paradise,Rum - Daiquiris,691,3,cranberry juice,3 oz,3
+Pink Paradise,Rum - Daiquiris,691,4,pineapple juice,1.5 oz,1.5
+Pink Creole,Rum - Daiquiris,692,1,light rum,1.5 oz,1.5
+Pink Creole,Rum - Daiquiris,692,2,lime juice,.5 oz,0.5
+Pink Creole,Rum - Daiquiris,692,3,grenadine,.25 oz,0.25
+Pink Creole,Rum - Daiquiris,692,4,half and half,.25 oz,0.25
+Pineapple Fizz,Rum - Daiquiris,693,1,light rum,2 oz,2
+Pineapple Fizz,Rum - Daiquiris,693,2,pineapple juice,1 oz,1
+Pineapple Fizz,Rum - Daiquiris,693,3,simple syrup,1 oz,1
+Pineapple Cocktail,Rum - Daiquiris,694,1,light rum,1.5 oz,1.5
+Pineapple Cocktail,Rum - Daiquiris,694,2,pineapple juice,.75 oz,0.75
+Pineapple Cocktail,Rum - Daiquiris,694,3,lemon juice,.5 oz,0.5
+Pearl Button,Rum - Daiquiris,695,3,lime juice,.5 oz,0.5
+The Crux,Brandy,696,1,dubonnet,.75 oz,0.75
+The Crux,Brandy,696,2,triple sec,.75 oz,0.75
+The Crux,Brandy,696,3,brandy,.75 oz,0.75
+The Crux,Brandy,696,4,lemon juice,.75 oz,0.75
+Paris When It Sizzles,Rum - Daiquiris,697,2,dark rum,2 oz,2
+Paris When It Sizzles,Rum - Daiquiris,697,3,lime juice,.5 oz,0.5
+Paris When It Sizzles,Rum - Daiquiris,697,4,bitters,1 dash,0.02
+Palmetto Cocktail,Rum - Daiquiris,698,1,light rum,1.5 oz,1.5
+Palmetto Cocktail,Rum - Daiquiris,698,2,dry vermouth,1.5 oz,1.5
+Palmetto Cocktail,Rum - Daiquiris,698,3,bitters,2 dash,0.04
+Paddington,Rum - Daiquiris,699,2,light rum,1.5 oz,1.5
+Paddington,Rum - Daiquiris,699,4,grapefruit juice,.5 oz,0.5
+Paddington,Rum - Daiquiris,699,5,lemon juice,.5 oz,0.5
+The Old Cuban,Rum - Daiquiris,700,2,simple syrup,1 oz,1
+The Old Cuban,Rum - Daiquiris,700,3,lime juice,.75 oz,0.75
+The Old Cuban,Rum - Daiquiris,700,4,dark rum,1.5 oz,1.5
+The Old Cuban,Rum - Daiquiris,700,5,bitters,2 dash,0.04
+"Oh, Gosh!",Rum - Daiquiris,701,1,light rum,1.5 oz,1.5
+"Oh, Gosh!",Rum - Daiquiris,701,2,triple sec,1.5 oz,1.5
+"Oh, Gosh!",Rum - Daiquiris,701,3,lime juice,1 oz,1
+Night Cap,Rum - Daiquiris,702,1,light rum,2 oz,2
+Night Cap,Rum - Daiquiris,702,2,simple syrup,.5 oz,0.5
+New Orleans Buck,Rum - Daiquiris,703,1,light rum,1.5 oz,1.5
+New Orleans Buck,Rum - Daiquiris,703,2,orange juice,1 oz,1
+New Orleans Buck,Rum - Daiquiris,703,3,lemon juice,.5 oz,0.5
+Nevada Cocktail,Rum - Daiquiris,704,1,light rum,1.5 oz,1.5
+Nevada Cocktail,Rum - Daiquiris,704,2,grapefruit juice,1 oz,1
+Nevada Cocktail,Rum - Daiquiris,704,3,lime juice,.75 oz,0.75
+Nevada Cocktail,Rum - Daiquiris,704,4,simple syrup,.75 oz,0.75
+Nevada Cocktail,Rum - Daiquiris,704,5,bitters,1 dash,0.02
+Moonquake Shake,Rum - Daiquiris,705,1,dark rum,1.5 oz,1.5
+Moonquake Shake,Rum - Daiquiris,705,3,lemon juice,.25 oz,0.25
+Monkey Wrench,Rum - Daiquiris,706,1,light rum,1.5 oz,1.5
+Creme De Cafe,Brandy,707,2,light rum,.5 oz,0.5
+Creme De Cafe,Brandy,707,3,anisette,.5 oz,0.5
+Creme De Cafe,Brandy,707,4,half and half,1 oz,1
+Margarita,Cocktail Classics,708,1,blanco tequila,1.5 oz,1.5
+Margarita,Cocktail Classics,708,3,lime juice,.75 oz,0.75
+Mojito,Rum - Daiquiris,709,1,lime juice,3 oz,3
+Mojito,Rum - Daiquiris,709,3,simple syrup,.75 oz,0.75
+Mojito,Rum - Daiquiris,709,4,light rum,2 oz,2
+Champagne Flamingo,Vodka,710,1,vodka,.75 oz,0.75
+Thunder and Lightning Cocktail,Cocktail Classics,711,1,egg yolk,1 oz,1
+Thunder and Lightning Cocktail,Cocktail Classics,711,2,powdered sugar,1 oz,1
+Casco Bay Lemonade,Vodka,712,1,citrus flavored vodka,1.5 oz,1.5
+Casco Bay Lemonade,Vodka,712,2,simple syrup,2 oz,2
+Casco Bay Lemonade,Vodka,712,3,lemon juice,2 oz,2
+Casco Bay Lemonade,Vodka,712,4,cranberry juice,1 oz,1
+Caribbean Cruise,Vodka,713,1,vodka,1 oz,1
+Caribbean Cruise,Vodka,713,2,light rum,.25 oz,0.25
+Caribbean Cruise,Vodka,713,4,grenadine,1 oz,1
+Caribbean Cruise,Vodka,713,5,pineapple juice,4 oz,4
+Cappuccino Cocktail,Vodka,714,1,vodka,.75 oz,0.75
+Cappuccino Cocktail,Vodka,714,3,half and half,.75 oz,0.75
+Cappuccino Cocktail,Vodka,714,5,cranberry juice,5 oz,5
+Cape Codder,Tequila,715,1,vodka,1.5 oz,1.5
+Cape Codder,Tequila,715,2,cranberry juice,5 oz,5
+Cape Codder,Tequila,715,6,egg white,1 oz,1
+Baltimore Bracer Cocktail,Cocktail Classics,716,3,egg white,1 oz,1
+Caesar,Vodka,717,2,vodka,1.5 oz,1.5
+Bull Shot,Vodka,718,1,vodka,1.5 oz,1.5
+Bullfrog,Vodka,719,1,vodka,1.5 oz,1.5
+Bullfrog,Vodka,719,2,lemon juice,5 oz,5
+Boston Gold,Vodka,720,1,vodka,1.5 oz,1.5
+Boston Gold,Vodka,720,3,orange juice,2 oz,2
+Corpse Reviver No. 1,Brandy,721,3,sweet vermouth,1 oz,1
+Thanksgiving Special Cocktail,Cocktail Classics,722,2,old mr. boston dry gin,.75 oz,0.75
+Thanksgiving Special Cocktail,Cocktail Classics,722,3,dry vermouth,.75 oz,0.75
+Thanksgiving Special Cocktail,Cocktail Classics,722,4,lemon juice,.25 oz,0.25
+Tequini Cocktail,Cocktail Classics,723,2,dry vermouth,.5 oz,0.5
+Tequini Cocktail,Cocktail Classics,723,3,bitters,1 dash,0.02
+Bordeaux Cocktail,Vodka,724,1,citrus flavored vodka,1.5 oz,1.5
+Bolshoi Punch,Vodka,725,1,vodka,1 oz,1
+Bolshoi Punch,Vodka,725,2,lemon juice,.75 oz,0.75
+Bolshoi Punch,Vodka,725,3,simple syrup,.5 oz,0.5
+Bolshoi Punch,Vodka,725,4,light rum,.5 oz,0.5
+Blue Lagoon,Vodka,726,1,vodka,1 oz,1
+Blue Lagoon,Vodka,726,3,lemon juice,.5 oz,0.5
+Blue Lagoon,Vodka,726,4,simple syrup,.5 oz,0.5
+Bloody Mary,Vodka,728,1,vodka,1.5 oz,1.5
+Bloody Mary,Vodka,728,3,lime juice,.25 oz,0.25
+Bloody Bull,Vodka,730,1,vodka,1 oz,1
+The Blood Orange,Vodka,731,1,orange juice,2 oz,2
+Black Russian,Vodka,732,1,vodka,1.5 oz,1.5
+Black Magic,Vodka,733,1,vodka,1.5 oz,1.5
+Black Magic,Vodka,733,3,lemon juice,.25 oz,0.25
+Victor Collins,Cocktail Classics,735,3,lemon juice,3 oz,3
+Victor Collins,Cocktail Classics,735,4,powdered sugar,1 oz,1
+Snowball Cocktail,Cocktail Classics,736,1,old mr. boston dry gin,1.5 oz,1.5
+Violet Fizz,Cocktail Classics,737,1,lemon juice,.5 oz,0.5
+Violet Fizz,Cocktail Classics,737,2,powdered sugar,.5 oz,0.5
+Violet Fizz,Cocktail Classics,737,3,old mr. boston dry gin,1.5 oz,1.5
+Bikini,Vodka,738,1,vodka,1 oz,1
+Bikini,Vodka,738,2,light rum,.5 oz,0.5
+Bikini,Vodka,738,3,lemon juice,.5 oz,0.5
+Bikini,Vodka,738,5,simple syrup,.5 oz,0.5
+Cold Deck Cocktail,Brandy,739,1,brandy,1 oz,1
+Cold Deck Cocktail,Brandy,739,2,sweet vermouth,.5 oz,0.5
+The Big Crush,Vodka,740,2,triple sec,.5 oz,0.5
+The Big Crush,Vodka,740,4,lime juice,.5 oz,0.5
+Bianca,Vodka,741,2,citrus flavored vodka,1.5 oz,1.5
+Bianca,Vodka,741,5,simple syrup,1 oz,1
+Bianca,Vodka,741,6,lemon juice,1 oz,1
+Bella Fragolia,Vodka,742,3,vodka,2 oz,2
+Bella Fragolia,Vodka,742,4,lemon juice,1 oz,1
+Bella Fragolia,Vodka,742,5,simple syrup,1 oz,1
+Beer Buster,Vodka,743,1,vodka,1.5 oz,1.5
+Basil 8,Vodka,744,3,vodka,1.5 oz,1.5
+Basil 8,Vodka,744,4,lime juice,.75 oz,0.75
+Basil 8,Vodka,744,5,bitters,1 dash,0.02
+Shamrock Cocktail,Cocktail Classics,745,2,dry vermouth,.5 oz,0.5
+Aqueduct,Vodka,746,1,vodka,1.5 oz,1.5
+Aqueduct,Vodka,746,2,lime juice,.75 oz,0.75
+Aqueduct,Vodka,746,4,apricot flavored brandy,.5 oz,0.5
+Alfie Cocktail,Vodka,748,1,lemon juice,1.5 oz,1.5
+Alfie Cocktail,Vodka,748,2,pineapple juice,.75 oz,0.75
+Alfie Cocktail,Vodka,748,3,triple sec,.5 oz,0.5
+Admiral Perry,Vodka,749,3,dry vermouth,1 oz,1
+Admiral Perry,Vodka,749,4,white creme de cacao,1 oz,1
+Yellow Rose Of Texas,Tequila,750,1,blanco tequila,2 oz,2
+Yellow Rose Of Texas,Tequila,750,2,lemon juice,.75 oz,0.75
+Yellow Rose Of Texas,Tequila,750,3,simple syrup,.5 oz,0.5
+St. Patrick's Day Cocktail,Cocktail Classics,751,4,bitters,1 dash,0.02
+Waiting On Summer,Tequila,753,3,lime juice,.5 oz,0.5
+Waiting On Summer,Tequila,753,4,blanco tequila,1.5 oz,1.5
+Waiting On Summer,Tequila,753,5,simple syrup,.75 oz,0.75
+Prince's Smile Cocktail,Cocktail Classics,755,2,apple brandy,.5 oz,0.5
+Prince's Smile Cocktail,Cocktail Classics,755,3,old mr. boston dry gin,1 oz,1
+Prince's Smile Cocktail,Cocktail Classics,755,4,lemon juice,.25 oz,0.25
+Viva Villa,Tequila,756,2,blanco tequila,1.5 oz,1.5
+Viva Villa,Tequila,756,4,simple syrup,.5 oz,0.5
+Praire Chicken,Cocktail Classics,758,1,old mr. boston dry gin,1 oz,1
+Praire Chicken,Cocktail Classics,758,2,whole egg,1 oz,1
+Venial Sin,Tequila,759,1,blanco tequila,1.5 oz,1.5
+Venial Sin,Tequila,759,5,maraschino,.25 oz,0.25
+Vagabundo,Tequila,760,2,pineapple juice,1.5 oz,1.5
+Vagabundo,Tequila,760,4,lime juice,.5 oz,0.5
+The 21st Century,Tequila,761,3,blanco tequila,1.5 oz,1.5
+The 21st Century,Tequila,761,4,lime juice,.75 oz,0.75
+The 21st Century,Tequila,761,5,white creme de cacao,.75 oz,0.75
+Pollyanna Cocktail,Cocktail Classics,762,1,orange juice,3 slices,3
+Pollyanna Cocktail,Cocktail Classics,762,3,old mr. boston dry gin,2 oz,2
+Pollyanna Cocktail,Cocktail Classics,762,4,sweet vermouth,.5 oz,0.5
+Toreador,Tequila,763,1,blanco tequila,1.5 oz,1.5
+Toreador,Tequila,763,3,half and half,.5 oz,0.5
+Pink Lady Cocktail,Cocktail Classics,765,1,egg white,1 oz,1
+Pink Lady Cocktail,Cocktail Classics,765,2,grenadine,1 oz,1
+Pink Lady Cocktail,Cocktail Classics,765,4,old mr. boston dry gin,1.5 oz,1.5
+Tia Juanathan,Tequila,767,1,blanco tequila,1.5 oz,1.5
+Tia Juanathan,Tequila,767,2,lime juice,.5 oz,0.5
+Phoebe Snow Cocktail,Cocktail Classics,768,1,dubonnet,1.5 oz,1.5
+Tequonic,Tequila,769,1,blanco tequila,2 oz,2
+Tequonic,Tequila,769,2,lemon juice,.25 oz,0.25
+Tequini,Tequila,770,1,blanco tequila,1.5 oz,1.5
+Tequini,Tequila,770,2,dry vermouth,.5 oz,0.5
+Tequini,Tequila,770,3,bitters,1 dash,0.02
+Passion Daiquiri Cocktail,Cocktail Classics,771,2,lime juice,1 oz,1
+Passion Daiquiri Cocktail,Cocktail Classics,771,3,powdered sugar,1 oz,1
+Tequila Sunrise,Tequila,773,1,blanco tequila,2 oz,2
+Tequila Sunrise,Tequila,773,2,orange juice,4 oz,4
+Tequila Sunrise,Tequila,773,3,grenadine,.75 oz,0.75
+Coffee Grasshopper,Brandy,774,3,half and half,.75 oz,0.75
+Tequila Straight,Tequila,775,2,blanco tequila,1.5 oz,1.5
+Tequila Straight,Tequila,775,3,lime juice,1 oz,1
+Tequila Sour,Tequila,776,1,blanco tequila,2 oz,2
+Tequila Sour,Tequila,776,2,lemon juice,.75 oz,0.75
+Tequila Sour,Tequila,776,3,simple syrup,.75 oz,0.75
+Tequila Smash,Tequila,777,3,blanco tequila,2 oz,2
+Tequila Smash,Tequila,777,4,maraschino,.5 oz,0.5
+Tequila Smash,Tequila,777,5,lime juice,.5 oz,0.5
+Tequila Pink,Tequila,778,1,blanco tequila,1.5 oz,1.5
+Tequila Pink,Tequila,778,2,dry vermouth,1 oz,1
+Tequila Pink,Tequila,778,3,grenadine,.25 oz,0.25
+Tequila Old-Fashioned,Tequila,779,1,blanco tequila,1.5 oz,1.5
+Tequila Old-Fashioned,Tequila,779,2,simple syrup,1 oz,1
+Tequila Old-Fashioned,Tequila,779,3,bitters,1 dash,0.02
+Rob Roy Cocktail,Cocktail Classics,780,1,sweet vermouth,.75 oz,0.75
+Tequila Mockingbird,Tequila,781,3,blanco tequila,1.75 oz,1.75
+Tequila Matador,Tequila,782,1,blanco tequila,1.5 oz,1.5
+Tequila Matador,Tequila,782,2,pineapple juice,2 oz,2
+Tequila Matador,Tequila,782,3,lime juice,.5 oz,0.5
+Tequila Manhattan,Tequila,783,1,blanco tequila,2 oz,2
+Tequila Manhattan,Tequila,783,2,sweet vermouth,1 oz,1
+Tequila Manhattan,Tequila,783,3,bitters,1 dash,0.02
+Thunderclap Cocktail,Cocktail Classics,785,1,old mr. boston dry gin,.75 oz,0.75
+Thunder Cocktail,Cocktail Classics,786,1,powdered sugar,1 oz,1
+Thunder Cocktail,Cocktail Classics,786,2,egg yolk,1 oz,1
+Tequila Collins,Tequila,787,1,blanco tequila,2 oz,2
+Tequila Collins,Tequila,787,2,lemon juice,.5 oz,0.5
+Tequila Collins,Tequila,787,3,simple syrup,.5 oz,0.5
+White Lady Cocktail,Cocktail Classics,788,1,egg white,1 oz,1
+White Lady Cocktail,Cocktail Classics,788,2,powdered sugar,1 oz,1
+White Lady Cocktail,Cocktail Classics,788,4,old mr. boston dry gin,1.5 oz,1.5
+Tequila Canyon,Tequila,789,1,blanco tequila,1.5 oz,1.5
+Tequila Canyon,Tequila,789,2,triple sec,.25 oz,0.25
+Tequila Canyon,Tequila,789,3,cranberry juice,1 oz,1
+Tequila Canyon,Tequila,789,4,pineapple juice,1 oz,1
+Tequila Canyon,Tequila,789,5,orange juice,1 oz,1
+Chicago Cocktail,Brandy,790,2,brandy,1 oz,1
+Chicago Cocktail,Brandy,790,4,orange juice,.25 oz,0.25
+Chicago Cocktail,Brandy,790,5,maraschino,.25 oz,0.25
+Sunday Confession,Tequila,791,1,blanco tequila,1 oz,1
+Sunday Confession,Tequila,791,3,lemon juice,.5 oz,0.5
+Strawberry Margarita,Tequila,792,4,blanco tequila,1.5 oz,1.5
+Strawberry Margarita,Tequila,792,5,triple sec,.75 oz,0.75
+Western Rose Cocktail,Cocktail Classics,793,2,old mr. boston dry gin,1 oz,1
+Western Rose Cocktail,Cocktail Classics,793,3,dry vermouth,.5 oz,0.5
+Western Rose Cocktail,Cocktail Classics,793,4,lemon juice,.25 oz,0.25
+Widow's Kiss Cocktail,Cocktail Classics,794,3,benedictine,.5 oz,0.5
+Widow's Kiss Cocktail,Cocktail Classics,794,4,bitters,1 dash,0.02
+Spice Of Life,Tequila,795,3,simple syrup,.75 oz,0.75
+Spice Of Life,Tequila,795,5,lime juice,.75 oz,0.75
+Widow's Dream Cocktail,Cocktail Classics,796,1,benedictine,1.5 oz,1.5
+Widow's Dream Cocktail,Cocktail Classics,796,2,whole egg,1 oz,1
+Vodka Gypsy Cocktail,Cocktail Classics,797,2,benedictine,.75 oz,0.75
+Vodka Gypsy Cocktail,Cocktail Classics,797,3,bitters,1 dash,0.02
+South Of The Border,Tequila,798,1,blanco tequila,1 oz,1
+South Of The Border,Tequila,798,3,lime juice,.5 oz,0.5
+Violet Fizz Juice,Cocktail Classics,800,1,lemon juice,.5 oz,0.5
+Violet Fizz Juice,Cocktail Classics,800,2,powdered sugar,.5 oz,0.5
+Violet Fizz Juice,Cocktail Classics,800,3,old mr. boston dry gin,1.5 oz,1.5
+Smoked Margarita,Tequila,801,3,triple sec,1 oz,1
+Smoked Margarita,Tequila,801,4,lemon juice,.5 oz,0.5
+Smoked Margarita,Tequila,801,5,lime juice,.5 oz,0.5
+Sloe Tequila,Shooters,802,1,blanco tequila,1 oz,1
+Sloe Tequila,Shooters,802,3,lime juice,.5 oz,0.5
+Queen Elizabeth Cocktail,Cocktail Classics,803,1,old mr. boston dry gin,1.5 oz,1.5
+Queen Elizabeth Cocktail,Cocktail Classics,803,2,dry vermouth,.5 oz,0.5
+Queen Elizabeth Cocktail,Cocktail Classics,803,3,benedictine,1.5 oz,1.5
+Silk Stockings,Tequila,804,1,blanco tequila,1.5 oz,1.5
+Silk Stockings,Tequila,804,2,white creme de cacao,1 oz,1
+Silk Stockings,Tequila,804,4,grenadine,1 oz,1
+Orchid Cocktail,Cocktail Classics,805,1,old mr. boston dry gin,2 oz,2
+Orchid Cocktail,Cocktail Classics,805,2,egg white,1 oz,1
+Orange Milk Fizz,Cocktail Classics,806,1,lemon juice,.5 oz,0.5
+Orange Milk Fizz,Cocktail Classics,806,2,powdered sugar,1 oz,1
+Orange Milk Fizz,Cocktail Classics,806,3,orange juice,2 oz,2
+Orange Gin Rickey,Cocktail Classics,807,1,lime juice,.5 oz,0.5
+Orange Gin Rickey,Cocktail Classics,807,2,orange juice,2 oz,2
+Orange Gin Highball,Cocktail Classics,808,1,orange juice,2 oz,2
+Orange Gin Fizz,Cocktail Classics,809,1,lemon juice,.5 oz,0.5
+Orange Gin Fizz,Cocktail Classics,809,2,powdered sugar,1 oz,1
+Orange Gin Fizz,Cocktail Classics,809,3,orange juice,2 oz,2
+Orange Gin Collins,Cocktail Classics,810,1,lemon juice,.5 oz,0.5
+Orange Gin Collins,Cocktail Classics,810,2,orange juice,2 oz,2
+Sidewinder,Tequila,811,4,lime juice,.5 oz,0.5
+Orange Blossom Cocktail,Cocktail Classics,812,1,old mr. boston dry gin,1 oz,1
+Orange Blossom Cocktail,Cocktail Classics,812,2,orange juice,1 oz,1
+Orange Blossom Cocktail,Cocktail Classics,812,3,powdered sugar,.25 oz,0.25
+Shady Lady,Tequila,813,1,blanco tequila,1 oz,1
+Shady Lady,Tequila,813,3,grapefruit juice,4 oz,4
+Cherry Blossom,Brandy,814,2,brandy,1 oz,1
+Cherry Blossom,Brandy,814,3,cherry flavored brandy,.5 oz,0.5
+Cherry Blossom,Brandy,814,4,lemon juice,.5 oz,0.5
+Cherry Blossom,Brandy,814,5,triple sec,.25 oz,0.25
+The Sfozando,Tequila,815,3,dry vermouth,.5 oz,0.5
+The Sfozando,Tequila,815,4,benedictine,.5 oz,0.5
+The Sfozando,Tequila,815,5,bitters,1 dash,0.02
+Napoleon Cocktail,Cocktail Classics,816,1,old mr. boston dry gin,2 oz,2
+Napoleon Cocktail,Cocktail Classics,816,3,dubonnet,.5 oz,0.5
+Moulin Rouge Cocktail,Cocktail Classics,817,2,sweet vermouth,.75 oz,0.75
+Moulin Rouge Cocktail,Cocktail Classics,817,3,bitters,1 dash,0.02
+Sea Of Cortez,Tequila,818,1,blanco tequila,1.5 oz,1.5
+Sea Of Cortez,Tequila,818,2,lime juice,1 oz,1
+Sea Of Cortez,Tequila,818,4,orange juice,.25 oz,0.25
+Satin Sheets,Tequila,819,1,blanco tequila,1.5 oz,1.5
+Satin Sheets,Tequila,819,3,simple syrup,.5 oz,0.5
+Satin Sheets,Tequila,819,4,lime juice,.75 oz,0.75
+Santana Sling,Tequila,820,4,lime juice,.5 oz,0.5
+Rosita,Tequila,821,1,blanco tequila,1.5 oz,1.5
+Rosita,Tequila,821,2,sweet vermouth,.5 oz,0.5
+Rosita,Tequila,821,3,dry vermouth,.5 oz,0.5
+Rosita,Tequila,821,5,bitters,1 dash,0.02
+Mariposa Cocktail,Cocktail Classics,822,3,lemon juice,1 oz,1
+Mariposa Cocktail,Cocktail Classics,822,4,orange juice,1 oz,1
+Mariposa Cocktail,Cocktail Classics,822,5,grenadine,1 oz,1
+Margarita Cocktail,Cocktail Classics,823,3,lemon juice,1 oz,1
+The Refuge,Tequila,824,1,blanco tequila,1.5 oz,1.5
+The Refuge,Tequila,824,3,lime juice,.25 oz,0.25
+The Refuge,Tequila,824,4,grapefruit juice,.25 oz,0.25
+Manhattan Cocktail (dry),Cocktail Classics,825,1,dry vermouth,.75 oz,0.75
+Mamie Taylor,Cocktail Classics,826,1,lime juice,.5 oz,0.5
+Quetzalcoatl,Tequila,827,1,blanco tequila,1 oz,1
+Quetzalcoatl,Tequila,827,5,grapefruit juice,.5 oz,0.5
+Purple Pancho,Tequila,829,2,blanco tequila,1 oz,1
+Purple Pancho,Tequila,829,6,lemon juice,1 oz,1
+Midnight Express,Rum - Daiquiris,830,1,dark rum,1.5 oz,1.5
+Midnight Express,Rum - Daiquiris,830,2,triple sec,.5 oz,0.5
+Midnight Express,Rum - Daiquiris,830,3,lime juice,.75 oz,0.75
+Midnight Express,Rum - Daiquiris,830,4,lemon juice,.25 oz,0.25
+Midnight Express,Rum - Daiquiris,830,5,simple syrup,.25 oz,0.25
+London Special Cocktail,Cocktail Classics,831,3,bitters,2 dashes,2
+Mary Pickford Cocktail,Rum - Daiquiris,832,1,light rum,1.5 oz,1.5
+Mary Pickford Cocktail,Rum - Daiquiris,832,2,pineapple juice,.75 oz,0.75
+Mary Pickford Cocktail,Rum - Daiquiris,832,3,maraschino,.25 oz,0.25
+Mary Pickford Cocktail,Rum - Daiquiris,832,4,grenadine,.25 oz,0.25
+Charles Cocktail,Brandy,833,1,brandy,1.5 oz,1.5
+Charles Cocktail,Brandy,833,2,sweet vermouth,1.5 oz,1.5
+Charles Cocktail,Brandy,833,3,bitters,1 dash,0.02
+Martinique Rose,Rum - Daiquiris,834,2,amaretto,.5 oz,0.5
+Martinique Rose,Rum - Daiquiris,834,3,lime juice,.75 oz,0.75
+Martinique Rose,Rum - Daiquiris,834,4,grapefruit juice,.75 oz,0.75
+Mariposa,Rum - Daiquiris,835,1,light rum,1 oz,1
+Mariposa,Rum - Daiquiris,835,2,brandy,.5 oz,0.5
+Mariposa,Rum - Daiquiris,835,3,lemon juice,.5 oz,0.5
+Mariposa,Rum - Daiquiris,835,4,orange juice,.5 oz,0.5
+Mariposa,Rum - Daiquiris,835,5,grenadine,1 oz,1
+Mandeville,Rum - Daiquiris,836,1,light rum,1.5 oz,1.5
+Mandeville,Rum - Daiquiris,836,2,dark rum,1 oz,1
+Mandeville,Rum - Daiquiris,836,3,lemon juice,.5 oz,0.5
+Mandeville,Rum - Daiquiris,836,4,anisette,1 oz,1
+Mandeville,Rum - Daiquiris,836,5,grenadine,1 oz,1
+K.C.B. Cocktail,Cocktail Classics,837,2,old mr. boston dry gin,1.5 oz,1.5
+K.C.B. Cocktail,Cocktail Classics,837,4,lemon juice,.25 oz,0.25
+Malmaison,Rum - Daiquiris,838,2,light rum,1 oz,1
+Malmaison,Rum - Daiquiris,838,4,lemon juice,1 oz,1
+Mai-Tai (Trader Vic Version),Rum - Daiquiris,839,2,orange juice,.5 oz,0.5
+Mai-Tai (Trader Vic Version),Rum - Daiquiris,839,3,lime juice,1 oz,1
+Jersey Lightning Cocktail,Cocktail Classics,840,1,apple brandy,1.5 oz,1.5
+Jersey Lightning Cocktail,Cocktail Classics,840,2,sweet vermouth,.5 oz,0.5
+Jersey Lightning Cocktail,Cocktail Classics,840,3,lime juice,1 oz,1
+Lumination,Rum - Daiquiris,841,2,simple syrup,1 oz,1
+Lumination,Rum - Daiquiris,841,3,dark rum,2 oz,2
+Lumination,Rum - Daiquiris,841,5,bitters,1 dash,0.02
+Jamaica Glow Cocktail,Cocktail Classics,842,1,old mr. boston dry gin,1 oz,1
+Jamaica Glow Cocktail,Cocktail Classics,842,3,orange juice,1 oz,1
+Lounge Lizard,Rum - Daiquiris,843,1,dark rum,1 oz,1
+Lounge Lizard,Rum - Daiquiris,843,2,amaretto,.5 oz,0.5
+Jack-in-the-Box Cocktail,Cocktail Classics,844,1,apple brandy,1 oz,1
+Jack-in-the-Box Cocktail,Cocktail Classics,844,2,pineapple juice,1 oz,1
+Jack-in-the-Box Cocktail,Cocktail Classics,844,3,bitters,1 dash,0.02
+Irish Whisky Cocktail,Cocktail Classics,845,3,maraschino,.25 oz,0.25
+Irish Whisky Cocktail,Cocktail Classics,845,4,bitters,1 dash,0.02
+Look Out Below,Rum - Daiquiris,846,2,lime juice,.5 oz,0.5
+Look Out Below,Rum - Daiquiris,846,3,grenadine,.25 oz,0.25
+Little Princess Cocktail,Rum - Daiquiris,847,1,light rum,1.5 oz,1.5
+Little Princess Cocktail,Rum - Daiquiris,847,2,sweet vermouth,1.5 oz,1.5
+Little Devil Cocktail,Rum - Daiquiris,848,1,light rum,.75 oz,0.75
+Little Devil Cocktail,Rum - Daiquiris,848,2,gin,.75 oz,0.75
+Little Devil Cocktail,Rum - Daiquiris,848,3,lemon juice,.5 oz,0.5
+Little Devil Cocktail,Rum - Daiquiris,848,4,triple sec,.25 oz,0.25
+Champs Elysees Cocktail,Brandy,849,1,brandy,1 oz,1
+Champs Elysees Cocktail,Brandy,849,3,lemon juice,.5 oz,0.5
+Champs Elysees Cocktail,Brandy,849,4,simple syrup,1 oz,1
+Champs Elysees Cocktail,Brandy,849,5,bitters,1 dash,0.02
+Hop Toad Cocktail,Cocktail Classics,850,1,lime juice,.5 oz,0.5
+Level headed Cocktail,Rum - Daiquiris,851,4,simple syrup,.25 oz,0.25
+Level headed Cocktail,Rum - Daiquiris,851,5,bitters,2 dash,0.04
+La Vita Dulce,Rum - Daiquiris,852,3,lime juice,.75 oz,0.75
+La Vita Dulce,Rum - Daiquiris,852,4,simple syrup,.75 oz,0.75
+Hole-in-One Cocktail,Cocktail Classics,853,2,dry vermouth,.75 oz,0.75
+Hole-in-One Cocktail,Cocktail Classics,853,3,lemon juice,.25 oz,0.25
+Hole-in-One Cocktail,Cocktail Classics,853,4,bitters,1 dash,0.02
+Ko Adang,Rum - Daiquiris,854,1,dark rum,2 oz,2
+Ko Adang,Rum - Daiquiris,854,6,lime juice,.5 oz,0.5
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,1,light rum,2 oz,2
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,2,triple sec,.5 oz,0.5
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,3,lemon juice,1 oz,1
+Knickerbocker Special Cocktail,Rum - Daiquiris,855,4,orange juice,1 oz,1
+Hair Raiser Cocktail,Cocktail Classics,856,3,lemon juice,1 oz,1
+Green Opal Cocktail,Cocktail Classics,857,1,old mr. boston dry gin,.5 oz,0.5
+Jamaican Ginger,Rum - Daiquiris,858,1,light rum,1.5 oz,1.5
+Jamaican Ginger,Rum - Daiquiris,858,2,dark rum,1 oz,1
+Jamaican Ginger,Rum - Daiquiris,858,4,lime juice,.5 oz,0.5
+Jamaican Ginger,Rum - Daiquiris,858,5,bitters,4 dash,0.08
+Green Dragon Cocktail,Cocktail Classics,859,1,lemon juice,.5 oz,0.5
+Green Dragon Cocktail,Cocktail Classics,859,4,old mr. boston dry gin,1.5 oz,1.5
+Green Dragon Cocktail,Cocktail Classics,859,5,bitters,4 dash,0.08
+Jamaican Crawler,Rum - Daiquiris,861,1,light rum,1 oz,1
+Jamaican Crawler,Rum - Daiquiris,861,3,pineapple juice,3 oz,3
+Jamaican Crawler,Rum - Daiquiris,861,4,grenadine,1 oz,1
+Jade,Rum - Daiquiris,863,1,light rum,1.5 oz,1.5
+Jade,Rum - Daiquiris,863,2,lime juice,.5 oz,0.5
+Jade,Rum - Daiquiris,863,4,triple sec,.5 oz,0.5
+Jacqueline,Rum - Daiquiris,864,1,dark rum,2 oz,2
+Jacqueline,Rum - Daiquiris,864,2,triple sec,1 oz,1
+Jacqueline,Rum - Daiquiris,864,3,lime juice,1 oz,1
+Jacqueline,Rum - Daiquiris,864,4,simple syrup,1 oz,1
+Jack Sparrow Flip,Rum - Daiquiris,865,1,dark rum,2 oz,2
+Jack Sparrow Flip,Rum - Daiquiris,865,3,simple syrup,.75 oz,0.75
+Jack Sparrow Flip,Rum - Daiquiris,865,5,bitters,2 dash,0.04
+Irresistible,Rum - Daiquiris,866,1,light rum,1.5 oz,1.5
+Irresistible,Rum - Daiquiris,866,2,sweet vermouth,.5 oz,0.5
+Irresistible,Rum - Daiquiris,866,3,benedictine,.25 oz,0.25
+Irresistible,Rum - Daiquiris,866,4,lemon juice,.25 oz,0.25
+Carroll Cocktail,Brandy,867,1,brandy,1.5 oz,1.5
+Carroll Cocktail,Brandy,867,2,sweet vermouth,.75 oz,0.75
+Hush and Wonder,Rum - Daiquiris,868,2,light rum,2 oz,2
+Hush and Wonder,Rum - Daiquiris,868,3,lime juice,.75 oz,0.75
+Hush and Wonder,Rum - Daiquiris,868,4,simple syrup,.75 oz,0.75
+Hush and Wonder,Rum - Daiquiris,868,5,bitters,3 dash,0.06
+Hurricane Leah,Rum - Daiquiris,869,2,cherry flavored brandy,1 oz,1
+Hurricane Leah,Rum - Daiquiris,869,3,simple syrup,1.5 oz,1.5
+Hurricane Leah,Rum - Daiquiris,869,4,lemon juice,1.5 oz,1.5
+Hurricane Leah,Rum - Daiquiris,869,5,orange juice,3 oz,3
+Gimlet Cocktail,Cocktail Classics,870,1,lime juice,1 oz,1
+Gimlet Cocktail,Cocktail Classics,870,2,powdered sugar,1 oz,1
+Gimlet Cocktail,Cocktail Classics,870,3,old mr. boston dry gin,1.5 oz,1.5
+Hurricane,Rum - Daiquiris,871,3,lime juice,1 oz,1
+Hurricane,Rum - Daiquiris,871,4,orange juice,.75 oz,0.75
+Hop Toad,Rum - Daiquiris,872,1,light rum,.75 oz,0.75
+Hop Toad,Rum - Daiquiris,872,2,apricot flavored brandy,.75 oz,0.75
+Hop Toad,Rum - Daiquiris,872,3,lime juice,.5 oz,0.5
+The Holy Roller,Rum - Daiquiris,873,2,lime juice,.75 oz,0.75
+The Holy Roller,Rum - Daiquiris,873,5,bitters,2 dash,0.04
+Hemingway's Nog,Rum - Daiquiris,874,1,dark rum,1.5 oz,1.5
+Hemingway's Nog,Rum - Daiquiris,874,3,simple syrup,.25 oz,0.25
+Hemingway's Nog,Rum - Daiquiris,874,5,bitters,3 dash,0.06
+Flying Scotchman Cocktail,Cocktail Classics,875,1,sweet vermouth,1 oz,1
+Flying Scotchman Cocktail,Cocktail Classics,875,3,bitters,1 dash,0.02
+Havana Cocktail,Rum - Daiquiris,877,1,light rum,.75 oz,0.75
+Havana Cocktail,Rum - Daiquiris,877,2,pineapple juice,1.5 oz,1.5
+Havana Cocktail,Rum - Daiquiris,877,3,lemon juice,.25 oz,0.25
+Harvest Nectar,Rum - Daiquiris,878,1,light rum,1.5 oz,1.5
+Harvest Nectar,Rum - Daiquiris,878,2,pineapple juice,1 oz,1
+Harvest Nectar,Rum - Daiquiris,878,3,cranberry juice,1 oz,1
+Harvest Nectar,Rum - Daiquiris,878,4,orange juice,1 oz,1
+Harvest Nectar,Rum - Daiquiris,878,5,lemon juice,1 oz,1
+Fancy Brandy Cocktail,Cocktail Classics,879,2,bitters,1 dash,0.02
+Fancy Brandy Cocktail,Cocktail Classics,879,4,powdered sugar,.25 oz,0.25
+Fallen Angel Cocktail,Cocktail Classics,880,1,lime juice,1 oz,1
+Fallen Angel Cocktail,Cocktail Classics,880,2,old mr. boston dry gin,1.5 oz,1.5
+Fallen Angel Cocktail,Cocktail Classics,880,3,bitters,1 dash,0.02
+The Poncho,Tequila,881,2,dry vermouth,.5 oz,0.5
+The Poncho,Tequila,881,3,maraschino,.5 oz,0.5
+The Poncho,Tequila,881,4,bitters,2 dash,0.04
+Hai Karate,Rum - Daiquiris,882,1,dark rum,2 oz,2
+Hai Karate,Rum - Daiquiris,882,2,lime juice,1 oz,1
+Hai Karate,Rum - Daiquiris,882,3,pineapple juice,1 oz,1
+Hai Karate,Rum - Daiquiris,882,4,orange juice,1 oz,1
+Hai Karate,Rum - Daiquiris,882,6,bitters,1 dash,0.02
+Cara Sposa,Brandy,883,2,triple sec,.75 oz,0.75
+Cara Sposa,Brandy,883,3,half and half,.5 oz,0.5
+Traditional Martini (Dry),Cocktail Classics,884,1,gin,1 oz,1
+Traditional Martini (Dry),Cocktail Classics,884,2,dry vermouth,1 oz,1
+Traditional Martini (Dry),Cocktail Classics,884,3,bitters,1 dash,0.02
+Pina Agave,Tequila,885,2,blanco tequila,1.5 oz,1.5
+Pina Agave,Tequila,885,3,pineapple juice,1 oz,1
+Pina Agave,Tequila,885,4,lemon juice,.75 oz,0.75
+Grande Guignol,Rum - Daiquiris,886,1,dark rum,1.5 oz,1.5
+Grande Guignol,Rum - Daiquiris,886,4,lime juice,.75 oz,0.75
+Pancho Villa,Tequila,887,3,sweet vermouth,.75 oz,0.75
+Pancho Villa,Tequila,887,4,bitters,1 dash,0.02
+Paloma (Natural),Tequila,888,1,blanco tequila,2 oz,2
+Paloma (Natural),Tequila,888,2,grapefruit juice,2 oz,2
+Golden Friendship,Rum - Daiquiris,889,1,light rum,1 oz,1
+Golden Friendship,Rum - Daiquiris,889,2,sweet vermouth,1 oz,1
+Golden Friendship,Rum - Daiquiris,889,3,amaretto,1 oz,1
+Paloma,Tequila,890,1,blanco tequila,2 oz,2
+Pacific Sunshine,Tequila,891,2,blanco tequila,1.5 oz,1.5
+Pacific Sunshine,Tequila,891,4,simple syrup,.75 oz,0.75
+Pacific Sunshine,Tequila,891,6,bitters,1 dash,0.02
+Golden Eclipse,Rum - Daiquiris,892,1,dark rum,1.5 oz,1.5
+Golden Eclipse,Rum - Daiquiris,892,3,lemon juice,.5 oz,0.5
+Golden Eclipse,Rum - Daiquiris,892,4,bitters,1 dash,0.02
+Diplomat Cocktail,Cocktail Classics,893,1,dry vermouth,1.5 oz,1.5
+Diplomat Cocktail,Cocktail Classics,893,2,sweet vermouth,.5 oz,0.5
+Diplomat Cocktail,Cocktail Classics,893,3,bitters,2 dash,0.04
+Diplomat Cocktail,Cocktail Classics,893,4,maraschino,.5 oz,0.5
+Oldest Temptation,Tequila,894,3,lemon juice,.5 oz,0.5
+Oldest Temptation,Tequila,894,4,triple sec,.5 oz,0.5
+Oldest Temptation,Tequila,894,5,simple syrup,.25 oz,0.25
+Oldest Temptation,Tequila,894,6,bitters,1 dash,0.02
+Ginger Grapefruit Rickey,Rum - Daiquiris,895,1,light rum,2 oz,2
+Ginger Grapefruit Rickey,Rum - Daiquiris,895,2,grapefruit juice,2 oz,2
+Ginger Grapefruit Rickey,Rum - Daiquiris,895,4,lime juice,.5 oz,0.5
+Calvados Cocktail,Brandy,896,2,orange juice,1.5 oz,1.5
+Calvados Cocktail,Brandy,896,3,triple sec,.75 oz,0.75
+Calvados Cocktail,Brandy,896,4,bitters,1 dash,0.02
+Daiquiri Cocktail,Cocktail Classics,897,1,lime juice,1 oz,1
+Daiquiri Cocktail,Cocktail Classics,897,2,powdered sugar,1 oz,1
+The Oaxaca Old-Fashioned,Tequila,898,4,bitters,2 dash,0.04
+Cuban Special Cocktail,Cocktail Classics,899,1,pineapple juice,1 oz,1
+Cuban Special Cocktail,Cocktail Classics,899,2,lime juice,.5 oz,0.5
+Gaugin,Rum - Daiquiris,900,1,light rum,2 oz,2
+Gaugin,Rum - Daiquiris,900,2,lemon juice,.5 oz,0.5
+Gaugin,Rum - Daiquiris,900,3,lime juice,.5 oz,0.5
+The Nomad South,Tequila,901,1,blanco tequila,2 oz,2
+The Nomad South,Tequila,901,2,orange juice,1 oz,1
+The Nomad South,Tequila,901,5,lime juice,.5 oz,0.5
+The Nomad South,Tequila,901,6,bitters,1 dash,0.02
+Creole Lady Cocktail,Cocktail Classics,902,3,grenadine,1 oz,1
+No. 8,Tequila,903,4,bitters,2 dash,0.04
+Fog Cutter,Rum - Daiquiris,904,1,light rum,1.5 oz,1.5
+Fog Cutter,Rum - Daiquiris,904,2,brandy,.5 oz,0.5
+Fog Cutter,Rum - Daiquiris,904,3,gin,.5 oz,0.5
+Fog Cutter,Rum - Daiquiris,904,4,lemon juice,1.5 oz,1.5
+Fog Cutter,Rum - Daiquiris,904,5,orange juice,1 oz,1
+Mexicola,Tequila,905,1,blanco tequila,2 oz,2
+Mexicola,Tequila,905,2,lime juice,.5 oz,0.5
+Floridita No. 3,Rum - Daiquiris,906,1,light rum,2 oz,2
+Floridita No. 3,Rum - Daiquiris,906,2,lime juice,.75 oz,0.75
+Floridita No. 3,Rum - Daiquiris,906,3,grapefruit juice,.5 oz,0.5
+Floridita No. 3,Rum - Daiquiris,906,4,maraschino,.5 oz,0.5
+Floridita No. 3,Rum - Daiquiris,906,5,simple syrup,.5 oz,0.5
+Mexican Monk,Tequila,907,4,benedictine,.25 oz,0.25
+Floridita No. 1,Rum - Daiquiris,908,1,light rum,1.5 oz,1.5
+Floridita No. 1,Rum - Daiquiris,908,2,lime juice,.5 oz,0.5
+Floridita No. 1,Rum - Daiquiris,908,3,sweet vermouth,.5 oz,0.5
+Floridita No. 1,Rum - Daiquiris,908,4,white creme de cacao,1 oz,1
+Floridita No. 1,Rum - Daiquiris,908,5,grenadine,1 oz,1
+Mexican Madras,Tequila,909,1,blanco tequila,1.5 oz,1.5
+Mexican Madras,Tequila,909,2,cranberry juice,2 oz,2
+Mexican Madras,Tequila,909,3,orange juice,1 oz,1
+Mexican Madras,Tequila,909,4,lime juice,.25 oz,0.25
+Cadiz,Brandy,910,3,triple sec,.5 oz,0.5
+Cadiz,Brandy,910,4,half and half,.5 oz,0.5
+Chocolate Soldier Cocktail,Cocktail Classics,911,1,lime juice,.5 oz,0.5
+Chocolate Soldier Cocktail,Cocktail Classics,911,2,dubonnet,.75 oz,0.75
+Chocolate Soldier Cocktail,Cocktail Classics,911,3,old mr. boston dry gin,1.5 oz,1.5
+Fireman's Sour,Rum - Daiquiris,912,1,light rum,2 oz,2
+Fireman's Sour,Rum - Daiquiris,912,2,lime juice,2 oz,2
+Fireman's Sour,Rum - Daiquiris,912,3,simple syrup,.25 oz,0.25
+Fireman's Sour,Rum - Daiquiris,912,4,grenadine,.25 oz,0.25
+Fat Like Buddha,Rum - Daiquiris,913,1,dark rum,2 oz,2
+Fat Like Buddha,Rum - Daiquiris,913,3,benedictine,.25 oz,0.25
+Fat Like Buddha,Rum - Daiquiris,913,4,triple sec,.25 oz,0.25
+Cherry Blossom Cocktail,Cocktail Classics,914,4,grenadine,1.5 oz,1.5
+Cherry Blossom Cocktail,Cocktail Classics,914,5,lemon juice,2 oz,2
+Fair-and-Warmer Cocktail,Rum - Daiquiris,915,1,light rum,1.5 oz,1.5
+Fair-and-Warmer Cocktail,Rum - Daiquiris,915,2,sweet vermouth,.75 oz,0.75
+Fair-and-Warmer Cocktail,Rum - Daiquiris,915,3,triple sec,.5 oz,0.5
+Chelsea Sidecar Cocktail,Cocktail Classics,916,1,lemon juice,.25 oz,0.25
+Chelsea Sidecar Cocktail,Cocktail Classics,916,3,old mr. boston dry gin,.75 oz,0.75
+Mexican Firing Squad,Tequila,917,1,blanco tequila,2 oz,2
+Mexican Firing Squad,Tequila,917,2,simple syrup,1 oz,1
+Mexican Firing Squad,Tequila,917,3,lime juice,.75 oz,0.75
+Mexican Firing Squad,Tequila,917,5,bitters,2 dash,0.04
+Mexicana,Tequila,918,1,blanco tequila,.5 oz,0.5
+Mexicana,Tequila,918,2,lemon juice,1 oz,1
+Mexicana,Tequila,918,3,pineapple juice,.5 oz,0.5
+Mexicana,Tequila,918,4,grenadine,1 oz,1
+El Presidente Cocktail No. 2,Rum - Daiquiris,919,1,light rum,1.5 oz,1.5
+El Presidente Cocktail No. 2,Rum - Daiquiris,919,2,dry vermouth,.75 oz,0.75
+El Presidente Cocktail No. 2,Rum - Daiquiris,919,3,bitters,1 dash,0.02
+Margarita Tequila,Shooters,920,2,blanco tequila,1.5 oz,1.5
+Margarita Tequila,Shooters,920,4,lime juice,.75 oz,0.75
+Lillypad,Tequila,921,1,blanco tequila,1.5 oz,1.5
+Lillypad,Tequila,921,4,lime juice,.75 oz,0.75
+X. Y. Z. Cocktail,Cocktail Classics,922,1,lemon juice,1 oz,1
+La Ultima Palabra,Tequila,923,1,blanco tequila,.75 oz,0.75
+La Ultima Palabra,Tequila,923,2,grapefruit juice,.75 oz,0.75
+La Ultima Palabra,Tequila,923,3,lime juice,.75 oz,0.75
+La Ultima Palabra,Tequila,923,5,maraschino,.75 oz,0.75
+Bull's Milk,Brandy,925,1,brandy,1.5 oz,1.5
+Bull's Milk,Brandy,925,2,light rum,1 oz,1
+Bull's Milk,Brandy,925,3,simple syrup,.25 oz,0.25
+La Bomba,Tequila,926,3,triple sec,.75 oz,0.75
+La Bomba,Tequila,926,4,pineapple juice,1.5 oz,1.5
+La Bomba,Tequila,926,5,orange juice,1.5 oz,1.5
+La Bomba,Tequila,926,6,lime juice,2 oz,2
+Jinx Cocktail,Tequila,927,1,blanco tequila,1 oz,1
+Jinx Cocktail,Tequila,927,2,orange juice,.75 oz,0.75
+Jinx Cocktail,Tequila,927,4,grapefruit juice,1 oz,1
+The Interesting Cocktail,Tequila,928,1,blanco tequila,2 oz,2
+The Interesting Cocktail,Tequila,928,4,lemon juice,.75 oz,0.75
+The Interesting Cocktail,Tequila,928,5,grapefruit juice,1 oz,1
+Hot Pants,Tequila,929,2,blanco tequila,1.5 oz,1.5
+Hot Pants,Tequila,929,4,grapefruit juice,.5 oz,0.5
+Hot Pants,Tequila,929,5,simple syrup,2 oz,2
+High Plains Drifter No. 1,Tequila,930,2,blanco tequila,2 oz,2
+High Plains Drifter No. 1,Tequila,930,3,lime juice,.75 oz,0.75
+High Plains Drifter No. 1,Tequila,930,5,bitters,1 dash,0.02
+Hairy Sunrise,Tequila,931,1,blanco tequila,.75 oz,0.75
+Hairy Sunrise,Tequila,931,2,vodka,.75 oz,0.75
+Hairy Sunrise,Tequila,931,3,triple sec,.5 oz,0.5
+Hairy Sunrise,Tequila,931,4,orange juice,3 oz,3
+Guadalajara,Tequila,932,1,blanco tequila,2 oz,2
+Guadalajara,Tequila,932,2,dry vermouth,1 oz,1
+Guadalajara,Tequila,932,3,benedictine,.5 oz,0.5
+Frostbite,Tequila,933,1,blanco tequila,1 oz,1
+Frostbite,Tequila,933,2,white creme de cacao,.75 oz,0.75
+Flower Power,Tequila,934,1,blanco tequila,2 oz,2
+Flower Power,Tequila,934,2,grapefruit juice,1 oz,1
+Flower Power,Tequila,934,4,egg white,1 oz,1
+Flower Power,Tequila,934,5,orange juice,3 oz,3
+Flower Power,Tequila,934,6,bitters,2 dash,0.04
+Cablegram Highball,Cocktail Classics,935,1,lemon juice,.5 oz,0.5
+Cablegram Highball,Cocktail Classics,935,2,powdered sugar,1 oz,1
+Cabaret Cocktail,Cocktail Classics,936,1,old mr. boston dry gin,1.5 oz,1.5
+Cabaret Cocktail,Cocktail Classics,936,2,bitters,2 dash,0.04
+Cabaret Cocktail,Cocktail Classics,936,3,dry vermouth,.5 oz,0.5
+Cabaret Cocktail,Cocktail Classics,936,4,benedictine,.25 oz,0.25
+Bulla's Eye,Brandy,937,1,brandy,1 oz,1
+El Oso (The Bear),Tequila,938,3,maraschino,.5 oz,0.5
+El Oso (The Bear),Tequila,938,4,bitters,2 dash,0.04
+El Ni_o,Tequila,939,1,lime juice,6,6
+El Ni_o,Tequila,939,3,simple syrup,.75 oz,0.75
+El Ni_o,Tequila,939,4,blanco tequila,2 oz,2
+El Molino,Tequila,940,4,white creme de cacao,.25 oz,0.25
+Bucks Fizz,Cocktail Classics,941,1,orange juice,2 oz,2
+Dirty Daisy,Tequila,942,5,lime juice,1 oz,1
+Diablo,Tequila,943,1,blanco tequila,1.5 oz,1.5
+Diablo,Tequila,943,3,lime juice,.5 oz,0.5
+Count Camillo's Paloma,Tequila,944,1,blanco tequila,.75 oz,0.75
+Count Camillo's Paloma,Tequila,944,2,sweet vermouth,.75 oz,0.75
+Count Camillo's Paloma,Tequila,944,4,grapefruit juice,2 oz,2
+Company B,Tequila,945,2,blanco tequila,1.5 oz,1.5
+Company B,Tequila,945,4,triple sec,.5 oz,0.5
+Company B,Tequila,945,5,lemon juice,.5 oz,0.5
+Chupa Cabra,Tequila,946,1,blanco tequila,2 oz,2
+Chupa Cabra,Tequila,946,2,grapefruit juice,.75 oz,0.75
+Chupa Cabra,Tequila,946,3,lime juice,.5 oz,0.5
+Chupa Cabra,Tequila,946,5,simple syrup,.5 oz,0.5
+Chupa Cabra,Tequila,946,6,bitters,1 dash,0.02
+Chinchona,Tequila,947,3,orange juice,.5 oz,0.5
+Chinchona,Tequila,947,4,bitters,2 dash,0.04
+Chapala,Tequila,948,2,orange juice,1.5 oz,1.5
+Chapala,Tequila,948,3,lemon juice,.75 oz,0.75
+Chapala,Tequila,948,4,grenadine,.25 oz,0.25
+Bulldog Cocktail,Brandy,949,1,cherry flavored brandy,1.5 oz,1.5
+Bulldog Cocktail,Brandy,949,2,gin,.75 oz,0.75
+Bulldog Cocktail,Brandy,949,3,lemon juice,.5 oz,0.5
+Boston Sidecar Cocktail,Cocktail Classics,950,4,lime juice,.5 oz,0.5
+Catalina Margarita,Tequila,951,1,blanco tequila,1.5 oz,1.5
+Catalina Margarita,Tequila,951,4,simple syrup,2 oz,2
+Catalina Margarita,Tequila,951,5,lemon juice,2 oz,2
+Camino Del Ray,Tequila,952,4,bitters,1 dash,0.02
+Cactus Berry,Tequila,953,2,blanco tequila,1.25 oz,1.25
+Cactus Berry,Tequila,953,5,lemon juice,.25 oz,0.25
+Bolero Cocktail,Cocktail Classics,954,2,apple brandy,.75 oz,0.75
+Bolero Cocktail,Cocktail Classics,954,3,sweet vermouth,.25 oz,0.25
+Bum's Rush,Tequila,955,1,blanco tequila,1.5 oz,1.5
+Bum's Rush,Tequila,955,2,triple sec,.75 oz,0.75
+Bum's Rush,Tequila,955,4,lime juice,1 oz,1
+Brave Bull,Tequila,956,1,blanco tequila,1.5 oz,1.5
+Blue Margarita,Tequila,957,2,blanco tequila,1.5 oz,1.5
+Bloody Maria,Tequila,958,1,blanco tequila,1 oz,1
+Bloody Maria,Tequila,958,3,lemon juice,.25 oz,0.25
+Pineapple Dream Cocktail,Cocktail Classics,959,1,pineapple juice,.5 oz,0.5
+Pineapple Dream Cocktail,Cocktail Classics,959,2,lime juice,.5 oz,0.5
+Big Red Hooter,Tequila,960,1,blanco tequila,1 oz,1
+Big Red Hooter,Tequila,960,2,amaretto,.75 oz,0.75
+Big Red Hooter,Tequila,960,3,pineapple juice,2 oz,2
+Big Red Hooter,Tequila,960,4,grenadine,.5 oz,0.5
+Blood Bronx Cocktail,Cocktail Classics,961,1,old mr. boston dry gin,1.5 oz,1.5
+Blood Bronx Cocktail,Cocktail Classics,961,2,dry vermouth,1.5 oz,1.5
+Blood Bronx Cocktail,Cocktail Classics,961,3,orange juice,.25 oz,0.25
+Bravo,Tequila,962,3,bitters,2 dash,0.04
+Amante Picante,Tequila,963,3,blanco tequila,2 oz,2
+Amante Picante,Tequila,963,4,lime juice,1 oz,1
+Amante Picante,Tequila,963,5,simple syrup,1 oz,1
+Brunswick Street Cocktail,Brandy,964,3,egg yolk,1 oz,1
+Alamo Splash,Tequila,966,1,blanco tequila,1.5 oz,1.5
+Alamo Splash,Tequila,966,2,orange juice,1 oz,1
+Alamo Splash,Tequila,966,3,pineapple juice,.5 oz,0.5
+Alamo Splash,Tequila,966,4,lemon juice,1 oz,1
+Betsy Ross Cocktail,Cocktail Classics,967,2,port,1.5 oz,1.5
+Betsy Ross Cocktail,Cocktail Classics,967,6,old mr. boston dry gin,1.25 oz,1.25
+Bermuda Rose Cocktail,Cocktail Classics,968,1,old mr. boston dry gin,1.25 oz,1.25
+Bermuda Rose Cocktail,Cocktail Classics,968,3,grenadine,1.5 oz,1.5
+Yokahama Romance,Gin,969,2,gin,1 oz,1
+Yokahama Romance,Gin,969,3,maraschino,.25 oz,0.25
+Yale Cocktail,Gin,970,1,gin,1.5 oz,1.5
+Yale Cocktail,Gin,970,2,dry vermouth,.5 oz,0.5
+Yale Cocktail,Gin,970,4,bitters,1 dash,0.02
+Xanthia Cocktail,Gin,971,1,gin,.75 oz,0.75
+Xanthia Cocktail,Gin,971,2,cherry flavored brandy,.75 oz,0.75
+Woodstock,Gin,972,1,gin,1.5 oz,1.5
+Woodstock,Gin,972,2,lemon juice,1 oz,1
+Woodstock,Gin,972,4,bitters,1 dash,0.02
+Wolf's Bite,Gin,973,1,gin,1.5 oz,1.5
+Wolf's Bite,Gin,973,2,grapefruit juice,1 oz,1
+Barbary Coast Cocktail,Cocktail Classics,974,1,old mr. boston dry gin,.5 oz,0.5
+The Winkle,Gin,975,2,gin,2 oz,2
+The Winkle,Gin,975,3,lime juice,1 oz,1
+The Winkle,Gin,975,5,simple syrup,.5 oz,0.5
+The Winkle,Gin,975,6,lemon juice,4 oz,4
+The Wink,Gin,976,2,gin,2 oz,2
+The Wink,Gin,976,3,triple sec,.25 oz,0.25
+The Wink,Gin,976,4,simple syrup,.25 oz,0.25
+The Wink,Gin,976,5,bitters,2 dash,0.04
+Will Rogers,Gin,977,1,gin,1.5 oz,1.5
+Will Rogers,Gin,977,2,dry vermouth,.5 oz,0.5
+Will Rogers,Gin,977,3,orange juice,.5 oz,0.5
+Will Rogers,Gin,977,4,triple sec,1 oz,1
+Brandy Vermouth Cocktail,Brandy,978,1,brandy,2 oz,2
+Brandy Vermouth Cocktail,Brandy,978,2,sweet vermouth,.5 oz,0.5
+Brandy Vermouth Cocktail,Brandy,978,3,bitters,1 dash,0.02
+White Spider,Gin,979,1,gin,1 oz,1
+White Spider,Gin,979,2,lemon juice,.75 oz,0.75
+White Spider,Gin,979,3,triple sec,.5 oz,0.5
+White Spider,Gin,979,4,simple syrup,.25 oz,0.25
+White Lady,Gin,980,1,gin,1.5 oz,1.5
+White Lady,Gin,980,2,triple sec,.75 oz,0.75
+Western Rose,Gin,981,1,gin,1 oz,1
+Western Rose,Gin,981,2,dry vermouth,.5 oz,0.5
+Western Rose,Gin,981,3,apricot flavored brandy,.5 oz,0.5
+Western Rose,Gin,981,4,lemon juice,1 oz,1
+May Blosson Fizz,Cocktail Classics,982,1,grenadine,1 oz,1
+May Blosson Fizz,Cocktail Classics,982,2,lemon juice,.5 oz,0.5
+Wembly Cocktail,Gin,983,1,gin,1.5 oz,1.5
+Wembly Cocktail,Gin,983,2,dry vermouth,.75 oz,0.75
+Wembly Cocktail,Gin,983,3,apple brandy,.5 oz,0.5
+Wembly Cocktail,Gin,983,4,apricot flavored brandy,.5 oz,0.5
+Apple Pie Cocktail,Cocktail Classics,984,2,sweet vermouth,.75 oz,0.75
+Apple Pie Cocktail,Cocktail Classics,984,4,grenadine,.5 oz,0.5
+Apple Pie Cocktail,Cocktail Classics,984,5,lemon juice,1 oz,1
+Water Lily,Gin,985,1,gin,.75 oz,0.75
+Water Lily,Gin,985,2,triple sec,.75 oz,0.75
+Water Lily,Gin,985,4,lemon juice,.75 oz,0.75
+Wallis Blue Cocktail,Gin,986,1,lime juice,1,1
+Wallis Blue Cocktail,Gin,986,2,gin,1 oz,1
+Wallis Blue Cocktail,Gin,986,3,triple sec,1 oz,1
+Minnehaha Cocktail,Cocktail Classics,987,1,orange juice,.25 oz,0.25
+Minnehaha Cocktail,Cocktail Classics,987,2,dry vermouth,.5 oz,0.5
+Minnehaha Cocktail,Cocktail Classics,987,3,sweet vermouth,.5 oz,0.5
+Minnehaha Cocktail,Cocktail Classics,987,4,old mr. boston dry gin,1 oz,1
+Wallick Cocktail,Gin,988,1,gin,1.5 oz,1.5
+Wallick Cocktail,Gin,988,2,dry vermouth,1.5 oz,1.5
+Wallick Cocktail,Gin,988,3,triple sec,1 oz,1
+Waikiki Beachcomber,Gin,989,1,gin,.75 oz,0.75
+Waikiki Beachcomber,Gin,989,2,triple sec,.75 oz,0.75
+Waikiki Beachcomber,Gin,989,3,pineapple juice,.5 oz,0.5
+Vow Of Silence,Gin,990,1,gin,1.5 oz,1.5
+Vow Of Silence,Gin,990,2,grapefruit juice,.75 oz,0.75
+Vow Of Silence,Gin,990,3,lime juice,.5 oz,0.5
+Vow Of Silence,Gin,990,6,simple syrup,.25 oz,0.25

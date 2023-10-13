@@ -1,0 +1,48 @@
+---
+title: "BSMM-lab-3"
+subtitle: "BSMM 8740 Fall 2023"
+author: "Add your name here"
+date: "Add the date here"
+format: html
+editor: visual
+self-contained: true
+---
+
+## Setup
+
+Load packages and data:
+
+```{r load-pkg-data}
+#| message: false
+boston_cocktails <- readr::read_csv('data/boston_cocktails.csv')
+```
+
+## Exercises
+
+### Exercise 1
+
+The median measure amount across across all cocktails is \_\_\_.
+
+### Exercise 2
+
+The **Leap Frog Highball** contains \_\_\_ of gin
+
+### Exercise 3
+
+\_\_\_ predictor variables are prepped by the recipe.
+
+### Exercise 4
+
+On average the most used ingredient in the Boston Cocktails dataset is \_\_\_\_.
+
+### Exercise 5
+
+Describe describe the drinks represented by PC1?
+
+### Exercise 6
+
+The characteristic alcoholic beverage of each of the first 4 principle components is \_\_\_.
+
+### Exercise 7
+
+How would you interpret the results of a PCA analysis for a client?
